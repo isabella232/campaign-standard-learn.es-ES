@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 6%
+source-wordcount: '315'
+ht-degree: 5%
 
 ---
 
@@ -55,25 +55,34 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 ## Tutoriales del panel de control
 
 * **Administración de servidores SFTP**
-   <br>
+
    *Obtenga información sobre cómo supervisar la capacidad del servidor, incluir direcciones IP en la lista de direcciones permitidas y agregar claves SSH*
 
    * [Monitoreo de la capacidad del servidor, lista blanca de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
    * [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
    * [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *Aprenda a delegar completamente un subdominio a Adobe Campaign*
-* **[Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *Descubra cómo puede agregar certificados SSL para proteger los subdominios.*
-* **[Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *Descubra cómo puede realizar la vista del estado de los certificados SSL de sus subdominios, así como las renovaciones de solicitudes.*
-* **[Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *Obtenga información sobre cómo agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campañas.*
 
-* **[Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
+
+* **[Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)**
+
    *Cómo solucionar problemas del Panel de control*
 
 ## Recursos adicionales
 
-* [[!Centro de ayuda del Panel de control UICONTROL]](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda del panel de control](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
 

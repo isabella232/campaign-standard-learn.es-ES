@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard
 translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 9%
+source-wordcount: '509'
+ht-degree: 8%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 9%
       + [Crear un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar una prueba, preparar y enviar un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Probar los mensajes de correo electrónico con perfiles objetivo](/help/communication-channels/email/profile-substitution.md)
       + [Revisar un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,8 @@ ht-degree: 9%
    + Móvil {#mobile}
       + SMS{#sms}
          + [Crear un envío SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Crear envíos multilingües de correo electrónico y SMS](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificaciones push {#push}
          + [Crear una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Crear una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -111,6 +111,7 @@ ht-degree: 9%
       + [Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Conector de datos de la plataforma de Adobe Experience {adobe-experience-platform-data-Connector}
       + [Explicación del conector de datos de la plataforma Adobe Experience](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -128,3 +129,5 @@ ht-degree: 9%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
++ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

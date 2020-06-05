@@ -33,7 +33,7 @@ Documentación:
 
 * [Acerca del servicio Audience Destinations](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 * [Cómo crear una asignación de destino](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
-* [Cómo crear una Plantilla de envíos](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
+* [Cómo crear una Plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
 
 Recursos de vídeo:
 

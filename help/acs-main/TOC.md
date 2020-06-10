@@ -111,7 +111,6 @@ ht-degree: 8%
       + [Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
-      + [Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Conector de datos de la plataforma de Adobe Experience {adobe-experience-platform-data-Connector}
       + [Explicación del conector de datos de la plataforma Adobe Experience](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

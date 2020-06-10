@@ -17,9 +17,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **[Panel de control Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
-   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
-
 * **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Obtenga información sobre cómo configurar y ejecutar un flujo de trabajo con la actividad de API externa.*
 

@@ -74,10 +74,6 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
    *Obtenga información sobre cómo agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campañas.*
 
-* **[Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
-
-   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
-
 * **[Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)**
 
    *Cómo solucionar problemas del Panel de control*

@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Obtenga información sobre cómo acceder a la administración de SFTP y conectar
 
 Para acceder a la Administración de SFTP en el Panel de control, vaya a:
 
-* [Inicio](https://experience.adobe.com/#/home) de Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **Tarjeta SFTP**
+* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **Tarjeta SFTP**
 
    o
 * Directamente desde la dirección URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
@@ -33,7 +33,7 @@ Para acceder a la Administración de SFTP en el Panel de control, vaya a:
 
 La conexión a los servidores SFTP requiere:
 
-* [!!UICONTROL Lista blanca] de la dirección IP desde la que se conecta al servidor SFTP
+* [!!UICONTROL permite enumerar] la dirección IP desde la que se conecta al servidor SFTP
 * Par de clave pública/privada que debe registrarse con Adobe Campaign
 * Si se conecta directamente al servidor SFTP, también necesitará el software de cliente SFTP
 

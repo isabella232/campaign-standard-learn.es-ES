@@ -3,7 +3,7 @@ title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **[Panel de control Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Panel de control: generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
 
-* **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Obtenga información sobre cómo configurar y ejecutar un flujo de trabajo con la actividad de API externa.*
 
-* **[Sustitución de Perfiles: prueba de mensajes de correo electrónico con perfiles objetivo](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibirá el perfil.*
+* **[Sustitución de Perfiles: prueba de mensajes de correo electrónico con perfiles objetivo](/help/communication-channels/email/profile-substitution.md)**
 
+   *Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibirá el perfil.*
 
 ## Selección de personal
 

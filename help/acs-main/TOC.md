@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '509'
-ht-degree: 8%
+source-wordcount: '495'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 8%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Información general](/help/getting-started/getting-started-overview.md)
-   + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Introducción al Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Información general funcional](/help/getting-started/functional-overview.md)
    + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurar una lista](/help/getting-started/configure-a-list.md)
@@ -49,7 +49,7 @@ ht-degree: 8%
       + [Crear un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar una prueba, preparar y enviar un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Probar los mensajes de correo electrónico con perfiles objetivo](/help/communication-channels/email/profile-substitution.md)
       + [Revisar un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,8 @@ ht-degree: 8%
    + Móvil {#mobile}
       + SMS{#sms}
          + [Crear un envío SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Crear envíos multilingües de correo electrónico y SMS](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificaciones push {#push}
          + [Crear una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Crear una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -104,16 +104,17 @@ ht-degree: 8%
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + Panel de control {#control-panel}
       + [Información general del panel de control](/help/administrating/control-panel/control-panel-overview.md)
-      + [Monitoreo de la capacidad del servidor, lista blanca de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)
-   + Conector de datos de la plataforma de Adobe Experience {adobe-experience-platform-data-Connector}
-      + [Explicación del conector de datos de la plataforma Adobe Experience](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Conector de datos de Adobe Experience Platform {adobe-experience-platform-data-Connector}
+      + [Explicación del conector de datos de Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Asignación de Eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Asignación de datos de tabla de inicialización](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
@@ -128,5 +129,3 @@ ht-degree: 8%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
-+ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-

@@ -1,6 +1,6 @@
 ---
 title: Panel de control
-description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista blanca.
+description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y permitir listas de direcciones IP.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '361'
 ht-degree: 5%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 5%
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-Permite [!UICONTROL Control Panel] a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o direcciones IP de la lista blanca.
+>[!NOTE]
+>
+>Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allow list]&quot; y &quot;[!UICONTROL block list]&quot; en la documentación del Adobe Campaign. Algunas incidencias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, nombres de opciones, código interno y los vídeos del tutorial. Se reemplazarán en las próximas versiones del Panel de control.
+
+El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones [!UICONTROL allow list] IP.
 
 ## Acceso [!UICONTROL Control Panel]
 
-Para acceder al Panel de control, vaya a Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acceder al Panel de control, vaya a la página de inicio del Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,9 +60,9 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
 * **Administración de servidores SFTP**
 
-   *Obtenga información sobre cómo supervisar la capacidad del servidor, incluir direcciones IP en la lista de direcciones permitidas y agregar claves SSH*
+   *Obtenga información sobre cómo supervisar la capacidad del servidor, permitir listas de direcciones IP y agregar claves SSH*
 
-   * [Monitoreo de la capacidad del servidor, lista blanca de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   * [Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
    * [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)**
@@ -73,6 +77,10 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 * **[Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Obtenga información sobre cómo agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campañas.*
+
+* **[Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
 
 * **[Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)**
 

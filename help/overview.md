@@ -1,21 +1,24 @@
 ---
-title: 'Tutoriales de Adobe Campaign Standard: Información general'
-description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funciones de Adobe Campaign Standard.
+title: 'Tutoriales de Adobe Campaign Standard: información general'
+description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
+source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 20%
+ht-degree: 21%
 
 ---
 
 
 # Información general
 
-Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funciones de Adobe Campaign Standard.
+Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 
 ## Novedades
+
+* **[Panel de control Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
 
 * **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Obtenga información sobre cómo configurar y ejecutar un flujo de trabajo con la actividad de API externa.*

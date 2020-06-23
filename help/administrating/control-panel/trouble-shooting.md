@@ -1,6 +1,6 @@
 ---
 title: Problemas al disparar al Panel de control
-description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista blanca.
+description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y permitir listas de direcciones IP.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,7 +62,7 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 
 La conexión a los servidores SFTP requiere:
 
-* [!UICONTROL Whitelisting] la dirección IP desde la que se conecta al servidor SFTP
+* [!UICONTROL allow listing] la dirección IP desde la que se conecta al servidor SFTP
 * Par de clave pública/privada que debe registrarse con Adobe Campaign
 * Si se conecta directamente al servidor SFTP, también necesitará el software de cliente SFTP
 

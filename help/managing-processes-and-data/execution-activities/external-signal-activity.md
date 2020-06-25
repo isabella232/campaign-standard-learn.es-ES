@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: b95fb2360d6336c941e7b92a6e2abb376185a7c3
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -27,11 +27,13 @@ Esto también incluye una nueva Actividad **de pruebas** en la que puede ejecuta
 En el siguiente vídeo se explican los pasos de configuración necesarios para:
 
 1. **Recibir parámetros** externos de un sistema externo, como un sistema gestor de contenido (CRM):
+
    * Declarar los parámetros en la Actividad Señal externa
    * Configure la llamada de API para definir los parámetros y activar la Actividad de señal externa del flujo de trabajo. Para obtener más información sobre cómo configurar una llamada de API, consulte [Activación de una Actividad](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)de señal.
 
 1. **Personalice un flujo de trabajo con parámetros** externos (variables de eventos):
-Una vez activado el flujo de trabajo, los parámetros se ingieren en las variables de eventos del flujo de trabajo y se pueden utilizar dentro del mismo. Consulte la [documentación](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) de todas las actividades que se pueden personalizar con variables de evento:
+
+   Una vez activado el flujo de trabajo, los parámetros se ingieren en las variables de eventos del flujo de trabajo y se pueden utilizar dentro del mismo. Consulte la [documentación](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) de todas las actividades que se pueden personalizar con variables de evento:
 
    * Configurar la Actividad de prueba (nueva en 19.2)
    * Configurar la Actividad de Audiencia de lectura y Envío de correo electrónico

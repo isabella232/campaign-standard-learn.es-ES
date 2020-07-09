@@ -1,6 +1,6 @@
 ---
 title: Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform
-description: Para enviar mensajes en la aplicación o notificaciones push con una aplicación del SDK de Experience Cloud, se debe configurar una aplicación móvil en Adobe Experience Platform Launch y en Adobe Campaign
+description: Para enviar mensajes en la aplicación o notificaciones push con una aplicación SDK de Experience Cloud, una aplicación móvil debe configurarse en Inicio de Adobe Experience Platform y en Adobe Campaign
 feature: Mobile SDK V5
 topics: Mobile
 kt: 2501
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,9 @@ Los siguientes vídeos muestran los pasos necesarios para configurar una aplicac
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
->Consulte [Configuración de la aplicación en [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) para obtener la documentación detallada y las plantillas de código utilizadas en el vídeo.
+>Consulte [Configuración de la aplicación en [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) para ver la documentación detallada y las plantillas de código utilizadas en el vídeo.
 
 ## Recursos adicionales
 
 * [Configuración de una propiedad móvil (documentación de Adobe Launch)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuración de una aplicación móvil mediante los SDK de Adobe Experience Platform (documentación)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [Configuración de una aplicación móvil mediante SDK de Adobe Experience Platform (documentación)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)

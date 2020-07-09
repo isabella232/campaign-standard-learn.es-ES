@@ -1,6 +1,6 @@
 ---
 title: Panel de control
-description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y permitir listas de direcciones IP.
+description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista de permitidos.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
 * **Administración de servidores SFTP**
 
-   *Obtenga información sobre cómo supervisar la capacidad del servidor, permitir listas de direcciones IP y agregar claves SSH*
+   *Obtenga información sobre cómo supervisar la capacidad del servidor, lista de permitidos de direcciones IP y adición de claves SSH:*
 
    * [Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
    *Obtenga información sobre cómo agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campañas.*
 
-* **[Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **Administración de claves GPG**
 
-   *Descubra cómo generar e instalar un nuevo par de claves GPG público/privado en una instancia específica y cómo importar e instalar una clave pública en la instancia de Adobe Campaign.*
+   *Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaña específica para el cifrado de datos salientes, así como importar e instalar una clave pública en una instancia de Campaña para el descifrado de datos entrantes:*
+
+   * [Generación e instalación de claves GPG para el cifrado de datos](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Uso de una clave GPG para cifrar datos](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Descifrar datos](./gpg-key-management/decrypting-data.md)
 
 * **[Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)**
 

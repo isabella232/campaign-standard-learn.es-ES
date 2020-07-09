@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -23,7 +23,7 @@ ht-degree: 7%
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Obtenga información sobre cómo asignar [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
+Aprenda a realizar mapas [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

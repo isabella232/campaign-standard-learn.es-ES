@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '514'
 ht-degree: 9%
 
 ---
@@ -111,7 +111,11 @@ ht-degree: 9%
       + [Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
-      + [Generación e instalación de claves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + Administración de claves GPG {#gpg-key-management}
+         + [Administración de claves GPG - información general](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Generación e instalación de claves GPG para el cifrado de datos](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Uso de una clave GPG para cifrar datos](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Descifrar datos](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Conector de datos de Adobe Experience Platform {adobe-experience-platform-data-Connector}
       + [Explicación del conector de datos de Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

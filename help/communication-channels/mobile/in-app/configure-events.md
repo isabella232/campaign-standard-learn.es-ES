@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ Se admiten las tres categorías siguientes en función de la instrumentación de
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] requieren una licencia de Adobe Analytics. Una vez configurada [la extensión](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) [!DNL Analytics] y que haya agregado [Analytics a la aplicación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), estos eventos estarán disponibles en la configuración de ACS [!UICONTROL In-App] .
+>[!UICONTROL Analytics events] requiere una licencia de Adobe Analytics. Una vez configurada [[!DNL Analytics] la](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) extensión y que haya agregado [Analytics a la aplicación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), estos eventos estarán disponibles en la configuración de ACS [!UICONTROL In-App] .
 
 ## Recursos adicionales
 

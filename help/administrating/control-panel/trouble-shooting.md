@@ -1,6 +1,6 @@
 ---
-title: Problemas al disparar al Panel de control
-description: El Panel de control le permite supervisar y administrar su almacenamiento SFTP por instancia y permitir listas de direcciones IP.
+title: Problemas al disparar al Panel de control de Campaign
+description: El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista de permitidos.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Solución de problemas al disparar el [!UICONTROL Panel de control}
+# Problema al grabar el [!Panel de control de Campaign UICONTROL}
 
-Obtenga información sobre cómo solucionar problemas al utilizar el Panel de control.
+Obtenga información sobre cómo solucionar problemas al usar el Panel de control de Campaign.
 
 ## Inicio de sesión y página principal
 
@@ -55,8 +55,8 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 
 ### Documentación útil
 
-* [Descubrir el [!Panel de control UICONTROL]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Administración de permisos para el [!UICONTROL Panel de control]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Descubra el [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Administración de permisos para [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Establecimiento de la conexión con el servidor SFTP (cliente o API)
 

@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -35,7 +35,7 @@ Este vídeo muestra el uso del [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Tenga en cuenta que la actividad está pensada para obtener datos de toda la campaña (último conjunto de ofertas, últimos resultados, etc.), no para recuperar información específica para cada perfil, ya que esto puede resultar en la transferencia de grandes cantidades de datos. Si el caso de uso lo requiere, se recomienda utilizar la actividad Transferir archivo.
+>Tenga en cuenta que la actividad está pensada para obtener datos de toda la campaña (último conjunto de ofertas, últimos resultados, etc.), no para recuperar información específica para cada perfil, ya que esto puede resultar en la transferencia de grandes cantidades de datos. Si fuera necesario, se recomienda utilizar la actividad Transferir archivo.
 
 ## Recursos adicionales
 

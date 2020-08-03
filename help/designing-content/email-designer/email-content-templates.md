@@ -1,6 +1,6 @@
 ---
 title: Introducción a las plantillas de contenido de correo electrónico
-description: Adobe Campaign Standard ofertas 18 totalmente personalizables y listas para usar, plantillas de correo electrónico adaptables.  Estas plantillas se crearon específicamente para Adobe Campaign Standard y son fáciles de manipular y cambiar. Son puntos de partida buenos para crear correos electrónicos.
+description: ofertas de Adobe Campaign Standard 18 totalmente personalizables y listas para usar, plantillas de correo electrónico adaptables.  Estas plantillas se crearon específicamente para Adobe Campaign Standard y son fáciles de manipular y cambiar. Son puntos de partida buenos para crear correos electrónicos.
 feature: Email Designer
 topics: null
 kt: 1442
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Introducción a las plantillas de contenido de correo electrónico {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard ofertas 18 totalmente personalizables y listas para usar, plantillas de correo electrónico adaptables. Estas plantillas se crearon específicamente para Adobe Campaign Standard y son fáciles de manipular y cambiar. Son puntos de partida buenos para crear correos electrónicos.
+ofertas de Adobe Campaign Standard 18 totalmente personalizables y listas para usar, plantillas de correo electrónico adaptables. Estas plantillas se crearon específicamente para Adobe Campaign Standard y son fáciles de manipular y cambiar. Son puntos de partida buenos para crear correos electrónicos.
 
 Este vídeo presenta las plantillas y explica cómo crear su propia plantilla.
 

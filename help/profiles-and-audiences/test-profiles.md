@@ -1,6 +1,6 @@
 ---
 title: Crear un perfil de prueba
-description: Los perfiles de prueba permiten realizar destinatarios de destinatarios adicionales que no coinciden con los criterios de objetivo definidos. Se agregan a la audiencia de un mensaje para detectar cualquier uso fraudulento de la base de datos de destinatario o para garantizar que los correos electrónicos llegan a las bandejas de entrada.
+description: Los perfiles de prueba permiten encontrar destinatarios adicionales que no coinciden con los criterios de objetivo definidos. Se añaden a la audiencia de un mensaje para detectar cualquier uso fraudulento de la base de datos de destinatario o para garantizar que los correos electrónicos llegan a las bandejas de entrada.
 feature: Profiles and Audiences
 topic: null
 kt: 1810
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 72%
 
 ---
 
 
 # Crear un perfil de prueba {#creating-a-test-profile}
 
-Los perfiles de prueba permiten realizar destinatarios de destinatarios adicionales que no coinciden con los criterios de objetivo definidos. Se agregan a la audiencia de un mensaje para detectar cualquier uso fraudulento de la base de datos de destinatario o para garantizar que los correos electrónicos llegan a las bandejas de entrada.
+Los perfiles de prueba permiten encontrar destinatarios adicionales que no coinciden con los criterios de objetivo definidos. Se añaden a la audiencia de un mensaje para detectar cualquier uso fraudulento de la base de datos de destinatario o para garantizar que los correos electrónicos llegan a las bandejas de entrada.
 
 En este vídeo se explica cómo crear perfiles de prueba
 

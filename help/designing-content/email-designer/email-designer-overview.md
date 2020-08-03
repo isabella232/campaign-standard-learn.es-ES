@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Esto [!UICONTROL Email Designer] permite la creación visual rápida y sencilla de correos electrónicos personalizados individualmente sin necesidad de crear una sola línea de código que ayude a escalar la creación de correos electrónicos. Le permite crear contenido de correo electrónico y plantillas de contenido de correo electrónico. Es compatible con correos electrónicos simples, correos electrónicos transaccionales, correos electrónicos de prueba A/B, correos electrónicos multilingües y correos electrónicos recurrentes.
 
-Este vídeo le ofrece información general de alto nivel sobre la funcionalidad y el uso de Adobe Campaign Standard [!UICONTROL Email Designer].
+Este vídeo le ofrece información general de alto nivel sobre la funcionalidad y el uso del Adobe Campaign Standard [!UICONTROL Email Designer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 

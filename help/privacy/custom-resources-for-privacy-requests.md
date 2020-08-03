@@ -25,6 +25,7 @@ Al configurar Adobe Campaign Standard para gestionar solicitudes de privacidad, 
 >[!NOTE]
 >
 >**Exclusión para la venta de información personal (CCPA)**
+>
 >A partir de la versión 19.4, se proporciona un campo de exclusión de CCPA en la interfaz de Campaña y la API. Para 19.3, para aprovechar esta información, debe crear este campo >en Adobe Campaign Standard. Consulte la documentación [](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) detallada para obtener más información.
 >
 > Puede comprobar su versión haciendo clic en el botón ? en la parte superior derecha de la interfaz y seleccione Acerca de.

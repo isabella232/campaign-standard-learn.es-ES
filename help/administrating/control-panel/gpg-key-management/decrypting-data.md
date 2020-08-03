@@ -19,7 +19,7 @@ ht-degree: 2%
 
 # Descifrar datos
 
-El Panel de control permite descifrar datos externos que llegan a las instancias de Adobe Campaign mediante un par de claves pública y privada.
+Panel de control de Campaign permite descifrar datos externos que llegan a las instancias de Adobe Campaign mediante un par de claves pública y privada.
 Obtenga información sobre cómo crear una clave pública e importarla e instalarla en una instancia de Campaña para descifrar datos entrantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)

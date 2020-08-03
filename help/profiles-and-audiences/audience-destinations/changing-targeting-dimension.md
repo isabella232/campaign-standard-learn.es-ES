@@ -1,6 +1,6 @@
 ---
 title: Cambiar la dimensión de segmentación
-description: En este vídeo se explica cómo cambiar la dimensión de segmentación de un envío para una Audiencia de plataforma fuera de la tabla de perfil principal en Adobe Campaign Standard.
+description: En este vídeo se explica cómo cambiar la dimensión de segmentación de un envío para una Audiencia Platform fuera de la tabla de perfil principal en Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -21,6 +21,7 @@ ht-degree: 10%
 >[!NOTE]
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
+>
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
 Este vídeo explica cómo cambiar la dimensión de segmentación de un envío para un [!UICONTROL Platform Audience] exterior de la tabla de perfil principal en Adobe Campaign Standard.

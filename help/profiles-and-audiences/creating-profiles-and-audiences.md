@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 Adobe Campaign tiene dos tipos o perfiles:
 
 * perfiles identificados
-* perfiles de prueba
+* Perfiles de prueba
 
 Los Perfiles agrupados según uno o varios criterios comunes se denominan **audiencias**.
 

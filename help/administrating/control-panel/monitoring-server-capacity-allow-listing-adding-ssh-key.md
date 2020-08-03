@@ -1,6 +1,6 @@
 ---
 title: Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH
-description: El Panel de control permite supervisar y administrar el almacenamiento SFTP por instancia y agregar direcciones IP para permitir listas.
+description: El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia y agregar direcciones IP a listas de permitidos.
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Monitoreo de la capacidad del servidor, [!UICONTROL allow listing] las direcciones IP y la adición de claves SSH
 
-El Panel de control permite supervisar y administrar el almacenamiento SFTP por instancia y agregar direcciones [!UICONTROL allow listing]IP.
+El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia y agregar direcciones [!UICONTROL allow listing]IP.
 
 ## Acceso a la administración [!UICONTROL Control Panel] de subdominios
 

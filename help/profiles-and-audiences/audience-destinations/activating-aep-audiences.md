@@ -16,11 +16,12 @@ ht-degree: 1%
 ---
 
 
-# Activar audiencias de la plataforma Adobe Experience en un flujo de trabajo [!UICONTROL Adobe Experience Platform Audiences] en un flujo de trabajo de marketing
+# Activar audiencias de Adobe Experience Platform en un flujo de trabajo [!UICONTROL Adobe Experience Platform Audiences] en un flujo de trabajo de marketing
 
 >[!NOTE]
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
+>
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
 En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo mediante la [!UICONTROL Read Audience] actividad.
@@ -32,10 +33,10 @@ En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audie
 
 Documentación:
 
-* [Activación de audiencias de la plataforma de experiencia dentro de la Campaña: documentación](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Activación de audiencias de Experience Platform dentro de la Campaña: Documentación](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
 Recurso de vídeo:
 
 * [Creación de una nueva audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Cambio de la dimensión de segmentación de un envío para una Audiencia de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Cambio de la dimensión de segmentación de un envío para una Audiencia Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 

@@ -21,6 +21,7 @@ ht-degree: 7%
 >[!NOTE]
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
 Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos.

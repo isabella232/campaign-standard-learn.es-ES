@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 3%
+ht-degree: 27%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Adobe Campaign le permite crear y administrar boletines informativos y comunicaciones entre canales mediante un conjunto de servicios. Los mensajes solo se pueden enviar a perfiles suscritos al servicio (opción de inclusión). Estos perfiles se identifican mediante un filtro específico al crear un mensaje.
 
-Se pueden configurar mecanismos de Suscripción para oferta a sus clientes con la posibilidad de suscribirse a estos servicios, especialmente a través de correos electrónicos y páginas de aterrizaje.
+Se pueden configurar mecanismos de suscripción para ofrecer a sus clientes la posibilidad de suscribirse a estos servicios, especialmente a través de correos electrónicos y páginas de aterrizaje.
 
 Cada servicio incluye:
 

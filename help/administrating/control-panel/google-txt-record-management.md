@@ -1,6 +1,6 @@
 ---
 title: Administración de registros TXT de Google
-description: Puede agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campaña.
+description: Puede agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campaign de Campaña.
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744

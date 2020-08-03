@@ -1,6 +1,6 @@
 ---
 title: 'Asignación de recursos personalizados '
-description: Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard (ACS) y Adobe Experience Platform (AEP)
+description: Aprenda a asignar diferentes tipos de datos entre Adobe Campaign Standard (ACS) y Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2828
@@ -21,9 +21,10 @@ ht-degree: 5%
 >[!NOTE]
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
+Aprenda a asignar diferentes tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 

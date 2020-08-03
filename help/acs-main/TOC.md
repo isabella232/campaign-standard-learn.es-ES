@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriales de Adobe Campaign Standard
+user-guide-title: Tutorials Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Liga de experiencias
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 9%
+source-wordcount: '529'
+ht-degree: 11%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 9%
    + [Explorar la jerarquía y las Actividades de mercadotecnia](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administrar campañas](/help/getting-started/managing-campaigns.md)
    + [Comprender perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Crear un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+   + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
    + [Introducción al sistema de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crecer con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -39,17 +39,17 @@ ht-degree: 9%
    + [Crear un perfil de prueba](/help/profiles-and-audiences/test-profiles.md)
    + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
    + [Administrar servicios y suscripciones](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Destinos de Audiencia (BETA){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Crear una nueva audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activar audiencias de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Cambiar la dimensión de segmentación](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canales de comunicación {#communication-channels}
    + Correo electrónico {#email}
-      + [Crear un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
+      + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar una prueba, preparar y enviar un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Probar los mensajes de correo electrónico con perfiles objetivo](/help/communication-channels/email/profile-substitution.md)
       + [Revisar un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 9%
    + Móvil {#mobile}
       + SMS{#sms}
          + [Crear un envío SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Convertir un correo electrónico, envío SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Crear un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificaciones push {#push}
          + [Crear una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Crear una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -85,7 +86,8 @@ ht-degree: 9%
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurar listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
-   + [Crear un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+   + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+   + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -100,8 +102,8 @@ ht-degree: 9%
       + [Creación de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administración {#administrating}
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
-   + Panel de control {#control-panel}
-      + [Información general del panel de control](/help/administrating/control-panel/control-panel-overview.md)
+   + Panel de control de Campaign{#control-panel}
+      + [Información general de Panel de control de Campaign](/help/administrating/control-panel/control-panel-overview.md)
       + [Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 9%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
++ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

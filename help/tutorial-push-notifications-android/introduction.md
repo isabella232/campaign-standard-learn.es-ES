@@ -1,6 +1,6 @@
 ---
 title: Introducción a las notificaciones push con la aplicación Android
-description: Adobe Campaign le permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 de Experience Cloud Mobile o del SDK de la plataforma de experiencia. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
+description: Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform de Mobile Experience Cloud. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Introducción a las notificaciones push con la aplicación Android
 
-Adobe Campaign le permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android.
-Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 de Experience Cloud Mobile o del SDK de la plataforma de experiencia.
+Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android.
+Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform de Mobile Experience Cloud.
 Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
 
 ## Requisitos previos

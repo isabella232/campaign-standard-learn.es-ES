@@ -1,6 +1,6 @@
 ---
 title: Configuración de la vista móvil en el Diseñador de correo electrónico
-description: En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico en Adobe Campaign Standard (ACS) editando por separado todas las opciones de estilo para la visualización móvil.
+description: En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico en Adobe Campaign Standard (ACS) mediante la edición independiente de todas las opciones de estilo para la visualización en dispositivos móviles.
 feature: Email Designer
 topics: null
 kt: 2423

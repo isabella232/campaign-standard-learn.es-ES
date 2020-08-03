@@ -1,6 +1,6 @@
 ---
 title: Generación de una clave SSH
-description: Debe poder generar una clave SSH para poder agregarla al Panel de control de Adobe Campaign. El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
+description: Debe poder generar una clave SSH para poder agregarla al Panel de control de Campaign de Adobe Campaign. El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
 feature: Control Panel
 topics: null
 kt: 2923
@@ -24,7 +24,7 @@ Debe generar una clave SSH para poder agregarla a la [!UICONTROL Control Panel].
 
 Para acceder a la Administración de SFTP en [!UICONTROL Control Panel], vaya a:
 
-* [Inicio](https://experience.adobe.com/#/home) de Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **Tarjeta SFTP**
+* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **Tarjeta SFTP**
 
    o
 * Directamente desde la dirección URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)

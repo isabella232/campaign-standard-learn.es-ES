@@ -1,6 +1,6 @@
 ---
 title: Asignación de datos de tabla de inicialización
-description: Obtenga información sobre cómo asignar datos de inicialización y cómo probar perfiles con Adobe Experience Platform (AEP)
+description: Aprenda a asignar los datos de inicialización y a probar los perfiles con el Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
@@ -21,9 +21,10 @@ ht-degree: 6%
 >[!NOTE]
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Obtenga información sobre cómo asignar datos de inicialización y perfiles de prueba con Adobe Experience Platform.
+Obtenga información sobre cómo asignar datos de semillas y probar perfiles con el Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 

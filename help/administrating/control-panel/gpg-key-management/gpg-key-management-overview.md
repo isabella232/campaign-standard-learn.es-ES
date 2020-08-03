@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Administración de claves GPG - Información general
 
-GPG (GnuPG) cifra los mensajes utilizando pares de claves individuales asimétricos. Para implementar el cifrado GPG con Campaña, un usuario administrador debe instalar y/o generar las claves GPG en una instancia de marketing directamente desde el Panel de control.
+GPG (GnuPG) cifra los mensajes utilizando pares de claves individuales asimétricos. Para implementar el cifrado GPG con Campaña, un usuario administrador debe instalar y/o generar claves GPG en una instancia de marketing directamente desde el Panel de control de Campaign.
 
 En los siguientes vídeos se explica cómo generar e instalar un par de claves pública y privada en una instancia de Campaña específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaña para el descifrado de datos entrantes.
 

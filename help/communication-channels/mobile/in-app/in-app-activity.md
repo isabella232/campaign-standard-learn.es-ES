@@ -13,18 +13,18 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # Creación de un [!UICONTROL In-App] envío en un flujo de trabajo
 
-La actividad de envío en la aplicación se utiliza generalmente para automatizar el envío de un [!UICONTROL In-App] mensaje a una audiencia de destinatario calculada en el mismo flujo de trabajo.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 Los destinatarios se definen antes de la actividad en el mismo flujo de trabajo, mediante actividades de objetivo como consultas, intersecciones, etc.
 
-La preparación del mensaje se activa según los parámetros de ejecución del flujo de trabajo. En el panel de mensajes, puede solicitar una confirmación manual para enviar el mensaje (obligatorio de forma predeterminada). Puede realizar el inicio del flujo de trabajo manualmente o colocar una actividad de Planificador en el flujo de trabajo para automatizar la ejecución.
+La preparación del mensaje se activa según los parámetros de ejecución del flujo de trabajo. En el panel de mensajes, puede solicitar una confirmación manual para enviar el mensaje (obligatorio de forma predeterminada). Puede realizar el inicio del flujo de trabajo manualmente o colocar una actividad de planificador en el flujo de trabajo para automatizar la ejecución.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 

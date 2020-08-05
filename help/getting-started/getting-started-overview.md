@@ -22,9 +22,9 @@ Adobe Campaign Standard es una potente herramienta de gestión de la campaña en
 
 Controle todo el proceso de creación, ejecución y seguimiento de campañas entre canales, así como también envíe mensajes personalizados según el perfil, el comportamiento, las preferencias y las necesidades de los clientes. Puede organizar, modelar y automatizar fácilmente todo el proceso de mercadotecnia, e integrarlo con otras soluciones de Adobe.
 
-Hay un conjunto de tutoriales disponibles para ayudarle a empezar a usar el Adobe Campaign Standard:
+Hay un conjunto de tutoriales disponibles para ayudarle a empezar a usar Adobe Campaign Standard:
 
-* [Introducción al Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Información general funcional](/help/getting-started/functional-overview.md)
 * [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
 * [Configurar una lista](/help/getting-started/configure-a-list.md)

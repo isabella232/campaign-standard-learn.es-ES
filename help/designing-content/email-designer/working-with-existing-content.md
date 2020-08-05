@@ -26,7 +26,7 @@ En este vídeo se explica cómo recuperar rápidamente el contenido creativo de 
 
 ## Conversión de contenido HTML existente en compatible {#making-existing-html-content-compatible}
 
-El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido HTML estándar cargado en Adobe Campaign sea totalmente compatible y editable.
+El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido HTML estándar se cargue en Adobe Campaign sea totalmente compatible y editable.
 
 Encontrará la documentación detallada en el siguiente vínculo:
 

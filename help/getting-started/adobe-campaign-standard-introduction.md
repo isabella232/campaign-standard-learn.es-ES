@@ -1,6 +1,6 @@
 ---
-title: Introducción al Adobe Campaign Standard
-description: Este vídeo le ofrece una introducción de alto nivel al Adobe Campaign Standard.
+title: Introducción a Adobe Campaign Standard
+description: Este vídeo le ofrece una introducción de alto nivel a Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
 kt: 3993
@@ -16,8 +16,8 @@ ht-degree: 0%
 ---
 
 
-# Introducción al Adobe Campaign Standard
+# Introducción a Adobe Campaign Standard
 
-Este vídeo le ofrece una introducción de alto nivel al Adobe Campaign Standard.
+Este vídeo le ofrece una introducción de alto nivel a Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27072?quality=12)

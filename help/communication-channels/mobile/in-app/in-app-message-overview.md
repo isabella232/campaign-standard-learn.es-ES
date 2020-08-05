@@ -35,7 +35,7 @@ En este tutorial se explican los pasos necesarios para configurar las propiedade
 1. En Adobe Experience Platform Launch:
 
    1. Cree una propiedad móvil e instrumente la aplicación móvil con el SDK de Experience Platform.
-   1. Instale la extensión de **Adobe Campaign Standard** para la aplicación móvil.
+   1. Instale la extensión de **Adobe Campaign Standard** para su aplicación móvil.
 
 Para obtener más información sobre las extensiones, consulte la [sección Configurar extensión de Campaign Standard en Inicio](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) de Adobe en la [!UICONTROL Adobe Launch ]documentación.
 
@@ -61,7 +61,7 @@ Al configurar el envío, dispone de tres opciones para el destinatario de los us
 
 1. [**Destinatario a los usuarios en función de su perfil **](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)de Campaña.
 
-   Este tipo de mensaje le permite destinatario de perfiles de Adobe Campaign (perfiles CRM) que se han suscrito a su aplicación móvil. El mensaje se puede personalizar con todos los atributos de perfil disponibles en Adobe Campaign, pero requiere un protocolo de enlace seguro entre el SDK móvil y el servicio de mensajería en la aplicación de la Campaña para garantizar que los mensajes con información personal y confidencial sean utilizados únicamente por usuarios autorizados.
+   Este tipo de mensaje le permite destinatario a perfiles de Adobe Campaign (perfiles CRM) que se han suscrito a su aplicación móvil. El mensaje se puede personalizar con todos los atributos de perfil disponibles en Adobe Campaign, pero requiere un protocolo de enlace seguro entre el SDK móvil y el servicio de mensajería en la aplicación de la Campaña para garantizar que los mensajes con información personal y confidencial sean utilizados únicamente por usuarios autorizados.
 
 Esta plantilla es útil para admitir casos de uso de orquestación entre canales, en los que ya ha segmentado usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, desea interactuar con ellos mediante un mensaje en la aplicación.
 

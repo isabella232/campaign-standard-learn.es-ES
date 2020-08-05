@@ -20,11 +20,11 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allow list]&quot; y &quot;[!UICONTROL block list]&quot; en la documentación del Adobe Campaign. Algunas incidencias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, nombres de opciones, código interno y los vídeos del tutorial. Se reemplazarán en próximas versiones de Panel de control de Campaign.
+>Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allow list]&quot; y &quot;[!UICONTROL block list]&quot; en la documentación de Adobe Campaign. Algunas incidencias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, nombres de opciones, código interno y los vídeos del tutorial. Se reemplazarán en próximas versiones de Panel de control de Campaign.
 
-El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones [!UICONTROL allow list] IP.
+Esto [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por dirección [!UICONTROL allow list] IP.
 
-## Acceso [!UICONTROL Control Panel]
+## Acceso a [!UICONTROL Control Panel]
 
 Para acceder al Panel de control de Campaign, vaya a la página principal del Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
@@ -67,7 +67,7 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
    * [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Aprenda a delegar completamente un subdominio a Adobe Campaign*
+   *Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign*
 * **[Añadir certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Descubra cómo puede agregar certificados SSL para proteger los subdominios.*

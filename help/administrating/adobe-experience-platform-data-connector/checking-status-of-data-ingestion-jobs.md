@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han ingerido de Adobe Campaign Standard a Adobe Experience Platform.
+Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han ingestado de Adobe Campaign Standard a Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 

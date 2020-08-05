@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Usuarios de Destinatario según su [!DNL Campaign] perfil
 
-Puede destinatario a usuarios conocidos de aplicaciones móviles (aquellos que iniciaron sesión en la aplicación con PII) con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla es muy útil para admitir casos de uso de orquestación entre canales, en los que ya se ha dirigido a usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, se desea involucrarlos con un [!UICONTROL In-App] mensaje.
+Puede destinatario a usuarios conocidos de aplicaciones móviles (los que iniciaron sesión en la aplicación con PII) con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla es muy útil para admitir casos de uso de orquestación entre canales, en los que ya se ha dirigido a usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, se desea involucrarlos con un [!UICONTROL In-App] mensaje.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 

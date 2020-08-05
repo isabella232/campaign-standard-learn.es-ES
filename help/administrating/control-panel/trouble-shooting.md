@@ -63,7 +63,7 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 La conexión a los servidores SFTP requiere:
 
 * [!UICONTROL allow listing] la dirección IP desde la que se conecta al servidor SFTP
-* Par de clave pública/privada que debe registrarse con Adobe Campaign
+* Par de clave privada/pública que debe registrarse en Adobe Campaign
 * Si se conecta directamente al servidor SFTP, también necesitará el software de cliente SFTP
 
 ### Documentación útil

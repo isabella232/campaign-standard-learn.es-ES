@@ -38,5 +38,5 @@ Documentación:
 Recurso de vídeo:
 
 * [Creación de una nueva audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Cambio de la dimensión de segmentación de un envío para una Audiencia Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Cambio de la dimensión de segmentación de un envío para una Audiencia de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 

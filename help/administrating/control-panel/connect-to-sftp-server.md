@@ -34,7 +34,7 @@ Para acceder a la administración de SFTP en Panel de control de Campaign, vaya 
 La conexión a los servidores SFTP requiere:
 
 * [!!UICONTROL permite enumerar] la dirección IP desde la que se conecta al servidor SFTP
-* Par de clave pública/privada que debe registrarse con Adobe Campaign
+* Par de clave privada/pública que debe registrarse en Adobe Campaign
 * Si se conecta directamente al servidor SFTP, también necesitará el software de cliente SFTP
 
 En este vídeo se explica cómo conectar con el servidor SFTP mediante una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign.

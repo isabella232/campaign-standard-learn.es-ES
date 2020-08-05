@@ -24,7 +24,7 @@ ht-degree: 6%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Obtenga información sobre cómo asignar datos de semillas y probar perfiles con el Adobe Experience Platform.
+Obtenga información sobre cómo asignar datos de inicialización y probar perfiles con el Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 

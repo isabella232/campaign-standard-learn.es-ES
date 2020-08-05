@@ -1,5 +1,5 @@
 ---
-title: Crecer con Adobe Campaign
+title: Crecimiento con Adobe Campaign
 description: En este vídeo se destacan los próximos pasos posibles para una verdadera orquestación entre canales.
 feature: null
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Crecer con Adobe Campaign
+# Crecimiento con Adobe Campaign
 
 En este vídeo se destacan los próximos pasos posibles para una verdadera orquestación entre canales.
 

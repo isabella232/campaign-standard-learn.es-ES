@@ -24,7 +24,7 @@ ht-degree: 7%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Aprenda a realizar mapas [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
+Obtenga información sobre cómo asignar [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

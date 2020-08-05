@@ -1,6 +1,6 @@
 ---
 title: Creación y edición de una página de aterrizaje
-description: Adobe Campaign viene con páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar Páginas de aterrizaje para adquirir o actualizar perfiles existentes. En estos vídeos se explica cómo crear, editar y probar páginas de aterrizaje en Adobe Campaign Standard.
+description: Adobe Campaign incluye páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar Páginas de aterrizaje para adquirir o actualizar perfiles existentes. En estos vídeos se explica cómo crear, editar y probar páginas de aterrizaje en Adobe Campaign Standard.
 feature: Landing Pages
 topics: null
 kt: 1808

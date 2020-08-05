@@ -1,6 +1,6 @@
 ---
-title: Solicitudes de privacidad con el Adobe Campaign Standard (ACS) - Información general
-description: El tutorial explica cómo crear solicitudes de privacidad mediante la interfaz de Adobe Campaign Standard (ACS).
+title: 'Solicitudes de privacidad con Adobe Campaign Standard (ACS): información general'
+description: El tutorial explica cómo crear solicitudes de privacidad mediante la interfaz Adobe Campaign Standard (ACS).
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 # Solicitudes de privacidad con la interfaz de usuario de Adobe Campaign Standard
 
-Adobe Campaign oferta tres métodos para realizar el acceso a la privacidad y eliminar solicitudes de datos de PII de conformidad con leyes de privacidad como GDPR (General Data Protection Regulation) y CCPA (California Consumer Privacy Act):
+Adobe Campaign oferta a los controladores de datos tres métodos para realizar el acceso a la privacidad y eliminar solicitudes de datos de PII de conformidad con leyes de privacidad como GDPR (General Data Protection Regulation) y CCPA (California Consumer Privacy Act):
 
 * **Mediante la integración de Privacy Core Service:** Las solicitudes de privacidad insertadas desde [!UICONTROL Privacy Service] a todas las soluciones de Experience Cloud se gestionan automáticamente mediante la Campaña a través de un flujo de trabajo dedicado. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
 

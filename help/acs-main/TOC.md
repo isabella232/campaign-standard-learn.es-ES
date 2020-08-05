@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutorials Adobe Campaign Standard
+user-guide-title: Tutorials de Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Liga de experiencias
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -22,7 +22,7 @@ ht-degree: 11%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Información general](/help/getting-started/getting-started-overview.md)
-   + [Introducción al Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Información general funcional](/help/getting-started/functional-overview.md)
    + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurar una lista](/help/getting-started/configure-a-list.md)

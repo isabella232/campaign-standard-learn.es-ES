@@ -24,7 +24,7 @@ ht-degree: 5%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
 
-Aprenda a asignar diferentes tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
+Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 

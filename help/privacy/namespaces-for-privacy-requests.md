@@ -1,6 +1,6 @@
 ---
 title: Creación de Áreas de nombres para solicitudes de privacidad en Adobe Campaign Standard (ACS)
-description: Un requisito previo para poder crear solicitudes de acceso a la privacidad y de eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign. En este vídeo se explica cómo crear Áreas de nombres para solicitudes de privacidad.
+description: Un requisito previo para poder crear solicitudes de acceso a la privacidad y eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign. En este vídeo se explica cómo crear Áreas de nombres para solicitudes de privacidad.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Creación de Áreas de nombres para solicitudes de privacidad
 
-Un requisito previo para poder crear solicitudes de acceso a la privacidad y de eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign.
+Un requisito previo para poder crear solicitudes de acceso a la privacidad y eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign.
 
 En este vídeo se explica cómo crear Áreas de nombres para solicitudes de privacidad.
 

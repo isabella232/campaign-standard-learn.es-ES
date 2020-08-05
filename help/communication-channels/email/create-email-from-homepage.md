@@ -1,6 +1,6 @@
 ---
 title: Creación de una entrega de correo electrónico
-description: 'Puede crear un correo electrónico desde una campaña, desde la página de inicio Adobe Campaign o en la lista de actividad de marketing. También puede crear correos electrónicos recurrentes y de un solo envío a partir de un flujo de trabajo. En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal. '
+description: 'Puede crear un mensaje de correo electrónico desde una campaña, desde la página de inicio de Adobe Campaign o en la lista de actividad de marketing. También puede crear correos electrónicos recurrentes y de un solo envío a partir de un flujo de trabajo. En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal. '
 feature: Email
 topics: null
 kt: 1807

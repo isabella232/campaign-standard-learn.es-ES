@@ -1,6 +1,6 @@
 ---
 title: Introducción a las notificaciones push con la aplicación Android
-description: Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform de Mobile Experience Cloud. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
+description: Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android. Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform para móviles de Experience Cloud. Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -18,12 +18,12 @@ ht-degree: 14%
 # Introducción a las notificaciones push con la aplicación Android
 
 Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android.
-Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform de Mobile Experience Cloud.
+Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 o Experience Platform para móviles de Experience Cloud.
 Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
 
 ## Requisitos previos
 
-* Debe tener la propiedad launch configurada con Adobe Campaign Standard Extension. Siga la ayuda en línea que se detalla a continuación.
+* Debe tener la propiedad de inicio configurada con Adobe Campaign Standard Extension. Siga la ayuda en línea que se detalla a continuación.
    * [Tutorial de vídeo](https://video.tv.adobe.com/v/26224?quality=12&captions=spa)
    * [Documentación](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 

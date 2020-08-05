@@ -22,7 +22,7 @@ Aprenda a crear un [!UICONTROL push notification] en Adobe Campaign Standard (AC
 
 Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. Tiene dos opciones:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**:: Permite el destinatario de los perfiles de CRM de Adobe Campaign que se han suscrito a la aplicación móvil y han adhesión a recibir [!UICONTROL push notifications]. Puede insertar campos de personalización en su [!UICONTROL push notification]página, como el nombre del destinatario.
+* **[!UICONTROL Send push notification to Campaign profiles]**:: Permite el destinatario de los perfiles de Adobe Campaign CRM que se han suscrito a la aplicación móvil y han adhesión a recibir [!UICONTROL push notifications]. Puede insertar campos de personalización en su [!UICONTROL push notification]página, como el nombre del destinatario.
 
 * **[!UICONTROL Send push notification to app subscribers]**:: Le permite enviar un mensaje [!UICONTROL push notification] a todos los usuarios de aplicaciones móviles conocidos y anónimos que hayan adhesión para recibir notificaciones de la aplicación. Puede personalizar estos mensajes con los datos recopilados de la aplicación móvil.
 

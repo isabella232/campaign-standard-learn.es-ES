@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Abra el proyecto en el [!DNL Android ]estudio. Elimine todo el código en [!DNL 
 
 Pegue el siguiente código en [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ Navegar **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Abra la 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[NOTA]
->
 >Si no ve el token de registro en la [!UICONTROL Mobile Application Subscribers] ficha DETENGA aquí antes de continuar.

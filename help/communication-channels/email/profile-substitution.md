@@ -4,7 +4,7 @@ description: En este vídeo se explica cómo probar los mensajes de correo elect
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM

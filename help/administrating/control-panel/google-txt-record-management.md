@@ -1,6 +1,6 @@
 ---
 title: Administración de registros TXT de Google
-description: Puede agregar el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL a través del Panel de control de Campaign de Campaña.
+description: Puede añadir el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a las direcciones de GMAIL a través del Panel de control de Campaign.
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Google] Gestión de registros TXT
+# Administración de registros TXT de [!DNL Google]
 
-To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. Los registros TXT son un tipo de registros DNS que se utilizan para proporcionar información de texto sobre un dominio y que pueden leer fuentes externas.
+Para garantizar altas tasas de mensajes en bandeja de entrada y bajas tasas de spam, algunos servicios como [!DNL Google] requieren que agregue un registro TXT a la configuración de su dominio para verificar que es el propietario del dominio. Los registros TXT son un tipo de registros DNS que se utilizan para proporcionar información de texto sobre un dominio y que pueden leer fuentes externas.
 
-El siguiente vídeo describe cómo se pueden agregar registros de verificación del sitio [!DNL Google] TXT a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con [!UICONTROL Campaign Control Panel].
+El siguiente vídeo describe cómo puede añadir registros de verificación del sitio TXT de [!DNL Google] a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## Recursos adicionales
 
-* [Documentación](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Documentación](https://docs.adobe.com/content/help/es-ES/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

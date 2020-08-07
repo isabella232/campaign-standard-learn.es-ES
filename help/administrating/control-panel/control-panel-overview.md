@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 * **[Adición de certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Aprenda a añadir certificados SSL para proteger subdominios.*
-* **[Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Aprenda a obtener una vista del estado de los certificados SSL de sus subdominios, así como solicitar renovaciones.*
 * **[Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Aprenda a añadir el registro de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a las direcciones de GMAIL a través del Panel de control de Campaign.*

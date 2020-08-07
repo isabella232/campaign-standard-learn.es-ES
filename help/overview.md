@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 * **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Obtenga información sobre cómo configurar y ejecutar un flujo de trabajo con la actividad de API externa.*
-
-* **[Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)**
-
-   *Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibirá el perfil.*
 
 ## Selección de personal
 

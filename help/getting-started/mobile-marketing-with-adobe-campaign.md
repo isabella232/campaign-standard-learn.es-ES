@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -25,5 +25,5 @@ En este vídeo se explica qué funciones de Adobe Campaign Standard admiten su e
 ## Recursos adicionales
 
 * [Mensajería en la aplicación con Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [Creación de una notificación push no](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [Envíos SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+* [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Envíos de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)

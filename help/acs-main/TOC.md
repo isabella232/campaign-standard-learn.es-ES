@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-standard-learn
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + Móvil {#mobile}
       + SMS{#sms}
          + [Creación de un envío de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Conversión de un envío o plantilla existente de correo electrónico, SMS a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificaciones push {#push}
          + [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
    + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
-   + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
    + Actividades de ejecución {#execution-activities}
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Actividades de gestión de datos {#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Adición de certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Administración de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
       + Administración de claves GPG{#gpg-key-management}
          + [Información general sobre la administración de claves GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
-+ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-

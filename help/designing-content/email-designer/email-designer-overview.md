@@ -3,15 +3,15 @@ title: Introducción a Email Designer
 description: En este vídeo se explica la funcionalidad general del diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero.Esta página lista todos los vídeos de funciones disponibles para el diseñador de correo electrónico de Adobe Campaign
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -24,16 +24,11 @@ Este vídeo le ofrece información general de alto nivel sobre la funcionalidad 
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Getting Started with the [!UICONTROL Email Designer]
-
-En este vídeo se explica la funcionalidad general del [!UICONTROL Email Designer] y cómo diseñar un correo electrónico desde cero.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## Tutoriales
 
 Están disponibles los siguientes tutoriales detallados:
 
+* [Introducción al diseñador de correo electrónico](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Plantillas de contenido](/help/designing-content/email-designer/email-content-templates.md)
 * [Configuración de la vista móvil](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Previsualización de tu correo electrónico](/help/designing-content/email-designer/preview-your-email.md)

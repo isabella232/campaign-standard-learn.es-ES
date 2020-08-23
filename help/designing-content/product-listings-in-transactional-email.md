@@ -1,5 +1,5 @@
 ---
-title: Configurar listados de productos en correos electrónicos transaccionales
+title: Configuración de listados de productos en correos electrónicos transaccionales
 description: En los vídeos se explican los pasos necesarios para configurar los listados de productos en correos electrónicos transaccionales en Adobe Campaign Standard (ACS).
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Puede configurar un correo electrónico de redireccionamiento que tenga una list
 
 Los siguientes vídeos explican los pasos necesarios para configurar [!UICONTROL product listings] en [!UICONTROL transactional emails].
 
->[NOTA]
+>[!NOTE]
 >
 >Esta función se denomina Bucle en los vídeos.
 

@@ -8,8 +8,9 @@ tutorials-title: Tutoriales
 tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
@@ -103,15 +104,15 @@ ht-degree: 96%
 + Administración {#administrating}
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + Panel de control de Campaign{#control-panel}
-      + [Información general del Panel de control de Campaign](/help/administrating/control-panel/control-panel-overview.md)
+      + [Información general del panel de control de Campaign](/help/administrating/control-panel/control-panel-overview.md)
       + [Monitorización de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generación de una clave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Conexión a un servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegación de subdominios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Adición de certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Administración de registros TXT de Google](/help/administrating/control-panel/google-txt-record-management.md)
-      + Administración de claves GPG{#gpg-key-management}
-         + [Información general sobre la administración de claves GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+      + Administración de claves GPG {#gpg-key-management}
+         + [Administración de claves GPG: información general](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Generación e instalación de claves GPG para el cifrado de datos](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Uso de una clave GPG para cifrar datos](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Descifrado de datos](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)

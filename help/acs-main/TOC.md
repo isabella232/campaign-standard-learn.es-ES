@@ -11,10 +11,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
+      + [Añadir un grupo de control en un envío](/help/communication-channels/email/control-groups.md)
+      + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + Correos electrónicos con tecnología AI {#journey-ai}
+         + [Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
       + SMS{#sms}
          + [Creación de un envío de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)

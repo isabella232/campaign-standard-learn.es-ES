@@ -3,10 +3,10 @@ title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **[Administración de claves GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Añadir grupos de control a un envío](/help/communication-channels/email/control-groups.md)**
 
-   *Obtenga información sobre cómo generar e instalar un par de claves públicas/privadas en una instancia de Campaign específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos*
+   *Obtenga información sobre cómo crear un[!UICONTROL control group]destinatario al definir el envío.*
 
-* **[Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Obtenga información sobre cómo configurar y ejecutar un flujo de trabajo con la actividad de API externa.*
+   *Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo AI de Viaje. Obtenga información sobre cómo vista las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar envíos de correo electrónico mediante una fórmula de tiempo de envío.*
+
+* **[Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *Aprenda a vista las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y cómo crear reglas de tipología para gestionar la fatiga de los clientes.*
 
 ## Selección de personal
 
@@ -43,16 +47,16 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Diseñador de correos electrónicos (vídeos)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Diseñador de correos electrónicos (vídeos)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>
     <p>
-    <em>El Diseñador de correos electrónicos permite la creación visual, rápida y sencilla de correos electrónicos personalizados individualmente.</em>
+    <em> Aumente su eficacia como administrador administrando la configuración y rastreando los usos de sus instancias con el Panel de control de Campaign .</em>
     <p>
   </td>
   <td>

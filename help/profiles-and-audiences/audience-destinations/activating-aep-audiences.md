@@ -1,5 +1,5 @@
 ---
-title: Activar audiencias de Adobe Experience Platform en un flujo de trabajo
+title: Activación de audiencias de Adobe Experience Platform en un flujo de trabajo
 description: En este vídeo se explica cómo activar la Audiencia de Consulta de servicios de datos en un flujo de trabajo mediante la actividad "Leer audiencia".
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

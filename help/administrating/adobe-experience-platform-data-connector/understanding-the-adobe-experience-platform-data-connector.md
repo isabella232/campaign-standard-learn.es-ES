@@ -1,5 +1,5 @@
 ---
-title: Explicación del conector de datos de Adobe Experience Platform
+title: Explicación del Adobe Experience Platform Data Connectoror
 description: El conector de datos de Adobe Experience Platform ayuda a los clientes existentes a que sus datos estén disponibles en Adobe Experience Platform asignando datos XTK (datos ingestados en Campaña) a datos del modelo de datos de experiencia (XDM) en Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] está dirigido a ingeniero
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Este vídeo proporciona información general sobre el Adobe Experience Platform[!UICONTROL Data Connector](09:35 min)*
+*Este vídeo ofrece información general sobre el Adobe Experience Platform[!UICONTROL Data Connector](09:35 min)*
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] está dirigido a ingeniero
 Los siguientes tutoriales describen los pasos clave para realizar una asignación de datos entre Campaign Standard y Adobe Experience Platform:
 
 1. [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Asignación de Eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Asignación de eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Asignación de datos de tabla de raíz](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modificación de la asignación de datos](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [Comprobación del estado de los trabajos de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)

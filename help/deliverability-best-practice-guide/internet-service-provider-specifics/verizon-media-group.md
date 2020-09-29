@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: f98966913cb4adfcd15b578ea4589ff00798a037
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Verizon Media Group](Yahoo, AOL, Verizon, etc.)
+# [!DNL Verizon Media Group] (Yahoo, AOL, Verizon, etc.)
 
 [!DNL Verizon Media Group] generalmente es uno de los tres dominios principales para la mayoría de las listas B2C. Se comportan de forma algo única, ya que generalmente se limitarán o agrandarán el correo si surgen problemas de reputación.
 

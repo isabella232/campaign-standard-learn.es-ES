@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,6 +26,10 @@ Así es como se le dice al usuario que algo ha pasado en segundo plano:
 * Haga clic con el botón derecho en la carpeta del paquete ([!DNL com.example.acspushtutorial]) y [!DNL New ->Java Class]
 * Asigne un nombre a esta clase *[!DNL MyService]* y asegúrese de que se extiende [!DNL FirebaseMessagingService]
 * Crear *[!DNL sendNotification]* método en esta clase. En este método debe establecer el contenido y el canal de la notificación mediante un [!DNL NotificationCompat.Builder] objeto. Para que aparezca la notificación, llame [!DNL NotificationManagerCompat.notify()]y pase un ID único para la notificación y el resultado de [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## Modificar [!DNL AndroidManifest.xml]
 
 Añada el servicio que se creó en su [!DNL AndroidManifest.xml]. El final [!DNL AndroidManifest.xml] debería ser como el siguiente:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

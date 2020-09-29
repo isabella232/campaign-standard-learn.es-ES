@@ -11,10 +11,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
    + [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Crear y enviar por correo electrónico](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Creación de un correo electrónico](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Perfiles y audiencias {#profiles-and-audiences}
-   + [Creación de perfiles y audiencias: información general](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Creación de perfiles y audiencias: Información general](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creación de un perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creación de un perfil de prueba](/help/profiles-and-audiences/test-profiles.md)
    + [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)

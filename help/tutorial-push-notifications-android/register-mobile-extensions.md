@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,6 +23,10 @@ En esta parte agregaremos el código para registrar las extensiones Perfil del u
 Abra el proyecto en el [!DNL Android] estudio. Elimine todo el código en MainApp **excepto la primera línea, que es la instrucción** del paquete.
 
 Pegue el siguiente código en MainApp
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;

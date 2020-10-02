@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 0%
@@ -33,7 +33,7 @@ La forma más común de registro **en el** sitio web es la &quot;inclusión úni
 * Las direcciones de correo electrónico no confirmadas pueden tener errores tipográficos o estar mal formadas, ser incorrectas o utilizarse de forma maliciosa. Los errores tipográficos y las direcciones mal formadas provocan altas tasas de devoluciones, lo que puede provocar bloqueos emitidos por los ISP o pérdida de reputación de IP.
 * El envío malintencionado de trampas de spam conocidas (a veces llamadas &quot;envenenamiento de listas&quot;) puede causar enormes problemas con el envío y la reputación si el dueño de esa trampa actúa. Es imposible saber si el destinatario realmente desea agregarse a una lista de marketing sin una confirmación. Esto hace que sea igualmente imposible establecer las expectativas del destinatario y puede llevar a un aumento de las quejas de spam —y a veces a la inclusión en una lista negra si el correo recopilado resulta ser una trampa de spam.
 
-Para obtener instrucciones sobre cómo minimizar los problemas presentados tanto en el almacén físico como en la opción de inclusión única, vaya a la sección [Calidad de](#data-quality-and-hygiene) datos e higiene de esta guía para conocer los detalles y beneficios de la inclusión de dobles.
+Para obtener instrucciones sobre cómo minimizar los problemas presentados tanto en el almacén físico como en la opción de inclusión única, vaya a la sección Calidad e higiene de los datos de esta guía para conocer los detalles y beneficios de la inclusión de dobles.
 
 Los suscriptores suelen utilizar direcciones de eliminación, direcciones caducadas o direcciones que no son suyas para obtener lo que desean de un sitio web, pero también evitan agregarlas a listas de marketing. Cuando esto sucede, las listas de los especialistas en mercadotecnia pueden dar como resultado un número elevado de devoluciones, tasas elevadas de quejas de spam y suscriptores que no hacen clic, abren o se comprometen positivamente con los correos electrónicos. Esto puede verse como una bandera roja para los proveedores de buzones de correo y los ISP.
 

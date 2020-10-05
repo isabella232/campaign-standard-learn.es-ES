@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -20,18 +20,18 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allow list]&quot; y &quot;[!UICONTROL block list]&quot; en la documentación de Adobe Campaign. Algunas incidencias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, los nombres de opciones, el código interno y los vídeos de tutoriales. Se reemplazarán en próximas versiones del Panel de control de Campaign.
+>Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allow list]&quot; y &quot;[!UICONTROL block list]&quot; en la documentación de Adobe Campaign. Algunas incidencias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, los nombres de opciones, el código interno y los vídeos de tutoriales. Se reemplazarán en próximas versiones del panel de control de Campaign.
 
-El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones IP en [!UICONTROL allow list].
+El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por [!UICONTROL allow list] direcciones IP.
 
-## Acceso al [!UICONTROL Control Panel]
+## Acceso [!UICONTROL Control Panel]
 
-Para acceder al Panel de control de Campaign, vaya a la página principal de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acceder al panel de control de Campaign, vaya a la página principal de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    o
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > Tarjeta de **[!UICONTROL Control Panel]**
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]tarjeta**
 
    o
 
@@ -41,20 +41,20 @@ Para acceder al Panel de control de Campaign, vaya a la página principal de Exp
 
 Antes de comenzar, complete los siguientes requisitos previos:
 
-### Confirme [!DNL IMS Org ID]
+### Confirmar [!DNL IMS Org ID]
 
-Tiene que saber su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
+Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Comprobación de [!DNL IMS Org ID] (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=spa)
+*Comprobación de[!DNL IMS Org ID](00:26 min)*
 
 ### Derechos de administrador
 
 Se requieren derechos de administrador para acceder al [!UICONTROL Control Panel].
-En el siguiente vídeo se explica cómo agregar un administrador a una instancia de Campaign
+En el siguiente vídeo se explica cómo añadir un administrador a una instancia de Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Adición de un administrador al perfil del producto &quot;[!UICONTROL Administrators]&quot; para utilizarlo [!UICONTROL Control Panel] (01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=spa)
+*Adición de un administrador al perfil del producto &quot;[!UICONTROL Administrators]&quot; para utilizarlo[!UICONTROL Control Panel](01:03 min)*
 
 ## Tutoriales del Panel de control de Campaign
 
@@ -78,7 +78,7 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
 * **Administración de claves GPG**
 
-   *Obtenga información sobre cómo generar e instalar un par de claves públicas/privadas en una instancia de Campaign específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos*
+   *Aprenda cómo generar e instalar un par de claves pública y privada en una instancia específica de Campaign para el cifrado de datos salientes y para importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes:*
 
    * [Generación e instalación de claves GPG para el cifrado de datos](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [Uso de una clave GPG para cifrar datos](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
@@ -90,5 +90,5 @@ En el siguiente vídeo se explica cómo agregar un administrador a una instancia
 
 ## Recursos adicionales
 
-* [Centro de ayuda del Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda de panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
 

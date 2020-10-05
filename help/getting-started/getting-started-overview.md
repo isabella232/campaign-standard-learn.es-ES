@@ -1,6 +1,6 @@
 ---
 title: Introducción a Adobe Campaign Standard
-description: Este vídeo le ofrece información general sobre la interfaz de usuario de Adobe Campaign Standard y las funciones principales y principales.
+description: Este vídeo le ofrece información general sobre la interfaz de usuario de Adobe Campaign Standard, así como sobre las funcionalidades principales y clave.
 feature: User Interface
 topics: null
 kt: null
@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 2%
+source-wordcount: '191'
+ht-degree: 38%
 
 ---
 
@@ -25,15 +25,16 @@ Controle todo el proceso de creación, ejecución y seguimiento de campañas ent
 Hay un conjunto de tutoriales disponibles para ayudarle a empezar a usar Adobe Campaign Standard:
 
 * [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-* [Información general funcional](/help/getting-started/functional-overview.md)
 * [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
-* [Configurar una lista](/help/getting-started/configure-a-list.md)
-* [Explorar la jerarquía y las Actividades de mercadotecnia](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-* [Administrar campañas](/help/getting-started/managing-campaigns.md)
-* [Comprender perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
+* [Configuración de una lista](/help/getting-started/configure-a-list.md)
+* [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
+* [Administración de campañas](/help/getting-started/managing-campaigns.md)
+* [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
+* [Creación de un correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
-* [Introducción al sistema de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-* [La mercadotecnia móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)*[crece con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
+* [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
+* [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+* [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 
 ## Recursos adicionales
 

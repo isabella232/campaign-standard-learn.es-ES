@@ -11,10 +11,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 91%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,13 +25,12 @@ ht-degree: 91%
 + Introducción {#getting-started}
    + [Información general](/help/getting-started/getting-started-overview.md)
    + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Información general funcional](/help/getting-started/functional-overview.md)
    + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuración de una lista](/help/getting-started/configure-a-list.md)
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
    + [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Creación de un correo electrónico](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Creación de un correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -53,12 +52,12 @@ ht-degree: 91%
       + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
-      + [Añadir un grupo de control en un envío](/help/communication-channels/email/control-groups.md)
+      + [Adición de un grupo de control en un envío](/help/communication-channels/email/control-groups.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + Correos electrónicos con tecnología AI {#journey-ai}
+      + Correos electrónicos con tecnología IA {#journey-ai}
          + [Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
@@ -84,7 +83,7 @@ ht-degree: 91%
 + Diseño y personalización del contenido {#designing-content}
    + Diseñador de correo electrónico{#email-designer}
       + [Información general](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Introducción al diseñador de correo electrónico](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Introducción al Diseñador de correo electrónico](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introducción a las plantillas de contenido de correo electrónico](/help/designing-content/email-designer/email-content-templates.md)
       + [Configuración de la vista móvil](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Previsualización de su análisis de correo electrónico y antispam](/help/designing-content/email-designer/preview-your-email.md)
@@ -122,7 +121,7 @@ ht-degree: 91%
          + [Descifrado de datos](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Solución de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Explicación del Adobe Experience Platform Data Connectoror](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Asignación de eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Asignación de datos de tabla de inicialización](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
@@ -137,3 +136,5 @@ ht-degree: 91%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
++ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Panel de control](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

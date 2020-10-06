@@ -49,11 +49,11 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Mire[!DNL IMS Org ID](00:26 min)*
+*Mire [!DNL IMS Org ID] (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Adición de un administrador al[!UICONTROL product profile]*[!DNL administrators]*para utilizarlo[!UICONTROL Control Panel](01:03 min)*
+*Adición de un administrador al [!UICONTROL product profile] [!DNL administrators] para utilizarlo [!UICONTROL Control Panel] (01:03 min)*
 
 ### Documentación útil
 

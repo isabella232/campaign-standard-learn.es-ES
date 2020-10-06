@@ -1,6 +1,6 @@
 ---
-title: Panel de control de Campaign
-description: El Panel de control de Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por ejemplo, gestionar claves GPG o subdominios y certificados.
+title: Panel de control de Campaign - Información general
+description: El Panel de control de Campaign de Adobe Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como la administración del almacenamiento SFTP por ejemplo, la administración de claves GPG o subdominios y certificados.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# Panel de control de Campaign - Información general
 
-# [!UICONTROL Control Panel] {#control-panel}
+El Panel de control de Campaign de Adobe Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como la administración del almacenamiento SFTP por ejemplo, la administración de claves GPG o subdominios y certificados.
 
->[!NOTE]
->
->Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allowlist]&quot; y &quot;[!UICONTROL denylist]&quot; en la documentación de Adobe Campaign. Algunas instancias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, nombres de opciones, código interno y los vídeos del tutorial. Se reemplazarán en próximas versiones del panel de control de Campaign.
+## Novedades
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## Acceso [!UICONTROL Control Panel]
+   *Obtenga información sobre cómo generar un par de claves GPG público/privado e instalar la clave pública en[!UICONTROL Control Panel]para poder cifrar datos antes de enviarlos desde su instancia.*
 
-Para acceder al panel de control de Campaign, vaya a la página principal de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+* **[Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+   *Obtenga información sobre cómo exportar datos con una clave GPG instalada en[!UICONTROL Control Panel].*
 
-   o
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]tarjeta**
+* **[Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   o
+   *Aprenda cómo crear una clave pública, importarla e instalarla en una instancia de[!UICONTROL Campaign]para el descifrado de datos entrantes.*
 
-* Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## Nuestra selección
 
-## Requisitos previos
-
-Antes de comenzar, complete los siguientes requisitos previos:
-
-### Confirmar [!DNL IMS Org ID]
-
-Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Comprobación de[!DNL IMS Org ID](00:26 min)*
-
-### Derechos de administrador
-
-Se requieren derechos de administrador para acceder al [!UICONTROL Control Panel].
-En el siguiente vídeo se explica cómo añadir un administrador a una instancia de Campaign
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="Delegación de subdominios en Adobe Campaign (vídeo)" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>Delegación de subdominios en Adobe Campaign (vídeo)</strong>
+    </a>
+    </div>
+    <p>
+    <em>Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Administración de registros TXT de Google (vídeos)" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Administración de registros TXT de Google (vídeos)</strong>
+    </a>
+    </div>
+    <p>
+    <em> Descubra cómo puede agregar registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con Panel de control de Campaign de Campaña.</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="Conectar a un servidor SFTP" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>Conexión a un servidor SFTP</strong>
+    </a>
+    </div>
+    <p>
+    <em>Obtenga información sobre cómo conectarse al servidor SFTP mediante una aplicación SFTP cliente, utilizando las claves que ha almacenado en el Panel de control de Campaign. </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Recursos adicionales
 
 * [Centro de ayuda de panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
-

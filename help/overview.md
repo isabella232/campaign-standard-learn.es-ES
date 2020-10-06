@@ -2,16 +2,16 @@
 title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 98%
 
 ---
 
 
-# Información general
+# Adobe Campaign Standard: Información general
 
 Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 

@@ -3,9 +3,10 @@ title: 'Administración de claves GPG: información general'
 description: En los siguientes vídeos se explica cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
 feature: Control Panel
 topics: GPG key Management
+audience: administrator
 team: TM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%

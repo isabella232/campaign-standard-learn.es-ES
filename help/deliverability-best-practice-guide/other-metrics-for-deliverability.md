@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 1%
@@ -46,7 +46,8 @@ Las devoluciones en software son errores temporales que los ISP generan cuando t
 >[!NOTE]
 >
 >Las devoluciones son un indicador clave de un problema de reputación porque pueden resaltar una fuente de datos incorrecta (devolución forzada) o un problema de reputación con un ISP (devolución suave).
-Las devoluciones en blanco suelen aparecer como parte del envío de correo electrónico y se les debe permitir resolverse durante el procesamiento de reintentos antes de caracterizarse como un problema de entrega real. Si la tasa de devoluciones suave es buena en más del 30 por ciento para un único ISP y no se resuelve en un plazo de 24 horas, es recomendable plantear una inquietud con el consultor de entregas de Adobe Campaign.
+>
+>Las devoluciones en blanco suelen aparecer como parte del envío de correo electrónico y se les debe permitir resolverse durante el procesamiento de reintentos antes de caracterizarse como un problema de entrega real. Si la tasa de devoluciones suave es buena en más del 30 por ciento para un único ISP y no se resuelve en un plazo de 24 horas, es recomendable plantear una inquietud con el consultor de entregas de Adobe Campaign.
 
 ## Reclamaciones
 

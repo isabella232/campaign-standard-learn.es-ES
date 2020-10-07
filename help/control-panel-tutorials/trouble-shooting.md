@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Solución de problemas al [!UICONTROL Control Panel]
+# Solución de problemas del [!UICONTROL Control Panel]
 
 Obtenga información sobre cómo solucionar problemas al usar el Panel de control de Campaign.
 
@@ -48,9 +48,11 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 ### Vídeos útiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Comprobación de[!DNL IMS Org ID](00:26 min)*
+
+*Mire[!DNL IMS Org ID](00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Adición de un administrador al[!UICONTROL product profile]*[!DNL administrators]*para utilizarlo[!UICONTROL Control Panel](01:03 min)*
 
 ### Documentación útil

@@ -3,13 +3,14 @@ title: Delegación de subdominios
 description: El Panel de control de Adobe Campaign le permite delegar completamente un subdominio a Adobe Campaign. Para realizar esto, siga los pasos a continuación.
 feature: Subdomains and certificates
 topics: null
+audience: administrator
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 80%

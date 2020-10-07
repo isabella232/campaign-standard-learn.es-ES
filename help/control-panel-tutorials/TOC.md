@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 85%
@@ -34,8 +34,8 @@ ht-degree: 85%
    + [Administración de registros TXT de Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configuración de instancia {#instance-settings}
    + Administración de claves GPG {#gpg-key-management}
-      + [Administración de claves GPG: información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [Administración de claves GPG: información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Solución de problemas del panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)

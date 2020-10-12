@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -49,11 +49,11 @@ El administrador debe agregar el usuario al Perfil de productos `Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Mire[!DNL IMS Org ID](00:26 min)*
+*Mire [!DNL IMS Org ID] (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Adición de un administrador al[!UICONTROL product profile]*[!DNL administrators]*para utilizarlo[!UICONTROL Control Panel](01:03 min)*
+*Adición de un administrador al [!UICONTROL product profile] [!DNL administrators] para utilizarlo [!UICONTROL Control Panel] (01:03 min)*
 
 ### Documentación útil
 

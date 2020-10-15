@@ -3,7 +3,7 @@ title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 98%
@@ -19,7 +19,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 * **[Adición de grupos de control en un envío](/help/communication-channels/email/control-groups.md)**
 
-   *Obtenga información sobre cómo crear un[!UICONTROL control group]al definir el destinatario del envío.*
+   *Obtenga información sobre cómo crear un [!UICONTROL control group] al definir el destinatario del envío.*
 
 * **[Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
     <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>

@@ -1,6 +1,6 @@
 ---
 title: Creación de una entrega de correo electrónico
-description: 'Puede crear un mensaje de correo electrónico desde una campaña, desde la página de inicio de Adobe Campaign o en la lista de actividad de marketing. También puede crear correos electrónicos recurrentes y de un solo envío a partir de un flujo de trabajo. En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal. '
+description: 'Puede crear un mensaje de correo electrónico desde una campaña, desde la página de inicio de Adobe Campaign o desde la lista de actividad de marketing. También puede crear correos electrónicos recurrentes y de un solo envío a partir de un flujo de trabajo. En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal. '
 feature: Email
 topics: null
 kt: 1807
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 16%
+ht-degree: 53%
 
 ---
 
@@ -26,6 +26,6 @@ En este vídeo se explica cómo crear un envío de correo electrónico independi
 
 ## Recursos adicionales
 
-* [Crear y enviar correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+* [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Creación de un correo electrónico (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Prácticas recomendadas relacionadas con las entregas](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [Prácticas recomendadas relacionadas con las entregas](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html)

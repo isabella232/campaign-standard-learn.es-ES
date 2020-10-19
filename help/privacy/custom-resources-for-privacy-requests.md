@@ -1,36 +1,36 @@
 ---
-title: Modificación de los recursos personalizados al configurar Adobe Campaign Standard (ACS) para solicitudes de privacidad
-description: Al configurar Adobe Campaign Standard (ACS) para gestionar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se eliminen al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir este requisito.
+title: Modificación de los recursos personalizados al configurar Adobe Campaign Standard (ACS) para las solicitudes de privacidad
+description: Al configurar Adobe Campaign Standard (ACS) para administrar las solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
 # Modificación de los recursos personalizados para solicitudes de privacidad
 
-Al configurar Adobe Campaign Standard para gestionar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se eliminen al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir este requisito.
+Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=spa)
 
 >[!NOTE]
 >
 >**Exclusión para la venta de información personal (CCPA)**
 >
->A partir de la versión 19.4, se proporciona un campo de exclusión de CCPA en la interfaz de Campaña y la API. Para 19.3, para aprovechar esta información, debe crear este campo >en Adobe Campaign Standard. Consulte la documentación [](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) detallada para obtener más información.
+>A partir de la versión 19.4, el campo Exclusión de la CCPA vendrá de serie en la interfaz y la API de Campaign. Para utilizar esta información en la versión 19.3, debe crear este >campo en Adobe Campaign Standard. Consulte la [documentación detallada](https://helpx.adobe.com/es/campaign/kb/acs-privacy.html#ccpa) para obtener más información.
 >
-> Puede comprobar su versión haciendo clic en el botón ? en la parte superior derecha de la interfaz y seleccione Acerca de.
+> Puede comprobar la versión haciendo clic en el icono ? en la parte superior derecha de la interfaz y seleccione Acerca de.
 
 ## Recursos adicionales
 
-* [Directrices generales de privacidad para la Campaña](https://helpx.adobe.com/es/campaign/kb/campaign-privacy-overview.html)
+* [Directrices generales de privacidad para Campaign](https://helpx.adobe.com/es/campaign/kb/campaign-privacy-overview.html)
 * [Creación de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)

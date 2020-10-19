@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 73%
+source-wordcount: '148'
+ht-degree: 68%
 
 ---
 
@@ -30,7 +30,8 @@ ht-degree: 73%
    + [Generación de una clave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conexión a un servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdominios y certificados {#subdomains-and-certificates}
-   + [Delegación de subdominios](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegación de subdominios completa (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegación de subdominios mediante CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Adición de certificados SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Administración de registros TXT de Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configuración de instancia {#instance-settings}

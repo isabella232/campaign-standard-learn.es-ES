@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 33%
+ht-degree: 41%
 
 ---
 
@@ -36,6 +36,6 @@ Este tutorial le guiará por los pasos necesarios para enviar notificaciones pus
 * [Paso 1: Creación de una aplicación para Android](/help/tutorial-push-notifications-android/create-android-app.md)
 * [Paso 2: Integración del SDK de Mobile](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [Paso 3: Registro de extensiones con la aplicación móvil](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [Paso 4: Definir identificador push](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [Paso 5: Propagar notificaciones](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [Paso 4: Definición del identificador push](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [Paso 5: Propagación de las notificaciones](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [Paso 6 - Enviar notificación push](/help/tutorial-push-notifications-android/send-push-notification.md)

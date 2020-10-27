@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriales del Panel de control de Adobe Campaign
-user-guide-description: Panel de control de Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como la administración del almacenamiento SFTP por instancia o las direcciones IP de lista de permitidos.
+user-guide-title: Tutoriales del Panel de control de Campaign
+user-guide-description: El panel de control de Campaign les permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones IP de la lista de permitidos.
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,23 +9,22 @@ tutorials-title: Tutoriales
 tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 
-# Tutoriales del Panel de control de Adobe Campaign {#control-panel}
+# Tutoriales del Panel de control de Campaign {#control-panel}
 
 + [Información general del panel de control de Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introducción al Panel de control](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Administración SFTP {#sftp-management}
-   + [Monitoreo de la capacidad del servidor](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [Monitorización de la capacidad del servidor](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Añadir un intervalo IP a la lista de permitidos](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generación de una clave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conexión a un servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)

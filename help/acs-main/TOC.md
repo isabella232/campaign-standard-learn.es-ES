@@ -9,12 +9,11 @@ tutorials-title: Tutoriales
 tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 94%
+source-wordcount: '497'
+ht-degree: 98%
 
 ---
 
@@ -106,7 +105,7 @@ ht-degree: 94%
       + [Creación de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administración {#administrating}
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
-   + [Panel de control](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Panel de control de Campaign](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -123,5 +122,3 @@ ht-degree: 94%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
-+ [Guía de prácticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Panel de control](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

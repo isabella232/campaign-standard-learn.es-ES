@@ -1,6 +1,6 @@
 ---
-title: Panel de control de Campaign - Información general
-description: El Panel de control de Campaign de Adobe Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como la administración del almacenamiento SFTP por ejemplo, la administración de claves GPG o subdominios y certificados.
+title: Panel de control de Campaign  - Información general
+description: El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP, la administración de claves GPG o de subdominios y certificados.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,18 +9,22 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 18%
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
-# Panel de control de Campaign - Información general
+# Información general del Panel de control de Campaign
 
-El Panel de control de Campaign de Adobe Campaign permite a los administradores de Adobe Campaign supervisar los recursos clave y realizar tareas administrativas, como la administración del almacenamiento SFTP por ejemplo, la administración de claves GPG o subdominios y certificados.
+El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP, la administración de claves GPG o de subdominios y certificados.
 
 ## Novedades
+
+* **[Supervisión de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Obtenga información sobre cómo supervisar el uso de la base de datos de sus instancias.*
 
 * **[Delegación de subdominios mediante CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -53,12 +57,12 @@ El Panel de control de Campaign de Adobe Campaign permite a los administradores 
     </a>
     </div>
     <p>
-    <em> Descubra cómo puede agregar registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a direcciones GMAIL con Panel de control de Campaign de Campaña.</em>
+    <em> Aprenda cómo añadir los registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a las direcciones de GMAIL con el Panel de control de Campaign.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Conectar a un servidor SFTP" src="./assets/27263.jpg" />
+      <img alt="Conexión a un servidor SFTP" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
@@ -66,7 +70,7 @@ El Panel de control de Campaign de Adobe Campaign permite a los administradores 
     </a>
     </div>
     <p>
-    <em>Obtenga información sobre cómo conectarse al servidor SFTP mediante una aplicación SFTP cliente, utilizando las claves que ha almacenado en el Panel de control de Campaign. </em>
+    <em>Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control de Campaign. </em>
     <p>
   </td>
 </tr>
@@ -74,4 +78,4 @@ El Panel de control de Campaign de Adobe Campaign permite a los administradores 
 
 ## Recursos adicionales
 
-* [Centro de ayuda de panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda del Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)

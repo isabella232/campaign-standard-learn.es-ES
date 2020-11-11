@@ -2,11 +2,11 @@
 title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **[Supervisión de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Monitorización de las bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Obtenga información sobre cómo supervisar el uso de la base de datos de sus instancias.*
+   *Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.*
 
 * **[Delegación de subdominios mediante CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -43,11 +43,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>

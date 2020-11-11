@@ -1,6 +1,6 @@
 ---
-title: Panel de control de Campaign  - Información general
-description: El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP, la administración de claves GPG o de subdominios y certificados.
+title: Panel de control de Campaign   - Información general
+description: El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -8,23 +8,23 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # Información general del Panel de control de Campaign
 
-El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP, la administración de claves GPG o de subdominios y certificados.
+El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
 
 ## Novedades
 
-* **[Supervisión de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Monitorización de las bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Obtenga información sobre cómo supervisar el uso de la base de datos de sus instancias.*
+   *Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.*
 
 * **[Delegación de subdominios mediante CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 

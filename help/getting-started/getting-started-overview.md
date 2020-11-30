@@ -8,7 +8,7 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Hay un conjunto de tutoriales disponibles para empezar a usar Adobe Campaign Sta
 * [Administración de campañas](/help/getting-started/managing-campaigns.md)
 * [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
 * [Creación de un correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-* [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+* [Creación de un flujo de trabajo](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
 * [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)

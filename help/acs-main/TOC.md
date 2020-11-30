@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-standard-learn
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
    + [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Creación de un correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+   + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
-   + [Creación de un flujo de trabajo](/help/managing-processes-and-data/create-workflow.md)
+   + [Creación de un flujo de trabajo](/help/managing-processes-and-data/creating-a-workflow.md)
    + Actividades de ejecución {#execution-activities}
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Actividades de gestión de datos {#data-management-activities}

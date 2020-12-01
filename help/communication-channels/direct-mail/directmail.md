@@ -1,14 +1,15 @@
 ---
 title: Crear un Correo postal
-description: El Correo postal sigue siendo un canal crítico para los especialistas en mercadotecnia de todo el mundo y ahora pueden orquestar estas interacciones fuera de línea junto con las que tienen en línea. El mismo motor que alimenta las comunicaciones digitales, como el correo electrónico y los móviles, ahora también puede personalizar los remitentes directos.
+description: El correo postal sigue siendo un canal crítico para los especialistas en mercadotecnia de todo el mundo y ahora pueden orquestar estas interacciones fuera de línea junto con las que tienen en línea. El mismo motor que alimenta las comunicaciones digitales, como el correo electrónico y los móviles, ahora también puede personalizar los remitentes directos.
 feature: direct mail
 topics: null
 kt: 1430
+thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 1%

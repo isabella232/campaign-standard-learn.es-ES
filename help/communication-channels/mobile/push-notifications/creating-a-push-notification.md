@@ -4,14 +4,15 @@ description: 'Obtenga información sobre cómo crear una notificación push en A
 feature: Push
 topics: Mobile
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -24,7 +25,7 @@ Adobe Campaign allows you to send personalized and segmented [!UICONTROL push no
 
 * **[!UICONTROL Send push notification to Campaign profiles]**:: Permite el destinatario de los perfiles de Adobe Campaign CRM que se han suscrito a la aplicación móvil y han adhesión a recibir [!UICONTROL push notifications]. Puede insertar campos de personalización en su [!UICONTROL push notification]página, como el nombre del destinatario.
 
-* **[!UICONTROL Send push notification to app subscribers]**:: Le permite enviar un mensaje [!UICONTROL push notification] a todos los usuarios de aplicaciones móviles conocidos y anónimos que hayan adhesión para recibir notificaciones de la aplicación. Puede personalizar estos mensajes con los datos recopilados de la aplicación móvil.
+* **[!UICONTROL Send push notification to app subscribers]**:: Permite enviar un mensaje [!UICONTROL push notification] a todos los usuarios de aplicaciones móviles conocidos y anónimos que hayan adhesión para recibir notificaciones de la aplicación. Puede personalizar estos mensajes con los datos recopilados de la aplicación móvil.
 
 El vídeo describe cómo enviar un [!DNL push notification to app subscribers].
 
@@ -39,4 +40,4 @@ Documentación:
 
 Tutoriales:
 
-* [Crear una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
+* [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)

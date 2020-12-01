@@ -1,24 +1,25 @@
 ---
 title: Creación y edición de una página de aterrizaje
-description: Adobe Campaign incluye páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar Páginas de aterrizaje para adquirir o actualizar perfiles existentes. En estos vídeos se explica cómo crear, editar y probar páginas de aterrizaje en Adobe Campaign Standard.
+description: Adobe Campaign incluye páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar páginas de aterrizaje para adquirir o actualizar perfiles existentes. En estos vídeos se explica cómo crear, editar y probar páginas de aterrizaje en Adobe Campaign Standard.
 feature: Landing Pages
 topics: null
 kt: 1808
+thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
 
 # Creación y edición de una página de aterrizaje {#create-and-edit-a-landing-page}
 
-Adobe Campaign le permite crear páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar Páginas de aterrizaje para adquirir o actualizar perfiles existentes.
+Adobe Campaign le permite crear páginas de aterrizaje que son formularios en línea que pueden utilizarse para capturar información sobre sus audiencias, oferta de suscripciones a un servicio, visualización de datos y ampliación de la base de datos. También se pueden utilizar páginas de aterrizaje para adquirir o actualizar perfiles existentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 

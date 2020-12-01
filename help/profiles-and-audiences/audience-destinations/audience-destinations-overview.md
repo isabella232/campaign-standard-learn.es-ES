@@ -4,11 +4,12 @@ description: Aprovechar las Audiencias de Adobe Experience Platform (AEP) en Ado
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
+thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 10%
@@ -39,5 +40,5 @@ Los siguientes tutoriales de vídeo le guiarán por los diferentes pasos:
 
 ## Recursos adicionales
 
-*[Explicación del Adobe Experience Platform Data Connectoror](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 

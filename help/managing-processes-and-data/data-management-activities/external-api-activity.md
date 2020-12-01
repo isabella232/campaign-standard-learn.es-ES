@@ -4,11 +4,12 @@ description: La actividad de API externa es una actividad de gestión de datos. 
 feature: External API activity
 topics: null
 kt: 2764
+thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
@@ -31,7 +32,7 @@ Este vídeo muestra el uso de [!UICONTROL External API activity].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 min)*
+*[!UICONTROL External API activity](06:48 min)*
 
 >[!NOTE]
 >

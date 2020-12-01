@@ -3,14 +3,15 @@ title: Creación de atributos de perfil personalizados basados en informes
 description: Los informes dinámicos de Adobe Campaign están diseñados para ser un entorno improvisado flexible en el que puede explorar datos incluyendo atributos de perfil personalizados. Le permite combinar dimensiones, métricas y intervalo de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados. En este vídeo se explica cómo crear un informe basado en atributos de perfil personalizados.
 feature: Dynamic Reporting
 kt: 1444
+thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 10%
+ht-degree: 16%
 
 ---
 

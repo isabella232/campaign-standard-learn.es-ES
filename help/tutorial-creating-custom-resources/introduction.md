@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ Para ello, enriqueceremos el modelo de [!DNL Campaign] datos ampliando los recur
 
 Este tutorial le explicará paso a paso cómo:
 
-Paso 1 - [Creación de un recurso](./creating-a-custom-resource)personalizado Paso 2 - [Configuración de una definición](./configuring-a-screen-definition-for-a-custom-resource.md)de pantalla Paso 3 - [Vinculación de recursos](./linking-custom-resources.md)personalizados Paso 4 - [Rellenado de recursos personalizados con datos](./populate-custom-resources-with-data.md)
+Paso 1 - [Creación de un recurso](./creating-a-custom-resource.md)personalizado Paso 2 - [Configuración de una definición](./configuring-a-screen-definition-for-a-custom-resource.md)de pantalla Paso 3 - [Vinculación de recursos](./linking-custom-resources.md)personalizados Paso 4 - [Rellenado de recursos personalizados con datos](./populate-custom-resources-with-data.md)
 
 ## Inicio del tutorial
 
-[Creación de un recurso personalizado](./create-a-custom-resource)
+[Creación de un recurso personalizado](./create-a-custom-resourc.md)
 
 ## Recursos adicionales
 

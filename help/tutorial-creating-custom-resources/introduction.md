@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
+source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Paso 1 - [Creación de un recurso](./creating-a-custom-resource.md)personalizado
 
 ## Inicio del tutorial
 
-[Creación de un recurso personalizado](./create-a-custom-resourc.md)
+[Creación de un recurso personalizado](./creating-a-custom-resource.md)
 
 ## Recursos adicionales
 

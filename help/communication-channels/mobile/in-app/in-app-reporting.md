@@ -1,21 +1,22 @@
 ---
-title: Informe sobre su envío en la aplicación
+title: Creación de informes sobre su envío en la aplicación
 description: La mensajería en la aplicación le permite presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento en tiempo real de un cliente dentro de la aplicación móvil.
 feature: In-App
 topics: Mobile
 kt: 2558
+thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Informe sobre su [!UICONTROL In-App] envío {#in-app-message-reporting}
+# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
 Puede revisar los datos relacionados con [!UICONTROL In-App] el envío en el resumen del envío agregando métricas [!UICONTROL In-App] específicas. También puede utilizar el informe [en la aplicación](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)predeterminado.
 

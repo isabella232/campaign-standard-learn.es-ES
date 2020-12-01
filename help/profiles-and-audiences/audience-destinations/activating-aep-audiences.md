@@ -4,11 +4,12 @@ description: En este vídeo se explica cómo activar la Audiencia de Consulta de
 feature: Audience Destinations
 topics: ACOP
 kt: 2760
+thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 7%

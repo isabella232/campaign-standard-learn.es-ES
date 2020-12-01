@@ -1,17 +1,18 @@
 ---
-title: Configurar Eventos
+title: Configuración de eventos
 description: 'Al configurar un mensaje en la aplicación en eventos de Adobe Campaign Standard (ACS), defina qué acción iniciada por el usuario activará la visualización del mensaje. '
 feature: In-App
 topics: Mobile
 kt: 2548
+thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +28,7 @@ Al configurar un [!UICONTROL In-App] mensaje, debe definir qué acción iniciada
 Algunos ejemplos son:
 
 * Un cliente ha visto un artículo
-* Un cliente agrega un artículo al carro
+* Un cliente agrega un artículo al carro de compras
 * Abandono del carro de compras
 * Un cliente ha comprado algo
 

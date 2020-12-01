@@ -3,11 +3,12 @@ title: Creación de contenido con Adobe Dreamweaver
 description: En el vídeo se explica qué se necesita para activar la integración de Dreamweaver, y cómo crear y editar contenido para Adobe Campaign Standard con Dreamweaver.
 feature: Email Designer
 kt: 1420
+thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%

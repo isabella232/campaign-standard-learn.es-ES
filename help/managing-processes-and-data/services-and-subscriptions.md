@@ -1,22 +1,23 @@
 ---
-title: Administrar servicios y suscripciones
+title: Administración de servicios y suscripciones
 description: Adobe Campaign le permite crear y administrar boletines informativos y comunicaciones entre canales mediante un conjunto de servicios. Este vídeo le mostrará cómo crear un servicio y administrar sus suscripciones en Adobe Campaign Standard (ACS).
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Administración de servicios y suscripciones{#managing-services-and-subscriptions}
 
 Adobe Campaign le permite crear y administrar boletines informativos y comunicaciones entre canales mediante un conjunto de servicios. Los mensajes solo se pueden enviar a perfiles suscritos al servicio (opción de inclusión). Estos perfiles se identifican mediante un filtro específico al crear un mensaje.
 

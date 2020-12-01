@@ -4,14 +4,15 @@ description: Puede recopilar datos de un archivo para procesarlos o importarlos 
 feature: Data management Activities
 topics: null
 kt: 1818
+thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

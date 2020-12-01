@@ -1,22 +1,23 @@
 ---
-title: Usuarios de Destinatario según su perfil de Campaña
+title: Usuarios de destino según su perfil de Campaign
 description: Esta plantilla le permite destinatario a usuarios conocidos de aplicaciones móviles con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard (ACS).
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
 
-# Usuarios de Destinatario según su [!DNL Campaign] perfil
+# Target users based on their [!DNL Campaign] profile
 
 Puede destinatario a usuarios conocidos de aplicaciones móviles (los que iniciaron sesión en la aplicación con PII) con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla es muy útil para admitir casos de uso de orquestación entre canales, en los que ya se ha dirigido a usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, se desea involucrarlos con un [!UICONTROL In-App] mensaje.
 

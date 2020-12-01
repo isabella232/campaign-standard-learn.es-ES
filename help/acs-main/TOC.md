@@ -10,7 +10,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 89%
@@ -30,7 +30,7 @@ ht-degree: 89%
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
    + [Explicación de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Creación de un correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)

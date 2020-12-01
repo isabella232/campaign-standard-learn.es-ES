@@ -1,22 +1,23 @@
 ---
-title: Configurar una lista
+title: Configuración de una lista
 description: 'En este vídeo se explica cómo puede cambiar las columnas mostradas, el orden y el orden de una vista de lista en Adobe Campaign Standard.  '
 feature: UI
 topics: null
 kt: 1821
+thumbnail: 25288.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 
-# Configurar una lista
+# Configuración de una lista
 
 En este vídeo se explica cómo puede cambiar las columnas mostradas, el orden y el orden de una vista de lista en Adobe Campaign Standard.
 

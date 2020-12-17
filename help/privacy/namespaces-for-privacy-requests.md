@@ -1,6 +1,6 @@
 ---
-title: Creación de Áreas de nombres para solicitudes de privacidad en Adobe Campaign Standard (ACS)
-description: Un requisito previo para poder crear solicitudes de acceso a la privacidad y eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign. En este vídeo se explica cómo crear Áreas de nombres para solicitudes de privacidad.
+title: Creación de áreas de nombres para solicitudes de privacidad en Adobe Campaign Standard (ACS)
+description: Un requisito previo para poder crear solicitudes de eliminación y de acceso a la privacidad, según lo requerido por el RGPD o la CCPA, es la definición del área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign. En este vídeo se explica cómo crear áreas de nombres para solicitudes de privacidad.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -8,23 +8,23 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
 # Creación de áreas de nombres para solicitudes de privacidad
 
-Un requisito previo para poder crear solicitudes de acceso a la privacidad y eliminación, según lo requerido por el RGPD o la CCPA, es la definición de la Área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign.
+Un requisito previo para poder crear solicitudes de eliminación y de acceso a la privacidad, según lo requerido por el RGPD o la CCPA, es la definición del área de nombres que se utilizará para identificar al sujeto de datos en la base de datos de Adobe Campaign.
 
-En este vídeo se explica cómo crear Áreas de nombres para solicitudes de privacidad.
+En este vídeo se explica cómo crear áreas de nombres para solicitudes de privacidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=spa)
 
 ## Recursos adicionales
 
-* [Directrices generales de privacidad para la Campaña](https://helpx.adobe.com/es/campaign/kb/campaign-privacy-overview.html)
+* [Directrices generales de privacidad para Campaign](https://helpx.adobe.com/es/campaign/kb/campaign-privacy-overview.html)

@@ -4,16 +4,16 @@ user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutoriales
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 89%
    + [Configuración de una lista](/help/getting-started/configure-a-list.md)
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
-   + [Explicación de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Creación de un correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Creación de un correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=es)
+   + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=es)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvil con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Desarrollo con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + Notificaciones push {#push}
          + [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Introducción a las notificaciones push para Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: Introducción a las notificaciones push para Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es)
       + Mensajes en la aplicación {#in-app}
          + [Introducción a los mensajes en la aplicación](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configuración de eventos](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
 + Administración {#administrating}
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
-   + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

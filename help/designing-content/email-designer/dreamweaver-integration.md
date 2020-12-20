@@ -37,5 +37,5 @@ En el vídeo se explica qué se necesita para activar la integración de Dreamwe
 ## Recursos adicionales
 
 * [Solución de problemas de la instalación de Dreamweaver en Adobe Campaign](https://helpx.adobe.com/es/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Documentación de Adobe Dreamweaver](https://helpx.adobe.com/es/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Documentación de Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Instalación de complementos y extensiones para aplicaciones de Adobe](https://helpx.adobe.com/es/creative-cloud/kb/installingextensionsandaddons.html)

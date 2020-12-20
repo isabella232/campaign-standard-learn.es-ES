@@ -8,9 +8,9 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 En Adobe Campaign, las solicitudes de privacidad son ejecutadas por los flujos de trabajo. Este vídeo describe los flujos de trabajo que acceden y eliminan las solicitudes y qué sucede cuando se ejecutan.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
 ## Recursos adicionales
 

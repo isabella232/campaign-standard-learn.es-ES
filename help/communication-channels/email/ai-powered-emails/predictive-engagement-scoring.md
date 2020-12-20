@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ La [!UICONTROL Predictive engagement scoring] predice la probabilidad de que un 
 
 Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## Recursos adicionales
 

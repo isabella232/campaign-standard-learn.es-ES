@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Nos gustaría poder usar información adicional sobre lo que un cliente ha pedid
 
 Para ello, enriqueceremos el modelo de datos [!DNL Campaign] ampliando los recursos predeterminados y agregando nuestras propias tablas personalizadas. Agregaremos un cliente y una tabla de pedidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 Este tutorial le explicará paso a paso cómo hacer lo siguiente:
 

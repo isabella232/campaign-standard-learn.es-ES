@@ -23,7 +23,7 @@ ht-degree: 11%
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
->Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
+>Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
 Obtenga información sobre cómo asignar [!UICONTROL Experience Events] en Adobe Experience Platform (AEP).
 

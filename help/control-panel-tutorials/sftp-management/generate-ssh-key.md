@@ -20,11 +20,11 @@ ht-degree: 35%
 
 # Generación de una clave SSH
 
-Debe generar una clave SSH para poder agregarla a la [!UICONTROL Control Panel].
+Debe generar una clave SSH para poder agregarla a [!UICONTROL Control Panel].
 
 ## Acceso a la administración de SFTP de [!UICONTROL Control Panel]
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+Para acceder a la Administración de SFTP en [!UICONTROL Control Panel], vaya a:
 
 * [Página de inicio de Experience Cloud ](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > Tarjeta de **[!UICONTROL Control Panel]** > **Tarjeta de SFTP**
 

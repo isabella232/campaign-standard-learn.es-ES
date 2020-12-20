@@ -11,13 +11,13 @@ translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# PASO 2: Integración [!UICONTROL Mobile SDK] con la aplicación Android
+# PASO 2: Integrar [!UICONTROL Mobile SDK] con la aplicación de Android
 
-En esta parte, integraremos la [!DNL Android] aplicación con [!UICONTROL Mobile SDK]. Para integrarla [!UICONTROL mobile SDK] con la [!DNL Android] aplicación, siga los pasos siguientes:
+En esta parte, integraremos la aplicación [!DNL Android] con [!UICONTROL Mobile SDK]. Para integrar [!UICONTROL mobile SDK] con la aplicación [!DNL Android], siga los siguientes pasos:
 
 * Abra el proyecto *ACSPushTutorial* en [!DNL Android Studio]
 * Cree una nueva clase java llamada *MainApp* que se extienda [!DNL android.app.Application]
@@ -25,7 +25,7 @@ En esta parte, integraremos la [!DNL Android] aplicación con [!UICONTROL Mobile
 
 ![main-app](assets/android-main-app.PNG)
 
-* Expanda la [!DNL Gradle Scripts] carpeta. Doble haga clic en la [!DNL build.gradle] parte del módulo. Pegue las dependencias siguientes en la sección dependencias del [!DNL build.gradle] archivo. El [!DNL build.gradle] archivo debe tener el aspecto siguiente
+* Expanda la carpeta [!DNL Gradle Scripts]. Doble haga clic en el [!DNL build.gradle] del módulo. Pegue las siguientes dependencias en la sección dependencias del archivo [!DNL build.gradle]. El archivo [!DNL build.gradle] debe tener el aspecto siguiente
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,7 +39,7 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
-* Sincronice el [!DNL Android] proyecto haciendo clic en el botón Sincronizar ahora para sincronizar el proyecto
+* Sincronice su proyecto [!DNL Android] haciendo clic en el botón sincronizar ahora para sincronizar el proyecto
 
 ## Modificar [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
@@ -54,7 +54,10 @@ Removed `{.line-numbers}` below
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-Copie la línea siguiente en el elemento[!DNL android:name=".MainApp"]de la aplicaciónGuarde el [!DNL AndroidManifest.xml]aspecto que [!DNL AndroidManifest.xml] debería tener
+Copiar la línea siguiente en el elemento de la aplicación
+[!DNL android:name=".MainApp"]
+Guarde su [!DNL AndroidManifest.xml]
+Su [!DNL AndroidManifest.xml] debe tener este aspecto
 
 <!--
 Removed `{.line-numbers}` below

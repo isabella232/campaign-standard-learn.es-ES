@@ -23,7 +23,7 @@ ht-degree: 9%
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
->Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
+>Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
 Obtenga información sobre cómo asignar distintos tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
 

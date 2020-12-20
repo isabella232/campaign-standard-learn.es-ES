@@ -4,7 +4,7 @@ description: En este vídeo se explica cómo probar los mensajes de correo elect
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ Para obtener más información, consulte la [documentación detallada del produc
 
 ## Recursos adicionales
 
-* [Prueba de mensajes mediante perfiles de destino (documentación)](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Prueba de mensajes mediante perfiles de destino (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Diseño de un correo electrónico de prueba A/B](/help/communication-channels/email/a-b-testing.md)
 * [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)

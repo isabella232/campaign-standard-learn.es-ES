@@ -1,6 +1,6 @@
 ---
-title: Supervisión de bases de datos
-description: Obtenga información sobre cómo supervisar el uso de la base de datos de sus instancias.
+title: Monitorización de las bases de datos
+description: Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.
 feature: Database Monitoring
 topics: Control Panel
 kt: 6433
@@ -13,16 +13,16 @@ translation-type: tm+mt
 source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
 
-# Supervisión de bases de datos
+# Monitorización de las bases de datos
 
 Todos los recursos, flujos de trabajo y datos de la instancia de Campaña se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial supervisar las bases de datos de las instancias con regularidad para garantizar un rendimiento óptimo.
 
-Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el [!DNL Control Panel].
+Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 

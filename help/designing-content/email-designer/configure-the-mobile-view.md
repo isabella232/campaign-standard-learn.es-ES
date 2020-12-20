@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Configure la vista móvil en la variable [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configure la vista móvil en [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo para la visualización en dispositivos móviles.
 

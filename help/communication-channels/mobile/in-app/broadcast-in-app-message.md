@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Publicación de un mensaje en la aplicación
 
-Puede retransmitir un mensaje en la aplicación, dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil. Para retransmitir un mensaje, debe usar el **[!UICONTROL Target all users of a mobile app template]** al configurar el mensaje en la aplicación.
+Puede retransmitir un mensaje en la aplicación, dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil. Para retransmitir un mensaje, debe utilizar **[!UICONTROL Target all users of a mobile app template]** al configurar el mensaje en la aplicación.
 
 Algunos de los casos de uso pertinentes de esta categoría son:
 

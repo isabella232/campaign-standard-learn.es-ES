@@ -8,9 +8,9 @@ thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo le ofrece información general sobre las funciones de creación de informes de Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
 ## Recursos adicionales
 

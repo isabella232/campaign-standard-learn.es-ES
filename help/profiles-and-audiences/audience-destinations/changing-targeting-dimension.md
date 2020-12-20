@@ -23,9 +23,9 @@ ht-degree: 21%
 >
 >Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
 >
->Póngase en contacto con [!UICONTROL Adobe Customer Support] si tiene previsto implementar esta capacidad.
+>Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Este vídeo explica cómo cambiar la dimensión de segmentación de un envío para un [!UICONTROL Platform Audience] exterior de la tabla de perfil principal en Adobe Campaign Standard.
+Este vídeo explica cómo cambiar la dimensión de segmentación de un envío para un [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 

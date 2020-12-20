@@ -19,9 +19,9 @@ ht-degree: 1%
 
 # Crear un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-El [!UICONTROL Direct Mail] canal le permite extraer una lista segmentada de destinatarios para enviarlos a una agencia o cargarlos a un servidor SFTP.
+El canal [!UICONTROL Direct Mail] permite extraer una lista segmentada de destinatarios para enviarlos a una agencia o cargarlos a un servidor SFTP.
 
-En este vídeo se explica cómo configurar un [!UICONTROL Direct Mail] envío y qué opciones son necesarias para poder agregar un perfil a un [!UICONTROL Direct Mail] envío.
+En este vídeo se explica cómo configurar un envío [!UICONTROL Direct Mail] y qué opciones se necesitan para poder agregar un perfil a un envío [!UICONTROL Direct Mail].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 

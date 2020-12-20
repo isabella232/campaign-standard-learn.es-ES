@@ -18,6 +18,6 @@ ht-degree: 35%
 
 # Configurar un [!UICONTROL landing page template]
 
-En este vídeo se explica cómo configurar [!UICONTROL landing page] plantillas.
+En este vídeo se explica cómo configurar plantillas [!UICONTROL landing page].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)

@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Rellenar recursos personalizados con datos
 
-Obtenga información sobre cómo rellenar recursos personalizados con datos de un [!DNL CSV] archivo mediante un flujo de trabajo.
+Obtenga información sobre cómo rellenar recursos personalizados con datos de un archivo [!DNL CSV] mediante un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-Para obtener más información sobre cómo rellenar los recursos personalizados mediante un [!DNL API], consulte la documentación: [Interactuar con recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+Para obtener más información sobre cómo rellenar recursos personalizados mediante [!DNL API], consulte la documentación: [Interactuar con recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)

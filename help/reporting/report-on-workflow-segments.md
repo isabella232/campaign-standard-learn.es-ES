@@ -25,4 +25,4 @@ El siguiente vídeo explica los tres pasos necesarios para el destinatario de es
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)

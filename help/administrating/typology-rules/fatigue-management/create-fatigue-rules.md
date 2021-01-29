@@ -9,10 +9,10 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 24%
+source-wordcount: '92'
+ht-degree: 25%
 
 ---
 
@@ -28,4 +28,4 @@ Para crear [!UICONTROL fatigue rules], debe definir un número máximo de mensaj
 
 ## Recursos adicionales
 
-* [Reglas de fatiga (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/working-with-typology-rules/fatigue-rules.html)
+* [Reglas de fatiga (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)

@@ -1,7 +1,7 @@
 ---
 title: 'Actividad de señal externa: llame a un flujo de trabajo con parámetros'
-description: La Actividad de señal externa se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo viaje del cliente a diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite soportar viajes de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
-feature: External Signal Activity
+description: La Actividad Señal externa se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido del cliente en diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite recorridos de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
+feature: Actividad de señal externa
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,17 +9,17 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- Llamar a un flujo de trabajo con parámetros
 
-El [!UICONTROL External Signal activity] se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo viaje del cliente a diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite soportar viajes de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
+El [!UICONTROL External Signal activity] se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido del cliente en diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite recorridos de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
 
 En ACS 19.2, el [!UICONTROL External Signal activity] no solo puede llamar a un flujo de trabajo, sino que además pasa parámetros al flujo de trabajo (un nombre de audiencia a destinatario, un nombre de archivo para importar, una parte del contenido del mensaje, etc.) al flujo de trabajo desde otro flujo de trabajo o una llamada a la API de REST para integrarse con sus sistemas externos.
 
@@ -30,7 +30,7 @@ En el siguiente vídeo se explican los pasos de configuración necesarios para:
 1. **Recibir** parámetros externos de un sistema externo, como un sistema gestor de contenido (CRM):
 
    * Declarar los parámetros en la Actividad Señal externa
-   * Configure la llamada de API para definir los parámetros y activar la Actividad de señal externa del flujo de trabajo. Para obtener más información sobre cómo configurar una llamada de API, consulte [Activación de una Actividad de señal](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
+   * Configure la llamada de API para definir los parámetros y el déclencheur de la Actividad de señal externa del flujo de trabajo. Para obtener más información sobre cómo configurar una llamada de API, consulte [Activación de una Actividad de señal](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Personalice un flujo de trabajo con parámetros**  externos (variables de eventos):
 
@@ -45,4 +45,4 @@ En el siguiente vídeo se explican los pasos de configuración necesarios para:
 
 ## Recursos adicionales
 
-* [Señal externa (documentación)](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Señal externa (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)

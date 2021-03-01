@@ -1,7 +1,7 @@
 ---
 title: Introducción a Adobe Campaign Standard
 description: Este vídeo le ofrece información general sobre la interfaz de usuario de Adobe Campaign Standard, así como sobre las funcionalidades principales y clave.
-feature: User Interface
+feature: Interfaz de usuario
 topics: null
 kt: null
 doc-type: null
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 98%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Creación de perfiles y audiencias: información general'
 description: Obtenga información sobre cómo navegar a perfiles existentes y cómo crear perfiles y audiencias en Adobe Campaign Standard.
-feature: profiles, audiences
+feature: perfiles, audiencias
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
@@ -11,8 +11,8 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 36%
+source-wordcount: '89'
+ht-degree: 35%
 
 ---
 

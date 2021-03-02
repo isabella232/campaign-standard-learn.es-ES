@@ -3,13 +3,14 @@ cloud: experience-cloud
 product: adobe campaign
 type: Tutorial
 solution: Campaign, Campaign Standard
+feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.es-ES
 index: true
-translation-type: ht
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: ht
-source-wordcount: '130'
+translation-type: tm+mt
+source-git-commit: 140cc2966bdbeded0dcd09e85353732c5fc4dc7e
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---

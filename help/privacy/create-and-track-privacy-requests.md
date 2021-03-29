@@ -1,17 +1,17 @@
 ---
 title: Creación y seguimiento manuales de solicitudes de privacidad a través de la interfaz de usuario de Adobe Campaign
 description: Adobe Campaign le permite crear solicitudes de eliminación y de acceso a datos PII de conformidad con los actos de privacidad como RGPD y CCPA. En estos vídeos se muestra cómo crear manualmente solicitudes de privacidad y realizar un seguimiento de su evolución en la interfaz de usuario de Adobe Campaign Standard.
-feature: GDPR, CCPA
+feature: RGPD, CCPA
 topic: null
 kt: 1242
 thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '125'
+workflow-type: ht
+source-wordcount: '127'
 ht-degree: 100%
 
 ---

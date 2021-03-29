@@ -1,17 +1,17 @@
 ---
 title: Exploración de informes
 description: En este vídeo se explican los varios informes disponibles de forma predeterminada para el envío de correo electrónico.
-feature: Reporting
+feature: Sistema de informes
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '53'
+workflow-type: ht
+source-wordcount: '54'
 ht-degree: 100%
 
 ---

@@ -1,17 +1,17 @@
 ---
 title: Modificación de los recursos personalizados al configurar Adobe Campaign Standard (ACS) para las solicitudes de privacidad
 description: Al configurar Adobe Campaign Standard (ACS) para administrar las solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
-feature: GDPR, CCPA
+feature: RGPD, CCPA
 topic: null
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
-source-wordcount: '196'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---

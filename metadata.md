@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
-product: adobe campaign
-solution: Campaign, Campaign Standard
+product: campaign
+solution: Campaign Standard
 version: Standard
 type: Tutorial
 feature-set: Campaign
@@ -9,10 +9,10 @@ mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.es-ES
 index: true
 translation-type: tm+mt
-source-git-commit: 1f9aeba0e0e76570663364db3191a52876726266
+source-git-commit: c285a5493dad114c817d78692400f4056c707db4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 

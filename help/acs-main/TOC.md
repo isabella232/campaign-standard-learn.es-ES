@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [Creación de un informe dinámico](/help/reporting/creating-a-dynamic-report.md)
    + [Creación de un informe basado en atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
-+ Integraciones {#integrations}
++ Integración con otras soluciones {#integrations}
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + Uso de déclencheur para mensajes transaccionales {#triggers}
+      + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Crear un déclencheur en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Creación de un evento de déclencheur en Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Configurar mensajes transaccionales mediante datos de eventos en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Administración {#administrating}
    + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)

@@ -4,12 +4,14 @@ description: Obtenga información sobre cómo configurar la integración de Camp
 product: adobe analytics, campaign
 feature: Configuración de la aplicación
 topics: Integrations
+role: Administrator
+level: Intermediate
 kt: 6526
 thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: f7de649028fc8285f0f18fb64aaa08be91b7fc27
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%

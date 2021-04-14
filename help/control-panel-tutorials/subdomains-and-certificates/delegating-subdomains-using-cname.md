@@ -1,18 +1,18 @@
 ---
 title: Delegación de subdominios mediante CNAME
-description: Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign.
-feature: Subdomain Delegation
+description: Aprenda a delegar completamente un subdominio a Adobe Campaign.
+feature: Delegación de subdominios
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
-> El uso de CNAME para la delegación de subdominios está en fase beta y sujeto a frecuentes actualizaciones y modificaciones sin previo aviso.
+> El uso de CNAME para la delegación de subdominios está en versión beta y sujeto a frecuentes actualizaciones y modificaciones sin previo aviso.
 
-Para poder enviar correos electrónicos o publicar páginas de aterrizaje con Adobe Campaign en inicio, debe configurar un nuevo subdominio.
+Para poder empezar a enviar correos electrónicos o publicar páginas de destino con Adobe Campaign, debe configurar un nuevo subdominio.
 
-Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.
+Aprenda a configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## Recursos adicionales
 
 * [Delegación de subdominios completa (vídeo)](./subdomain-delegation.md)
-* [Configuración de un nuevo subdominio (documentación)](https://docs.adobe.com/content/help/es-ES/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Configuración de un nuevo subdominio (documentación)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=es#subdomains-and-certificates)

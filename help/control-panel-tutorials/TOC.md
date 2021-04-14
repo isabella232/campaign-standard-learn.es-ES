@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutoriales del Panel de control de Adobe Campaign
-user-guide-description: Aprenda a monitorizar los activos clave de las instancias de Adobe Campaign y realizar tareas administrativas en el Panel de control de Campaign.
+user-guide-description: Aprenda a monitorizar los activos clave de las instancias de Adobe Campaign y a realizar tareas administrativas en el Panel de control de Campaign.
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Standard#recommended/solutions/campaign

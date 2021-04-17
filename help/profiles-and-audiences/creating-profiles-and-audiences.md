@@ -1,21 +1,23 @@
 ---
 title: 'Creación de perfiles y audiencias: información general'
-description: Obtenga información sobre cómo navegar a perfiles existentes y cómo crear perfiles y audiencias en Adobe Campaign Standard.
-feature: perfiles, audiencias
+description: Obtenga información sobre cómo navegar a perfiles existentes y cómo crear perfiles y audiencias.
+feature: Perfiles, audiencias
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
-
 
 # Creación de perfiles y audiencias: información general
 
@@ -26,12 +28,12 @@ Adobe Campaign tiene dos tipos o perfiles:
 
 Los perfiles agrupados según uno o varios criterios comunes se denominan **audiencias**.
 
-En este vídeo se explica cómo desplazarse a perfiles existentes y cómo crear perfiles y audiencias en Adobe Campaign Standard.
+En este vídeo se explica cómo navegar a perfiles existentes y cómo crear perfiles y audiencias en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
 ## Recursos adicionales
 
-* [Crear un Perfil](/help/profiles-and-audiences/creating-a-profile.md)
-* [Crear un Perfil de prueba](/help/profiles-and-audiences/test-profiles.md)
-* [Importación de Perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)
+* [Crear un perfil](/help/profiles-and-audiences/creating-a-profile.md)
+* [Crear un perfil de prueba](/help/profiles-and-audiences/test-profiles.md)
+* [Importación de perfiles con un flujo de trabajo](/help/managing-processes-and-data/importing-profiles.md)

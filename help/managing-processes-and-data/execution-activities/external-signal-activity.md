@@ -1,45 +1,47 @@
 ---
 title: 'Actividad de señal externa: llame a un flujo de trabajo con parámetros'
-description: La Actividad Señal externa se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido del cliente en diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite recorridos de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
-feature: Actividad de señal externa
+description: '"Aprenda a iniciar un flujo de trabajo desde otro para admitir recorridos de cliente más complejos, mientras puede supervisar y reaccionar mejor ante los problemas".'
+feature: Actividad de ejecución
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
 
-
-# [!UICONTROL External Signal activity ]- Llamar a un flujo de trabajo con parámetros
+# [!UICONTROL External Signal activity ]- Invocación de un flujo de trabajo con parámetros
 
 El [!UICONTROL External Signal activity] se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido del cliente en diferentes flujos de trabajo. Permite el inicio de un flujo de trabajo desde otro, lo que permite recorridos de clientes más complejos, mientras que se puede supervisar y reaccionar mejor en caso de problemas.
 
-En ACS 19.2, el [!UICONTROL External Signal activity] no solo puede llamar a un flujo de trabajo, sino que además pasa parámetros al flujo de trabajo (un nombre de audiencia a destinatario, un nombre de archivo para importar, una parte del contenido del mensaje, etc.) al flujo de trabajo desde otro flujo de trabajo o una llamada a la API de REST para integrarse con sus sistemas externos.
+En ACS 19.2, el [!UICONTROL External Signal activity] no solo puede llamar a un flujo de trabajo, sino que también puede pasar parámetros al flujo de trabajo (un nombre de audiencia a destinatario, un nombre de archivo a importar, una parte del contenido del mensaje, etc.) al flujo de trabajo desde otro flujo de trabajo o una llamada a la API de REST para integrarlo con sus sistemas externos.
 
-Esto también incluye una nueva Actividad **Test** en la que puede ejecutar pruebas con esta funcionalidad.
+Esto también incluye una nueva actividad **Test** en la que puede ejecutar pruebas con esta funcionalidad.
 
 En el siguiente vídeo se explican los pasos de configuración necesarios para:
 
-1. **Recibir** parámetros externos de un sistema externo, como un sistema gestor de contenido (CRM):
+1. **Recibir** parámetros externos de un sistema externo, como un sistema de administración de contenido (CRM):
 
-   * Declarar los parámetros en la Actividad Señal externa
-   * Configure la llamada de API para definir los parámetros y el déclencheur de la Actividad de señal externa del flujo de trabajo. Para obtener más información sobre cómo configurar una llamada de API, consulte [Activación de una Actividad de señal](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
+   * Declarar los parámetros en la actividad Señal externa
+   * Configure la llamada de API para definir los parámetros y el déclencheur de la actividad de señal externa del flujo de trabajo. Para obtener más información sobre cómo configurar una llamada de API, consulte [Activación de una actividad de señal](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Personalice un flujo de trabajo con parámetros**  externos (variables de eventos):
 
-   Una vez activado el flujo de trabajo, los parámetros se ingieren en las variables de eventos del flujo de trabajo y se pueden utilizar dentro del mismo. Consulte la [documentación](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) para ver todas las actividades que se pueden personalizar con variables de evento:
+   Una vez activado el flujo de trabajo, los parámetros se incorporan en las variables de eventos del flujo de trabajo y se pueden utilizar en el flujo de trabajo. Consulte la [documentación](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) para todas las actividades que se pueden personalizar con variables de evento:
 
-   * Configurar la Actividad de prueba (nueva en 19.2)
-   * Configurar la Actividad de Audiencia de lectura y Envío de correo electrónico
+   * Configurar la actividad de prueba (nuevo en 19.2)
+   * Configurar la audiencia de lectura y la actividad de entrega de correo electrónico
 
-1. **Configurar una** actividad de finalización para llamar a un flujo de trabajo con parámetros externos
+1. **Configuración de una** actividad final para llamar a un flujo de trabajo con parámetros externos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 

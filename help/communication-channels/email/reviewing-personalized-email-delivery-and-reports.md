@@ -1,25 +1,27 @@
 ---
 title: Revisión de un envío de correo electrónico e informes
-description: Este vídeo explica cómo revisar un envío de correo electrónico personalizado y explora los distintos informes disponibles en Adobe Campaign Standard (ACS).
-feature: Reporting
+description: Obtenga información sobre cómo revisar una entrega de correo electrónico personalizado y explore los distintos informes disponibles en Adobe Campaign Standard.
+feature: Sistema de informes
 topics: null
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
+exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 21%
+source-wordcount: '81'
+ht-degree: 23%
 
 ---
 
-
 # Revisión de un envío de correo electrónico e informes
 
-Este vídeo explica cómo revisar un envío de correo electrónico personalizado y explora los distintos informes disponibles en Adobe Campaign Standard.
+En este vídeo se explica cómo revisar un envío de correo electrónico personalizado y explora los distintos informes disponibles en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
@@ -28,4 +30,4 @@ Este vídeo explica cómo revisar un envío de correo electrónico personalizado
 * [Crear un correo electrónico desde la página principal](/help/communication-channels/email/create-email-from-homepage.md)
 * [Envío de una prueba, preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
 * [Creación de un informe dinámico](/help/reporting/creating-a-dynamic-report.md)
-* [Creación de un informe dinámico mediante atributos de Perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+* [Creación de un informe dinámico mediante atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)

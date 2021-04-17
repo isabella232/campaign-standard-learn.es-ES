@@ -1,43 +1,45 @@
 ---
 title: Introducción a los mensajes en la aplicación
-description: El canal de mensajería en la aplicación de Adobe Campaign Standard (ACS) le permite presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento en tiempo real de un cliente dentro de la aplicación móvil.
-feature: In-App
+description: '"Aprenda a presentar al usuario mensajes en la aplicación contextualmente relevantes como respuesta al comportamiento de un cliente en tiempo real dentro de la aplicación móvil".'
+feature: En la aplicación
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '747'
 ht-degree: 12%
 
 ---
 
+# Introducción a los [!UICONTROL In-App] mensajes {#introduction}
 
-# Introducción a los mensajes [!UICONTROL In-App] {#introduction}
+El canal [!UICONTROL In-App Messaging] permite mostrar un mensaje cuando el usuario está activo dentro de la aplicación móvil. Este canal requiere que las aplicaciones móviles se integren con [!UICONTROL Adobe Experience Platform SDK].
 
-El canal [!UICONTROL In-App Messaging] permite mostrar un mensaje cuando el usuario está activo en la aplicación móvil. Este canal requiere que las aplicaciones móviles se integren con [!UICONTROL Adobe Experience Platform SDK].
-
-En este tutorial se explican los pasos necesarios para configurar las propiedades móviles, la extensión [!UICONTROL Launch] del canal [!UICONTROL In-App Messaging], así como cómo preparar, personalizar y enviar mensajes [!UICONTROL In-App] en Adobe Campaign Standard. Los vínculos le llevarán a los tutoriales de vídeo sobre cada uno de los temas destacados.
+Este tutorial explica los pasos necesarios para configurar las propiedades móviles, la extensión [!UICONTROL Launch] para el canal [!UICONTROL In-App Messaging] y cómo preparar, personalizar y enviar mensajes [!UICONTROL In-App] en Adobe Campaign Standard. Los vínculos le llevarán a los tutoriales en vídeo sobre cada uno de los temas destacados.
 
 ## Requisitos previos {#prerequisites}
 
-1. Asegúrese de tener acceso al canal **[!UICONTROL In-App]**. Si no puede acceder a estos canales, póngase en contacto con el equipo de su cuenta.
+1. Asegúrese de que puede acceder al canal **[!UICONTROL In-App]** . Si no puede acceder a estos canales, póngase en contacto con el equipo de su cuenta.
 1. Compruebe que su **usuario** tiene los **permisos** necesarios en Adobe Campaign Standard y [!UICONTROL Launch].
 
-   1. En Adobe Campaign Standard, asegúrese de que el usuario de IMS forme parte de los grupos [!UICONTROL Standard User] y [!UICONTROL Administrator].\
-      Este paso permite al usuario iniciar sesión en Adobe Campaign Standard, navegar a la página de la aplicación móvil del SDK de Experience Platform y realizar la vista de las propiedades de la aplicación móvil que ha creado en [!UICONTROL Launch].
-   1. En [!UICONTROL Launch], asegúrese de que el usuario de IMS forme parte de un perfil de [!UICONTROL Launch] producto.\
-      Este paso permite al usuario iniciar sesión en [!UICONTROL Launch] para crear y vista de las propiedades. Para obtener más información acerca de los perfiles del producto en [!UICONTROL Launch], consulte [Crear el perfil del producto](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). En el perfil del producto, no debe haber permisos establecidos en la compañía o en las propiedades, pero el usuario debe poder iniciar sesión.
+   1. En Adobe Campaign Standard, asegúrese de que el usuario de IMS forma parte de los grupos [!UICONTROL Standard User] y [!UICONTROL Administrator] .\
+      Este paso permite al usuario iniciar sesión en Adobe Campaign Standard, navegar a la página de la aplicación móvil del SDK de Experience Platform y ver las propiedades de la aplicación móvil que ha creado en [!UICONTROL Launch].
+   1. En [!UICONTROL Launch], asegúrese de que el usuario de IMS forme parte de un perfil de producto [!UICONTROL Launch].\
+      Este paso permite al usuario iniciar sesión en [!UICONTROL Launch] para crear y ver las propiedades. Para obtener más información sobre los perfiles de producto en [!UICONTROL Launch], consulte [Creación del perfil de producto](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). En el perfil de producto, no debe haber permisos establecidos en la empresa o en las propiedades, pero el usuario debe poder iniciar sesión.
 
 1. En Adobe Experience Platform Launch:
 
-   1. Cree una propiedad móvil e instrumente la aplicación móvil con el SDK de Experience Platform.
+   1. Cree la aplicación móvil creando una propiedad móvil e instrumente la aplicación móvil con el SDK de Experience Platform.
    1. Instale la extensión **Adobe Campaign Standard** para su aplicación móvil.
 
-Para obtener más información sobre las extensiones, consulte la [Configuración de la extensión de Campaign Standard en Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) en [!UICONTROL Adobe Launch ]documentación.
+Para obtener más información sobre las extensiones, consulte la documentación [Configurar extensión de Campaign Standard en Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) en [!UICONTROL Adobe Launch ].
 
 ## Pasos para configurar [!UICONTROL In-App] mensajes {#steps-to-set-up}
 
@@ -45,35 +47,35 @@ Para obtener más información sobre las extensiones, consulte la [Configuració
 
 1. [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Crear, administrar y publicar [!UICONTROL In-App] Envíos {#create-manage-publish}
+## Crear, administrar y publicar [!UICONTROL In-App] entregas {#create-manage-publish}
 
-Puede crear envíos en la aplicación una sola vez haciendo clic en la tarjeta **[!UICONTROL Create an In-App Message]** desde la página principal, desde [!UICONTROL Marketing Activities], o puede [Crear un envío en la aplicación dentro de un flujo de trabajo](/help/communication-channels/mobile/in-app/in-app-activity.md).
+Puede crear envíos en la aplicación una vez haciendo clic en la tarjeta **[!UICONTROL Create an In-App Message]** de la página principal, desde [!UICONTROL Marketing Activities], o puede [crear un envío en la aplicación dentro de un flujo de trabajo](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
-Al configurar el envío, dispone de tres opciones para el destinatario de los usuarios eligiendo entre distintas Plantillas de envíos:
+Al configurar la entrega, tiene tres opciones para dirigirse a los usuarios eligiendo entre diferentes plantillas de entrega:
 
-1. [**Retransmisión de un**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) mensaje en la aplicación para destinatario a todos los usuarios de una aplicación móvil.
+1. [**Se ha emitido un**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) mensaje en la aplicación para dirigirse a todos los usuarios de una aplicación móvil.
 
-   Este tipo de mensaje le permite enviar mensajes a todos los usuarios (actuales o futuros) de la aplicación móvil aunque no tengan un perfil existente en Adobe Campaign. Por lo tanto, la personalización no es posible cuando se personalizan los mensajes, ya que el perfil del usuario no existe necesariamente en Adobe Campaign.
+   Este tipo de mensaje le permite enviar mensajes a todos los usuarios (actuales o futuros) de la aplicación móvil aunque no tengan un perfil existente en Adobe Campaign. Por lo tanto, la personalización no es posible cuando se personalizan los mensajes, ya que el perfil de usuario no existe necesariamente en Adobe Campaign.
 
-1. Destinatario a todos los usuarios en función del perfil de su aplicación móvil.
+1. Diríjase a todos los usuarios según su perfil de aplicación móvil.
 
-   Este tipo de mensaje permite el destinatario de todos los usuarios conocidos o anónimos de una aplicación móvil que tengan un perfil móvil en Adobe Campaign. Este tipo de mensajes se puede personalizar utilizando únicamente atributos no personales y no confidenciales y no requiere un protocolo de autenticación seguro entre el SDK móvil y el servicio de mensajería en la aplicación de Adobe Campaign. Por lo tanto, la estrategia de personalización se basa en lo que ha aprendido sobre los usuarios a partir de su interacción con el dispositivo. Por ejemplo: destinatario a todos los usuarios que han iniciado la aplicación más de 5 veces en la última semana.
+   Este tipo de mensaje le permite dirigirse a todos los usuarios conocidos o anónimos de una aplicación móvil que tengan un perfil móvil en Adobe Campaign. Este tipo de mensajes se puede personalizar utilizando únicamente atributos no personales y no confidenciales y no requiere un protocolo de autenticación seguro entre el SDK móvil y el servicio de mensajería en la aplicación de Adobe Campaign. Por lo tanto, la estrategia de personalización se basa en lo que ha aprendido sobre los usuarios a partir de su interacción con el dispositivo. Por ejemplo, diríjase a todos los usuarios que hayan iniciado la aplicación más de 5 veces en la última semana.
 
 1. [**Usuarios de destino según su perfil de Campaign**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
 
-   Este tipo de mensaje le permite destinatario a perfiles de Adobe Campaign (perfiles CRM) que se han suscrito a su aplicación móvil. El mensaje se puede personalizar con todos los atributos de perfil disponibles en Adobe Campaign, pero requiere un protocolo de enlace seguro entre el SDK móvil y el servicio de mensajería en la aplicación de la Campaña para garantizar que los mensajes con información personal y confidencial sean utilizados únicamente por usuarios autorizados.
+   Este tipo de mensaje le permite dirigirse a perfiles de Adobe Campaign (perfiles CRM) que se han suscrito a su aplicación móvil. El mensaje se puede personalizar con todos los atributos de perfil disponibles en Adobe Campaign, pero requiere un protocolo de enlace seguro entre el SDK móvil y el servicio de mensajería en la aplicación de Campaign para garantizar que solo los usuarios autorizados utilicen mensajes con información personal y confidencial.
 
-Esta plantilla es útil para admitir casos de uso de orquestación entre canales, en los que ya ha segmentado usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, desea interactuar con ellos mediante un mensaje en la aplicación.
+Esta plantilla es útil para admitir casos de uso de orquestación entre canales, en los que ya ha segmentado a usuarios en otros canales, como Correo electrónico o Push, y en función de su respuesta, desea comprometerlos con un mensaje en la aplicación.
 
-## Informe de sus envíos en la aplicación {#report}
+## Informar sobre los envíos en la aplicación {#report}
 
-Una vez que el envío se haya publicado, puede [informar sobre su envío en la aplicación](/help/communication-channels/mobile/in-app/in-app-reporting.md).
+Una vez publicado el envío, puede [informar sobre su envío en la aplicación](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## Recursos adicionales
 
 * [Informe en la aplicación](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [Configuración de una propiedad móvil](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuración de una aplicación móvil mediante SDK de Adobe Experience Platform](https://helpx.adobe.com/es/campaign/kb/configuring-app-sdk.html)
+* [Configuración de una aplicación móvil mediante los SDK para Adobe Experience Platform](https://helpx.adobe.com/es/campaign/kb/configuring-app-sdk.html)
 * [Preparación y envío de un mensaje en la aplicación](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [Personalización de un mensaje en la aplicación](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [Envío de un mensaje en la aplicación dentro de un flujo de trabajo](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)

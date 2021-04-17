@@ -1,31 +1,33 @@
 ---
 title: Creación de un envío en la aplicación dentro de un flujo de trabajo
-seo-title: Creación de un envío en la aplicación en un flujo de trabajo
-description: La actividad de envío en la aplicación se utiliza generalmente para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en el mismo flujo de trabajo.
-seo-description: La actividad de envío en la aplicación se utiliza generalmente para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en el mismo flujo de trabajo.
-feature: In-App
+seo-title: Creación de un envío en la aplicación dentro de un flujo de trabajo
+description: '"Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en un flujo de trabajo".'
+seo-description: La actividad Entrega en la aplicación se utiliza generalmente para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en el mismo flujo de trabajo.
+feature: En la aplicación
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 18%
+source-wordcount: '206'
+ht-degree: 17%
 
 ---
 
+# Creación de un envío [!UICONTROL In-App] dentro de un flujo de trabajo
 
-# Crear un envío [!UICONTROL In-App] dentro de un flujo de trabajo
+La actividad Entrega en la aplicación se utiliza generalmente para automatizar el envío de un mensaje [!UICONTROL In-App] a una audiencia de destino calculada en el mismo flujo de trabajo.
 
-La actividad de envío en la aplicación se utiliza generalmente para automatizar el envío de un mensaje [!UICONTROL In-App] a una audiencia de destinatario calculada en el mismo flujo de trabajo.
+Los destinatarios se definen antes de la actividad en el mismo flujo de trabajo, a través de actividades de segmentación como consultas, intersecciones, etc.
 
-Los destinatarios se definen antes de la actividad en el mismo flujo de trabajo, mediante actividades de objetivo como consultas, intersecciones, etc.
-
-La preparación del mensaje se activa según los parámetros de ejecución del flujo de trabajo. En el panel de mensajes, puede solicitar una confirmación manual para enviar el mensaje (obligatorio de forma predeterminada). Puede realizar el inicio del flujo de trabajo manualmente o colocar una actividad de planificador en el flujo de trabajo para automatizar la ejecución.
+La preparación del mensaje se activa según los parámetros de ejecución del flujo de trabajo. En el panel de mensajes, puede elegir solicitar una confirmación manual para enviar el mensaje (requerido de forma predeterminada). Puede realizar el inicio del flujo de trabajo manualmente o colocar una actividad de planificador en el flujo de trabajo para automatizar la ejecución.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 

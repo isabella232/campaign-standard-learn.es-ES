@@ -1,29 +1,31 @@
 ---
 title: Configuración de eventos
-description: 'Al configurar un mensaje en la aplicación en eventos de Adobe Campaign Standard (ACS), defina qué acción iniciada por el usuario activará la visualización del mensaje. '
-feature: In-App
+description: '"Comprenda cómo definen los eventos qué acción emprendida por el usuario déclencheur que se muestre un mensaje en la aplicación. ”'
+feature: En la aplicación
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '215'
 ht-degree: 2%
 
 ---
 
-
 # Configurar [!UICONTROL Events] {#configuring-events}
 
-Al configurar un mensaje [!UICONTROL In-App], debe definir qué acción iniciada por el usuario activa la visualización del mensaje. Estas acciones se denominan [!UICONTROL events]. Hay tres categorías disponibles de [!UICONTROL events]: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] y [!UICONTROL Analytics events].
+Al configurar un mensaje [!UICONTROL In-App], debe definir qué acción iniciada por el usuario déclencheur el mensaje que se va a mostrar. Estas acciones se denominan [!UICONTROL events]. Hay tres categorías disponibles de [!UICONTROL events]: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] y [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] son  [!UICONTROL custom events] implementadas en la aplicación móvil.
+[!UICONTROL Mobile Application events] son  [!UICONTROL custom events] implementados en la aplicación móvil.
 
 Algunos ejemplos son:
 
@@ -32,19 +34,19 @@ Algunos ejemplos son:
 * Abandono del carro de compras
 * Un cliente ha comprado algo
 
-Debe configurar estos [!UICONTROL events] en Adobe Campaign. El siguiente vídeo describe cómo hacerlo.
+Debe configurar estos [!UICONTROL events] en Adobe Campaign. En el siguiente vídeo se describe cómo hacerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] están listos para usar  [!UICONTROL events]. Están disponibles los siguientes [!UICONTROL events]:
+[!UICONTROL Lifecycle events] están listos para usar  [!UICONTROL events]. Están disponibles las siguientes [!UICONTROL events]:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
 * [!UICONTROL crashed]
 
-Un caso de uso de ejemplo podría ser un mensaje que introduce nuevas funciones después de una actualización o una promoción de evento.
+Un ejemplo de caso de uso podría ser un mensaje que introduce nuevas funciones después de una actualización o una promoción de eventos.
 
 >[!NOTE]
 >
@@ -60,7 +62,7 @@ Se admiten las tres categorías siguientes en función de la instrumentación de
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] requiere una licencia de Adobe Analytics. Una vez configurada la [[!DNL Analytics] extensión](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) y que haya agregado [Analytics a su aplicación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), estos eventos estarán disponibles en la configuración [!UICONTROL In-App] en ACS.
+>[!UICONTROL Analytics events] requieren una licencia de Adobe Analytics. Una vez que tenga la [[!DNL Analytics] extensión configurada](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) y haya agregado [Analytics a su aplicación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), estos eventos estarán disponibles en la configuración [!UICONTROL In-App] en ACS.
 
 ## Recursos adicionales
 

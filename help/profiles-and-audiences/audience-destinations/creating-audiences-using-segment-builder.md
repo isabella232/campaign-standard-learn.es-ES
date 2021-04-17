@@ -1,21 +1,23 @@
 ---
 title: Creación de una nueva audiencia con el Generador de segmentos unificado
-description: null
-feature: Audience Destinations
+feature: Integración del servicio principal People
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: Aprenda a crear una nueva audiencia con el Generador de segmentos unificado.
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 9%
+source-wordcount: '241'
+ht-degree: 8%
 
 ---
-
 
 # Creación de una nueva audiencia con el Generador de segmentos unificado
 
@@ -25,11 +27,11 @@ ht-degree: 9%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Adobe Campaign Standard le permite generar audiencias usando datos del Perfil del cliente en tiempo real[Adobe Experience Cloud](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard le permite crear audiencias utilizando datos del [Perfil del cliente en tiempo real](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) de Adobe Experience Cloud mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Puede acceder a [!UICONTROL Unified Segment Builder] directamente desde Adobe Campaign Standard a través del módulo [!UICONTROL Audiences ]. Esto le permite administrar estas audiencias directamente en la vista de lista [!UICONTROL Audiences], donde puede editar o crear una nueva audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
+Puede acceder a [!UICONTROL Unified Segment Builder] directamente dentro de Adobe Campaign Standard a través del módulo [!UICONTROL Audiences ] . Esto le permite administrar estas audiencias directamente en la vista de lista [!UICONTROL Audiences], donde puede editar o crear una nueva audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
 
-El siguiente vídeo explica cómo se crea una nueva audiencia mediante [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
+El siguiente vídeo explica cómo se crea una audiencia nueva mediante [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
@@ -39,10 +41,10 @@ El siguiente vídeo explica cómo se crea una nueva audiencia mediante [!UICONTR
 
 Documentación:
 
-* [Información general sobre el Perfil de clientes en tiempo real](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
+* [Información general del perfil del cliente en tiempo real](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
 * [Guía del usuario del Generador de segmentos](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/segmentation/segment-builder-guide.md)
 
 Recursos de vídeo:
 
-* [Activar audiencias AEP en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Cambiar la dimensión de segmentación de un envío para una audiencia de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Activación de audiencias de AEP en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Cambiar la dimensión de segmentación de una entrega para una audiencia de Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

@@ -1,23 +1,23 @@
 ---
 title: Creación y envíos de correos electrónicos mediante un flujo de trabajo
-description: 'Puede crear un mensaje de correo electrónico desde una campaña, desde la página de inicio de Adobe Campaign o desde la lista de actividad de marketing. También puede crear correos electrónicos recurrentes y de un solo envío a partir de un flujo de trabajo. En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal. '
+description: 'Aprenda a crear un envío de correo electrónico único desde la página principal. '
 feature: Correo electrónico
 topics: null
 kt: 4319
 thumbnail: 31465.jpg
-role: business-practitioner
-level: beginner
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 translation-type: tm+mt
-source-git-commit: 1889079e0c8c87a445354c0ac0ea6481ec8799ae
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 80%
+source-wordcount: '102'
+ht-degree: 62%
 
 ---
-
 
 # Creación y envíos de correos electrónicos mediante un flujo de trabajo
 

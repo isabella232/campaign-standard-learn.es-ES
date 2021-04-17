@@ -1,34 +1,36 @@
 ---
-title: 'Publicación de un mensaje en la aplicación '
-description: La plantilla Retransmitir un mensaje en la aplicación permite el destinatario de todos los usuarios de la aplicación móvil con Adobe Campaign Standard (ACS)
-feature: In-App
+title: '"Publicación de un mensaje en la aplicación "'
+description: Descubra cómo la plantilla Broadcast le permite dirigirse a todos los usuarios de la aplicación móvil.
+feature: En la aplicación
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
 
-
 # Publicación de un mensaje en la aplicación
 
-Puede retransmitir un mensaje en la aplicación, dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil. Para retransmitir un mensaje, debe utilizar **[!UICONTROL Target all users of a mobile app template]** al configurar el mensaje en la aplicación.
+Puede emitir un mensaje en la aplicación dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil. Para transmitir un mensaje, debe utilizar el **[!UICONTROL Target all users of a mobile app template]** al configurar el mensaje en la aplicación.
 
 Algunos de los casos de uso pertinentes de esta categoría son:
 
-* Envío de tutoriales de aplicaciones móviles a los iniciadores de aplicaciones nuevos o
+* Envíe tutoriales de aplicaciones móviles a iniciadores de aplicaciones nuevos o
 * Anuncios de las nuevas versiones de funciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Creación de un mensaje de retransmisión en la aplicación mediante un[!UICONTROL SDKV5 Mobile property]*
+*Creación de un mensaje en la aplicación de difusión mediante un[!UICONTROL SDKV5 Mobile property]*
 
 ## Recursos adicionales
 

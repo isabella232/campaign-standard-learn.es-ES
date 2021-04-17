@@ -1,31 +1,33 @@
 ---
 title: Importación de perfiles con un flujo de trabajo
-description: Puede recopilar datos de un archivo para procesarlos o importarlos a la base de datos de Adobe Campaign. En este vídeo se explica cómo importar datos de perfil mediante un flujo de trabajo.
-feature: Data management Activities
+description: Obtenga información sobre cómo importar datos de perfil mediante un flujo de trabajo.
+feature: Gestión de datos
 topics: null
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
+role: Business Practitioner, Developer, Administrator
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 15%
 
 ---
 
-
 # Importación de perfiles con un flujo de trabajo{#import-profiles-with-a-workflow}
 
-Puede recopilar datos de un archivo para procesarlos o importarlos a la base de datos de Adobe Campaign.
+Puede recopilar datos de un archivo para procesarlos o importarlos en la base de datos de Adobe Campaign.
 
-En este vídeo se explica cómo utilizar las actividades [!UICONTROL Data Management] de un flujo de trabajo para importar datos de perfil.
+En este vídeo se explica cómo utilizar las actividades [!UICONTROL Data Management] en un flujo de trabajo para importar datos de perfil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
 ## Recursos adicionales
 
-* [Importación de datos paso a paso, tutorial](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard: administración de procesos y datos](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Tutorial sobre importación de datos paso a paso](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
+* [Adobe Campaign Standard: Administración de procesos y datos](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)

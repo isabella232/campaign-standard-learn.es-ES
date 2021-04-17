@@ -1,25 +1,27 @@
 ---
-title: 'Destinos de audiencia: información general'
-description: Aprovechar las Audiencias de Adobe Experience Platform (AEP) en Adobe Campaign Standard (ACS)
-feature: Audience Destinations
+title: 'Audience Destinations: Información general'
+description: Aprenda a aprovechar las audiencias de Adobe Experience Platform (AEP) en Adobe Campaign Standard (ACS)
+feature: Integración del servicio principal People
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 10%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
 
+# [!UICONTROL Audience Destinations] (BETA): Información general
 
-# [!UICONTROL Audience Destinations] (BETA)- Información general
-
-## Aprovechar las Audiencias de Adobe Experience Platform en Adobe Campaign Standard
+## Aprovechar las audiencias de Adobe Experience Platform en Adobe Campaign Standard
 
 >[!NOTE]
 >
@@ -28,17 +30,16 @@ ht-degree: 10%
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
 
-Este tutorial explica cómo aprovechar los datos de perfil centralizados y consolidados de Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard.
+En este tutorial se explica cómo aprovechar los datos de perfil centralizados y consolidados de Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard.
 
-El módulo [!UICONTROL Audiences] de Adobe Campaign Standard le permite crear segmentos utilizando datos de [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) que se encuentran en el [Perfil del cliente en tiempo real](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+El módulo [!UICONTROL Audiences] de Adobe Campaign Standard le permite crear segmentos utilizando datos de [Adobe Experience Platform - Servicios de datos](https://www.adobe.io/apis/experienceplatform/home/services.html) que se encuentra en el [Perfil del cliente en tiempo real](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
-Los siguientes tutoriales de vídeo le guiarán por los diferentes pasos:
+Los siguientes tutoriales en vídeo le guiarán por los diferentes pasos:
 
 1. [Creación de una nueva audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Activar audiencias AEP en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Cambiar la dimensión de segmentación de un envío para una Audiencia de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+2. [Activar audiencias de AEP en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+3. [Cambiar la dimensión de segmentación de una entrega para una audiencia de Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Recursos adicionales
 
 *[Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-

@@ -1,21 +1,23 @@
 ---
 title: Información general del Diseñador de correo electrónico
-description: En este vídeo se explica la funcionalidad general del Diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero. Esta página enumera todos los vídeos de funciones disponibles para el diseñador de correo electrónico de Adobe Campaign
-feature: Email Designer
+description: Comprenda la funcionalidad general del Diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero.
+feature: Diseño de correo electrónico
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # Información general del [!UICONTROL Email Designer]
 

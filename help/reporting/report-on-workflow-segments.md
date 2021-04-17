@@ -1,27 +1,29 @@
 ---
 title: Creación de un informe basado en segmentos de flujo de trabajo
-description: El sistema de informes en segmentos de flujo de trabajo permite agregar códigos de segmento de flujo de trabajo en sistemas de informes dinámicos.
-feature: Reporting on Workflow Segments
+description: Los informes sobre segmentos de flujo de trabajo permiten agregar código de segmento de flujo de trabajo en los informes dinámicos.
+feature: Sistema de informes
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
-
 # Creación de un informe basado en segmentos de flujo de trabajo
 
-Después de crear un flujo de trabajo y filtrar la población en una audiencia de objetivo diferente, puede medir la eficacia de las campañas de marketing en función de los segmentos definidos en este flujo de trabajo de objetivo.
+Después de crear un flujo de trabajo y filtrar la población a una audiencia objetivo diferente, puede medir la eficacia de las campañas de marketing en función de los segmentos definidos en este flujo de trabajo de objetivo.
 
-El siguiente vídeo explica los tres pasos necesarios para el destinatario de estos segmentos en el informe:
+El siguiente vídeo explica los tres pasos necesarios para dirigirse a estos segmentos en el informe:
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 

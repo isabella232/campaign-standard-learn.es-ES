@@ -1,21 +1,23 @@
 ---
 title: 'Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino'
-description: En este vídeo se explica cómo probar los mensajes de correo electrónico mediante la función de sustitución de perfiles.
-feature: Email
+description: Descubra cómo puede probar los mensajes de correo electrónico con la función de sustitución de perfiles.
+feature: 'Correo electrónico  '
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '177'
+ht-degree: 92%
 
 ---
-
 
 # [!UICONTROL Profile Substitution]: prueba de mensajes de correo electrónico con perfiles de destino
 

@@ -1,21 +1,23 @@
 ---
 title: Introducción a la creación de informes
-description: Este vídeo le ofrece información general sobre las funciones de creación de informes de Adobe Campaign Standard
-feature: sistema de informes
+description: Comprender las capacidades de creación de informes de Adobe Campaign Standard
+feature: Sistema de informes
 topics: null
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 83%
 
 ---
-
 
 # Introducción a la creación de informes
 

@@ -1,25 +1,27 @@
 ---
 title: Usuarios de destino según su perfil de Campaign
-description: Esta plantilla le permite destinatario a usuarios conocidos de aplicaciones móviles con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard (ACS).
-feature: In-App
+description: Obtenga información sobre cómo dirigirse a usuarios conocidos de aplicaciones móviles con mensajes personalizados con atributos de perfil CRM.
+feature: En la aplicación
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 6%
 
 ---
 
+# Usuarios de Target según su perfil [!DNL Campaign]
 
-# Usuarios de destinatario según su perfil [!DNL Campaign]
-
-Puede destinatario a usuarios conocidos de aplicaciones móviles (los que iniciaron sesión en la aplicación con PII) con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla es muy útil para admitir casos de uso de orquestación entre canales, en los que ya se ha dirigido a usuarios en otros canales, como Correo electrónico o Push, y en función de su respuesta, desea involucrarlos con un mensaje [!UICONTROL In-App].
+Puede dirigirse a usuarios conocidos de aplicaciones móviles (los que han iniciado sesión en la aplicación con PII) con mensajes personalizados con atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla es muy útil para admitir casos de uso de orquestación entre canales, ya que ya ha segmentado usuarios en otros canales como Correo electrónico o Push y, en función de su respuesta, desea interactuar con ellos con un mensaje [!UICONTROL In-App].
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 

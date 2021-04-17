@@ -1,27 +1,29 @@
 ---
-title: Crear un envío de correo electrónico o SMS multilingüe
-description: Adobe Campaign Standard (ACS) le permite simplificar las complejidades operativas del envío de campañas multilingües. Tanto los envíos de correo electrónico como los envíos SMS pueden configurarse como multilingües, lo que te permitirá enviar el correo electrónico o SMS en función del idioma preferido del perfil. El enfoque mostrado en los videos se aplica tanto al correo electrónico como a los envíos SMS.
-feature: Multi-lingual Deliveries
+title: Creación de un envío multilingüe de correo electrónico o SMS
+description: 'Aprenda a simplificar las complejidades operativas del envío de campañas multilingües. '
+feature: Correo electrónico, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
 
+# Creación de un envío multilingüe de correo electrónico o SMS
 
-# Crear un envío de correo electrónico o SMS multilingüe
+Adobe Campaign le permite simplificar las complejidades operativas del envío de campañas multilingües. Tanto los envíos por correo electrónico como los SMS se pueden configurar como multilingües, lo que le permite enviar el correo electrónico o el SMS en función del idioma preferido de un perfil.
 
-Adobe Campaign le permite simplificar las complejidades operativas del envío de campañas multilingües. Tanto los envíos de correo electrónico como los envíos SMS pueden configurarse como multilingües, lo que te permitirá enviar el correo electrónico o SMS en función del idioma preferido del perfil.
-
-En este vídeo se explica cómo crear un envío multilingüe basado en una plantilla en el ejemplo de un boletín de correo electrónico.El enfoque mostrado en los vídeos se aplica tanto al correo electrónico como a los envíos SMS.
+En este vídeo se explica cómo crear un envío multilingüe basado en una plantilla en el ejemplo de un boletín de correo electrónico. El enfoque mostrado en los vídeos se aplica tanto a los envíos de correo electrónico como de SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
 

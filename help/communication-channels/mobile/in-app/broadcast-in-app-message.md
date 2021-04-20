@@ -1,7 +1,7 @@
 ---
 title: '"Publicación de un mensaje en la aplicación "'
 description: Descubra cómo la plantilla Broadcast le permite dirigirse a todos los usuarios de la aplicación móvil.
-feature: En la aplicación
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

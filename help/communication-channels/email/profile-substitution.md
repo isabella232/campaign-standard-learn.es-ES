@@ -1,7 +1,7 @@
 ---
 title: 'Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino'
 description: Descubra cómo puede probar los mensajes de correo electrónico con la función de sustitución de perfiles.
-feature: 'Correo electrónico  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

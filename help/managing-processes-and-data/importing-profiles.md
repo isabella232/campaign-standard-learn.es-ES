@@ -1,7 +1,7 @@
 ---
 title: Importación de perfiles con un flujo de trabajo
 description: Obtenga información sobre cómo importar datos de perfil mediante un flujo de trabajo.
-feature: Gestión de datos
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

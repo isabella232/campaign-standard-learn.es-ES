@@ -1,7 +1,7 @@
 ---
 title: Exploración de la jerarquía y las actividades de marketing
 description: '"Comprenda la jerarquía de programas y campañas, cómo crear un programa de marketing y cómo crear una campaña de marketing dentro de un programa".'
-feature: Campañas, Programas
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

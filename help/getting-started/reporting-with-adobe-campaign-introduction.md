@@ -1,7 +1,7 @@
 ---
 title: Introducción a la creación de informes
 description: Comprender las capacidades de creación de informes de Adobe Campaign Standard
-feature: Sistema de informes
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

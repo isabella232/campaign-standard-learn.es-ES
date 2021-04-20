@@ -1,7 +1,7 @@
 ---
 title: Ejecución de solicitudes de privacidad
 description: En Adobe Campaign, las solicitudes de privacidad son ejecutadas por los flujos de trabajo. Este vídeo describe los flujos de trabajo que acceden y eliminan las solicitudes y qué sucede cuando se ejecutan.
-feature: RGPD, CCPA
+feature: GDPR, CCPA
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video

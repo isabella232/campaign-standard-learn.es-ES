@@ -1,7 +1,7 @@
 ---
 title: Configuración de la plantilla de una página de aterrizaje
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Páginas de aterrizaje
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

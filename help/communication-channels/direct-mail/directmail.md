@@ -1,7 +1,7 @@
 ---
 title: Crear un correo postal
 description: Aprenda a crear un correo postal.
-feature: Correo postal
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

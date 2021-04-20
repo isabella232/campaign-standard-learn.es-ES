@@ -1,7 +1,7 @@
 ---
 title: Desarrollo con Adobe Campaign
 description: Comprender los siguientes pasos potenciales para la verdadera orquestación entre canales.
-feature: Organización en todos los canales
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

@@ -1,7 +1,7 @@
 ---
 title: Usuarios de destino según su perfil de Campaign
 description: Obtenga información sobre cómo dirigirse a usuarios conocidos de aplicaciones móviles con mensajes personalizados con atributos de perfil CRM.
-feature: En la aplicación
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

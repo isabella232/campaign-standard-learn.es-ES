@@ -1,7 +1,7 @@
 ---
 title: Creación de informes sobre su envío en la aplicación
 description: '"Aprenda a presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento de un cliente en tiempo real dentro de la aplicación móvil".'
-feature: En la aplicación
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

@@ -1,7 +1,7 @@
 ---
 title: Creación y edición de una página de aterrizaje
 description: '"Aprenda a crear, editar y probar páginas de aterrizaje en Adobe Campaign Standard".'
-feature: Páginas de aterrizaje
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

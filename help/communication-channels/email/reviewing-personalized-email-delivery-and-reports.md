@@ -1,7 +1,7 @@
 ---
 title: Revisión de un envío de correo electrónico e informes
 description: Obtenga información sobre cómo revisar una entrega de correo electrónico personalizado y explore los distintos informes disponibles en Adobe Campaign Standard.
-feature: Sistema de informes
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

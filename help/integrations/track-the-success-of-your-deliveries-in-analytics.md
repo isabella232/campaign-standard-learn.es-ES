@@ -2,7 +2,7 @@
 title: Seguimiento del éxito de los envíos en Adobe Analytics
 description: Obtenga información sobre cómo configurar la integración de Campaign Standard y Analytics. Obtenga información sobre cómo crear un informe en Analytics mediante los datos recibidos del Campaign Standard y los KPI disponibles.
 product: adobe analytics, campaign
-feature: Configuración de la aplicación
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

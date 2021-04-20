@@ -1,7 +1,7 @@
 ---
 title: Configuración de la vista móvil en el Diseñador de correo electrónico
 description: '"Aprenda a ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo para la visualización móvil".'
-feature: Diseño de correo electrónico
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

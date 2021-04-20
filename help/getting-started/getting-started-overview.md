@@ -1,7 +1,7 @@
 ---
 title: Introducción a Adobe Campaign Standard
 description: Este vídeo le ofrece información general sobre la interfaz de usuario de Adobe Campaign Standard, así como sobre las funcionalidades principales y clave.
-feature: Información general
+feature: Overview
 topics: null
 kt: null
 doc-type: null

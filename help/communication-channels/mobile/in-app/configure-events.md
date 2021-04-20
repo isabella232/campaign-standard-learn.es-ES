@@ -1,7 +1,7 @@
 ---
 title: Configuración de eventos
 description: '"Comprenda cómo definen los eventos qué acción emprendida por el usuario déclencheur que se muestre un mensaje en la aplicación. ”'
-feature: En la aplicación
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

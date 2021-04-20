@@ -1,7 +1,7 @@
 ---
 title: Información general del Diseñador de correo electrónico
 description: Comprenda la funcionalidad general del Diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero.
-feature: Diseño de correo electrónico
+feature: Email Design
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg

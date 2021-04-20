@@ -1,7 +1,7 @@
 ---
 title: Prueba y publicación de una página de aterrizaje
 description: Obtenga información sobre cómo probar una página de aterrizaje creada en Adobe Campaign Standard y cómo publicarla.
-feature: Páginas de aterrizaje
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

@@ -1,7 +1,7 @@
 ---
 title: Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe
 description: '"Aprenda a convertir un correo electrónico, un envío de SMS o una plantilla de envío existente a multilingüe."'
-feature: Correo electrónico, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

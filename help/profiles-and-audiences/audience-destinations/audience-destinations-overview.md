@@ -1,7 +1,7 @@
 ---
 title: 'Audience Destinations: Información general'
 description: Aprenda a aprovechar las audiencias de Adobe Experience Platform (AEP) en Adobe Campaign Standard (ACS)
-feature: Integración del servicio principal People
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

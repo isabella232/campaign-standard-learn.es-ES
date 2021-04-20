@@ -1,7 +1,7 @@
 ---
 title: Envío de una prueba, y preparación y envío de un correo electrónico
 description: '"Obtenga información sobre cómo enviar un correo electrónico de prueba, preparar y, a continuación, enviar la entrega por correo electrónico. ”'
-feature: 'Correo electrónico  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

@@ -1,7 +1,7 @@
 ---
 title: Monitorización de bases de datos
 description: Aprenda a monitorizar el uso de la base de datos de sus instancias.
-feature: Monitorización de bases de datos
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

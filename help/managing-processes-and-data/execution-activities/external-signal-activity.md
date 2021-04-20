@@ -1,7 +1,7 @@
 ---
 title: 'Actividad de señal externa: llame a un flujo de trabajo con parámetros'
 description: '"Aprenda a iniciar un flujo de trabajo desde otro para admitir recorridos de cliente más complejos, mientras puede supervisar y reaccionar mejor ante los problemas".'
-feature: Actividad de ejecución
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

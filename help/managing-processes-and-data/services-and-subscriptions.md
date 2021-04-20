@@ -1,7 +1,7 @@
 ---
 title: Administración de servicios y suscripciones
 description: Obtenga información sobre cómo crear un servicio y administrar suscripciones.
-feature: Suscripciones
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

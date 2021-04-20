@@ -1,7 +1,7 @@
 ---
 title: Administración de campañas
 description: Aprenda a crear y administrar campañas.
-feature: 'Campañas '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

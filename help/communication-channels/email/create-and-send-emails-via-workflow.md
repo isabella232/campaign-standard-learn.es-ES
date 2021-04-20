@@ -1,7 +1,7 @@
 ---
 title: Creación y envíos de correos electrónicos mediante un flujo de trabajo
 description: 'Aprenda a crear un envío de correo electrónico único desde la página principal. '
-feature: Correo electrónico
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

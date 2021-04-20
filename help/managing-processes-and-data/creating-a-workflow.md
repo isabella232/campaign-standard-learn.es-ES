@@ -1,7 +1,7 @@
 ---
 title: Creación de un flujo de trabajo
 description: Obtenga información sobre cómo crear y editar un flujo de trabajo.
-feature: Flujos de trabajo
+feature: Workflows
 topics: null
 kt: 1809
 thumbnail: 23937.jpg

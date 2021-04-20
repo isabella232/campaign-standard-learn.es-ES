@@ -1,7 +1,7 @@
 ---
 title: Creación de atributos de perfil personalizados basados en informes
 description: Obtenga información sobre cómo crear un informe basado en atributos de perfil personalizados.
-feature: Sistema de informes
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

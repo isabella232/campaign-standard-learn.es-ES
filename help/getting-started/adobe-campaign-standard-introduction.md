@@ -1,7 +1,7 @@
 ---
 title: Introducción a Adobe Campaign Standard
 description: Este vídeo le ofrece una introducción de alto nivel a Adobe Campaign Standard.
-feature: Información general
+feature: Overview
 topics: null
 kt: 3971
 thumbnail: 29430.jpg

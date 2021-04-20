@@ -1,7 +1,7 @@
 ---
 title: Configuración de listados de productos en correos electrónicos transaccionales
 description: Aprenda qué pasos son necesarios para configurar listas de productos en correos electrónicos transaccionales.
-feature: Mensajería transaccional, Correos electrónicos
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

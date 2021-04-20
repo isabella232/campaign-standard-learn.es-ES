@@ -1,7 +1,7 @@
 ---
 title: Creación de un perfil de prueba
 description: Obtenga información sobre cómo dirigirse a destinatarios que no coincidan con los criterios de objetivo definidos para detectar cualquier uso fraudulento de la base de datos de destinatarios o para asegurarse de que los correos electrónicos llegan a las bandejas de entrada.
-feature: Perfiles de prueba
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

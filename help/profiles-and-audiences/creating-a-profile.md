@@ -1,7 +1,7 @@
 ---
 title: 'Creación de un perfil '
 description: Obtenga información sobre cómo crear un perfil y cómo agregarlo a una audiencia.
-feature: Perfiles, audiencias
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

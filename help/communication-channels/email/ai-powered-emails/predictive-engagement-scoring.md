@@ -1,7 +1,7 @@
 ---
 title: Puntuación de participación predictiva
 description: Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
-feature: Puntuación de participación predictiva
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

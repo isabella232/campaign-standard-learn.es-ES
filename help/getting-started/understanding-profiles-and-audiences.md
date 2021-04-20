@@ -1,7 +1,7 @@
 ---
 title: Explicación de los perfiles y audiencias en Adobe Campaign Standard
 description: Comprenda el concepto de perfiles y audiencias y aprenda a crear perfiles y audiencias.
-feature: Perfiles, audiencias
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

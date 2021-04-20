@@ -1,8 +1,8 @@
 ---
 title: 'Solicitudes de privacidad con Adobe Campaign Standard (ACS): Información general'
 description: El tutorial explica cómo crear solicitudes de privacidad mediante la interfaz de Adobe Campaign Standard (ACS).
-feature: RGPD, CCAP
-topic: Privacidad
+feature: GDPR, CCAP
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

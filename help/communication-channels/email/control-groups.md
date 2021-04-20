@@ -1,7 +1,7 @@
 ---
 title: Adición de un grupo de control en un envío
 description: Obtenga información sobre cómo definir un grupo de control para el envío y cómo extraer los perfiles asignados al grupo de control después de mandar el envío.
-feature: Grupos de control
+feature: Control Groups
 topics: null
 kt: 5060
 thumbnail: 40684.jpg

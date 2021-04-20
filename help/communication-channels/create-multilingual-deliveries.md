@@ -1,7 +1,7 @@
 ---
 title: Creación de un envío multilingüe de correo electrónico o SMS
 description: 'Aprenda a simplificar las complejidades operativas del envío de campañas multilingües. '
-feature: Correo electrónico, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

@@ -1,7 +1,7 @@
 ---
 title: Creación de un informe dinámico
 description: Descubra cómo crear un informe.
-feature: Sistema de informes
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

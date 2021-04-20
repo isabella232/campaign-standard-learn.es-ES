@@ -1,7 +1,7 @@
 ---
 title: Exploración de informes
 description: Comprender los distintos informes que están disponibles para una entrega por correo electrónico.
-feature: Sistema de informes
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

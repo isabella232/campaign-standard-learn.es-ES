@@ -1,7 +1,7 @@
 ---
 title: Previsualización de su análisis de correo electrónico y antispam
 description: '"Obtenga información sobre cómo previsualizar el correo electrónico y el análisis antispam".'
-feature: Diseño de correo electrónico
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

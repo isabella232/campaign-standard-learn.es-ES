@@ -1,7 +1,7 @@
 ---
 title: Trabajo con contenido existente
 description: En este vídeo se explica cómo recuperar rápidamente el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
-feature: Diseño de correo electrónico
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

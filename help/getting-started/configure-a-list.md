@@ -1,7 +1,7 @@
 ---
 title: Configuración de una lista
 description: '"Descubra cómo puede cambiar las columnas mostradas, el orden y el orden de una vista de lista en Adobe Campaign Standard.  ”'
-feature: Información general
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

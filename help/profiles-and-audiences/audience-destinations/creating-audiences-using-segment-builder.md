@@ -1,6 +1,6 @@
 ---
 title: Creación de una nueva audiencia con el Generador de segmentos unificado
-feature: Integración del servicio principal People
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

@@ -1,7 +1,7 @@
 ---
 title: Prueba A/B
 description: '"Aprenda a configurar y enviar una prueba A/B, que prueba la línea de asunto. ”'
-feature: 'Prueba A/B  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

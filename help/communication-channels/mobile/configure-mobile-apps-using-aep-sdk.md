@@ -1,7 +1,7 @@
 ---
 title: Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform
 description: Obtenga información sobre cómo configurar una aplicación móvil en Adobe Experience Platform Launch y cómo configurarla en Adobe Campaign.
-feature: En la aplicación, push, configuración de canal, integración de SDK móvil
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: null
 kt: 2501
 thumbnail: 26224.jpg

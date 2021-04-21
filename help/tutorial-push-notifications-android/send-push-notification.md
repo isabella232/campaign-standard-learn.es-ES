@@ -1,34 +1,33 @@
 ---
-title: Parte 6 - Enviar notificación push para probar su trabajo
-description: Parte 6 - Enviar notificación push para probar su trabajo
+title: 'Parte 6: Enviar notificación push para probar su trabajo'
+description: 'Parte 6: Enviar notificación push para probar su trabajo'
 feature: Push
-topics: Mobile
 kt: 4830
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 3%
+source-wordcount: '139'
+ht-degree: 4%
 
 ---
 
+# Parte 6: Enviar [!UICONTROL Push Notification] para probar su trabajo
 
-# Parte 6 - Enviar [!UICONTROL Push Notification] para probar su trabajo
+Ahora necesitamos crear y enviar un [!UICONTROL Push Notification] utilizando Adobe Campaign. . Para crear una notificación push sencilla con fines de prueba, siga los siguientes pasos.
 
-Ahora necesitamos crear y enviar un [!UICONTROL Push Notification] mediante Adobe Campaign. . Para crear una notificación push sencilla con fines de prueba, siga los pasos siguientes.
-
-* Inicie sesión en su instancia de Adobe Campaign Standard
+* Inicie sesión en la instancia de Adobe Campaign Standard.
 * Haga clic en **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Seleccione **[!UICONTROL Send push to app subscribers(mobileApp)]** y haga clic en Siguiente
 * Seleccione la aplicación móvil adecuada en la lista desplegable **[!UICONTROL Associate a Mobile App to a delivery]** y haga clic en **[!UICONTROL Next]**
-* Haga clic en la etiqueta count y debe devolver un valor bueno que sea 0. Haga clic en **[!UICONTROL Next]**
+* Haga clic en la etiqueta de recuento y debe devolver un valor bueno a 0. Haga clic en **[!UICONTROL Next]**
 * Proporcione un [!UICONTROL Message title] y [!UICONTROL Message body] significativo y haga clic en **[!UICONTROL Create]**.
-* Haga clic en **[!UICONTROL Prepare]**. Una vez finalizada la preparación, haga clic **[!UICONTROL Confirm]** para enviar el mensaje.
+* Haga clic en **[!UICONTROL Prepare]**. Una vez finalizada la preparación, haga clic en **[!UICONTROL Confirm]** para enviar el mensaje.
 
-Si todo va bien, debería ver la notificación en la aplicación de Android ejecutándose en el emulador
+Si todo va bien, debería ver notificaciones en la aplicación de Android que se ejecutan en el emulador.
 
 ## Recursos adicionales
 

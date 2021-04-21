@@ -3,8 +3,7 @@ title: Creación de un envío en la aplicación dentro de un flujo de trabajo
 seo-title: Creación de un envío en la aplicación dentro de un flujo de trabajo
 description: '"Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en un flujo de trabajo".'
 seo-description: La actividad Entrega en la aplicación se utiliza generalmente para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en el mismo flujo de trabajo.
-feature: In App
-topics: Mobile
+feature: En la aplicación
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -14,7 +13,7 @@ exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 17%

@@ -1,8 +1,7 @@
 ---
 title: Cambio de la dimensión de segmentación
 description: En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal de Adobe Campaign Standard.
-feature: People Core Service Integration
-topics: ACOP
+feature: Integración del servicio principal People
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 20%

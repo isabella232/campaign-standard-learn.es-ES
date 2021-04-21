@@ -2,20 +2,19 @@
 title: Modificación de la asignación de datos
 description: Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
 kt: 2830
 thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '85'
+ht-degree: 12%
 
 ---
-
 
 # Modificación de la asignación de datos
 

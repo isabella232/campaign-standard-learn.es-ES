@@ -1,8 +1,7 @@
 ---
 title: Creación de informes sobre su envío en la aplicación
-description: '"Aprenda a presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento de un cliente en tiempo real dentro de la aplicación móvil".'
-feature: In App
-topics: Mobile
+description: Obtenga información sobre cómo presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento de un cliente en tiempo real dentro de la aplicación móvil.
+feature: En la aplicación
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%

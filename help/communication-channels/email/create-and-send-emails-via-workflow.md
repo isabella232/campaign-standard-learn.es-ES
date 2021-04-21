@@ -1,8 +1,7 @@
 ---
 title: Creación y envíos de correos electrónicos mediante un flujo de trabajo
 description: 'Aprenda a crear un envío de correo electrónico único desde la página principal. '
-feature: Email
-topics: null
+feature: Correo electrónico
 kt: 4319
 thumbnail: 31465.jpg
 role: Business Practitioner
@@ -12,7 +11,7 @@ activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 62%

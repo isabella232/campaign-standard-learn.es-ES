@@ -1,26 +1,25 @@
 ---
-title: 'Paso 3: Registro de extensiones con la aplicación móvil'
+title: 'Paso 3: Registro de extensiones con su aplicación móvil'
 description: En esta parte agregaremos el código para registrar las extensiones UserProfile, Identity, Lifecycle y Signal.
 feature: Push
-topics: Mobile
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
 
+# Paso 3: Registro de extensiones con su aplicación móvil
 
-# Paso 3: Registro de extensiones con la aplicación móvil
+En esta parte, agregaremos el código para registrar las extensiones Perfil de usuario, Identidad, Ciclo de vida y Señal. Estas extensiones forman parte de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). También es necesario registrar la extensión de Adobe Campaign Standard como se muestra en el código siguiente.
 
-En esta parte agregaremos el código para registrar las extensiones Perfil del usuario, identidad, ciclo de vida y señal. Estas extensiones forman parte de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). También será necesario registrar la extensión de Adobe Campaign Standard como se muestra en el código siguiente.
-
-Abra el proyecto en [!DNL Android] estudio. Elimine todo el código en MainApp **excepto la primera línea que es la instrucción del paquete**.
+Abra el proyecto en el estudio [!DNL Android]. Elimine todo el código en MainApp **excepto la primera línea que es la instrucción del paquete**.
 
 Pegue el siguiente código en MainApp
 
@@ -70,6 +69,6 @@ try{
 }
 ```
 
-Línea 32 debe proporcionar la identificación del archivo de entorno de la propiedad[!UICONTROL  Launch]. Se puede acceder a esto desde [!UICONTROL environment tab] de la propiedad [!UICONTROL Launch].
+Línea 32 debe proporcionar el ID del archivo de entorno de su propiedad[!UICONTROL  Launch]. Se puede acceder a ella desde [!UICONTROL environment tab] de la propiedad [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)

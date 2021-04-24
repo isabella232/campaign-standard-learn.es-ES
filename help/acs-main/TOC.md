@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '549'
 ht-degree: 93%
 
 ---
@@ -103,6 +103,7 @@ ht-degree: 93%
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Uso de déclencheur para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Configuración de Launch para déclencheur](/help/integrations/configure-launch-for-triggers.md)
       + [Crear un déclencheur en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creación de un evento de déclencheur en Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensajes transaccionales mediante datos de eventos en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)

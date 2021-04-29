@@ -1,6 +1,6 @@
 ---
 title: Creación de una entrega de correo electrónico
-description: 'Aprenda a crear un envío por correo electrónico desde la página principal. '
+description: 'Obtenga información sobre cómo crear un envío de correo electrónico desde la página principal. '
 landing-page-description: En este vídeo se explica cómo crear un envío de correo electrónico desde la página principal.
 feature: 'Correo electrónico '
 kt: 1807
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 36%
+ht-degree: 45%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Crear un déclencheur en Campaign Standard
-description: Obtenga información sobre cómo crear un evento de déclencheur en Campaign Standard.
-feature: Triggers
+title: Creación de un activador en Campaign Standard
+description: Obtenga información sobre cómo crear un evento de activador en Campaign Standard.
+feature: Activadores
 kt: 7470
 thumbnail: 332625.jpg
 doc-type: feature video
@@ -10,16 +10,15 @@ level: Experienced
 activity: set-up
 team: TM
 exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Crear un déclencheur en Campaign Standard
+# Creación de un activador en Campaign Standard
 
-Obtenga información sobre cómo crear un evento de déclencheur en Campaign Standard.
+Obtenga información sobre cómo crear un evento de activador en Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12)

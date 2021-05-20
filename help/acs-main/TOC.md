@@ -8,11 +8,10 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +21,7 @@ ht-degree: 93%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
+   + [Introducción a la IU](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuración de una lista](/help/getting-started/configure-a-list.md)
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
@@ -47,15 +46,15 @@ ht-degree: 93%
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Prueba A/B](/help/communication-channels/email/a-b-testing.md)
+      + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
-      + [Adición de un grupo de control en un envío](/help/communication-channels/email/control-groups.md)
+      + [Adición de un grupo de control en una entrega](/help/communication-channels/email/control-groups.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un correo electrónico, envío de SMS o plantilla existente a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
-      + Correos electrónicos con tecnología IA {#journey-ai}
+      + Correos electrónicos con tecnología de IA {#journey-ai}
          + [Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
@@ -73,7 +72,7 @@ ht-degree: 93%
          + [Creación de un envío en la aplicación dentro de un flujo de trabajo](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Creación de informes sobre su envío en la aplicación](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
-   + [Correo postal](/help/communication-channels/direct-mail/directmail.md)
+   + [Correo directo](/help/communication-channels/direct-mail/directmail.md)
    + Páginas de aterrizaje {#landing-pages}
       + [Creación y edición de una página de aterrizaje](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Prueba y publicación de una página de aterrizaje](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
@@ -84,15 +83,15 @@ ht-degree: 93%
       + [Introducción al Diseñador de correo electrónico](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introducción a las plantillas de contenido de correo electrónico](/help/designing-content/email-designer/email-content-templates.md)
       + [Configuración de la vista móvil](/help/designing-content/email-designer/configure-the-mobile-view.md)
-      + [Previsualización de su análisis de correo electrónico y antispam](/help/designing-content/email-designer/preview-your-email.md)
-      + [Trabajo con contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Previsualización del análisis del correo electrónico y antispam](/help/designing-content/email-designer/preview-your-email.md)
+      + [Uso de contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
    + [Creación de un flujo de trabajo](/help/managing-processes-and-data/creating-a-workflow.md)
    + Actividades de ejecución {#execution-activities}
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
-   + Actividades de gestión de datos {#data-management-activities}
+   + Actividades de administración de datos {#data-management-activities}
       + [Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Creación de informes {#reporting}
    + [Exploración de informes](/help/getting-started/exploring-reports.md)
@@ -101,23 +100,23 @@ ht-degree: 93%
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
 + Integración con otras soluciones {#integrations}
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Uso de déclencheur para mensajes transaccionales {#triggers}
+   + Uso de activadores para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
-      + [Configuración de Launch para déclencheur](/help/integrations/configure-launch-for-triggers.md)
-      + [Crear un déclencheur en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [Creación de un evento de déclencheur en Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurar mensajes transaccionales mediante datos de eventos en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
+      + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Creación de un evento de activadores en Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Configuración de mensajes transaccionales mediante datos de evento en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Administración {#administrating}
-   + [Gestión de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
+   + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Explicación del Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Explicación de Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Asignación de eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Asignación de datos de tabla de inicialización](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificación de la asignación de datos](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Comprobación del estado de los trabajos de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Comprobación del estado de los trabajos de ingesta de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Reglas de tipología{#typology-rules}
       + Administración de fatiga{#fatigue-management}
          + [Creación de reglas de fatiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

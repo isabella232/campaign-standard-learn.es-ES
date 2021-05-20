@@ -1,7 +1,7 @@
 ---
 title: Desarrollo con Adobe Campaign
-description: Comprender los siguientes pasos potenciales para la verdadera orquestación entre canales.
-feature: Organización en todos los canales
+description: Descubra los próximos pasos posibles para una verdadera orquestación entre canales.
+feature: Orquestación entre canales
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
@@ -10,11 +10,10 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 

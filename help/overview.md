@@ -3,14 +3,13 @@ title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Información general
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -22,11 +21,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 * **[Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Obtenga información sobre cómo configurar la integración de Campaign Standard y Analytics. Obtenga información sobre cómo crear un informe en Analytics utilizando los datos recibidos del Campaign Standard y los KPI disponibles.*
+   *Obtenga información sobre cómo configurar la integración de Campaign Standard y Analytics. Obtenga información sobre cómo crear un informe en Analytics utilizando los datos recibidos de Campaign Standard y los KPI disponibles.*
 
-* **[Uso de déclencheur para mensajes transaccionales](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[Uso de activadores para los mensajes transaccionales](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *Aprenda a configurar y utilizar déclencheur para la mensajería transaccional.*
+   *Aprenda a configurar y utilizar los activadores para la mensajería transaccional.*
 
 ## Selección de personal
 
@@ -63,7 +62,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Introducción a las notificaciones push para Android</strong>
     </a>
     </div>

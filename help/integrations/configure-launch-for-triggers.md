@@ -1,22 +1,22 @@
 ---
-title: Configuración de Launch para déclencheur
+title: Configuración del lanzamiento para los activadores
 description: Obtenga información sobre cómo configurar Launch y añadir las propiedades necesarias al sitio web para probar la configuración.
-feature: Triggers
+feature: Activadores
 kt: 7434
 thumbnail: 332908.jpg
 doc-type: feature video
 role: Administrator
 level: Experienced
 team: TM
-translation-type: tm+mt
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
+source-git-commit: d3bb432f1f1127fe7046dbf534339973e3182bbb
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Configuración de Launch para déclencheur
+# Configuración del lanzamiento para los activadores
 
 Obtenga información sobre cómo configurar Launch y añadir las propiedades necesarias al sitio web para probar la configuración.
 

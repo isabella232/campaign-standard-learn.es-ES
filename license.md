@@ -1,17 +1,21 @@
 ---
-source-git-commit: 848a003295e496377c95bb959a846a5a95d44094
+source-git-commit: e46ae939e6c310c46cebadc066699d4090d7c28f
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Licencia MIT
 
-© Copyright 2018 Adobe. Todos los derechos reservados.
+© Copyright 2021 Adobe. Todos los derechos reservados.
 
-Se concede permiso, de forma gratuita, a toda persona que obtenga una copia de este software y de los archivos de documentación asociados (el &quot;Software&quot;), para gestionar el Software sin restricciones, incluidos los derechos a utilizar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir que las personas a las que el Software esté amueblado lo hagan, con sujeción a las siguientes condiciones:
+Se concede permiso libre de cargos a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el &quot;Software&quot;), para utilizar el Software sin restricciones, incluidos, sin limitarse a ellos, los derechos
+para usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar o vender
+copias del Software, y para permitir hacerlo a las personas a las que se
+proporcione el Software, siempre que se cumplan las siguientes condiciones:
 
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+El anterior aviso de copyright y este aviso de permiso deben incluirse en todas las
+copias o partes importantes del Software.
 
-EL SOFTWARE SE PROPORCIONA &quot;TAL CUAL&quot;, SIN GARANTÍA DE NINGÚN TIPO, EXPRESAMENTE ORDENADO, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN NINGÚN EVENTO, SUS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UN ACTO DE CONTRATO, TORT O DE OTRA MANERA, QUE SE DERIVE, FUERA O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS DE ESTE SOFTWARE.
+ESTE SOFTWARE SE PROPORCIONA &quot;TAL CUAL&quot;, SIN GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUIDAS, SIN LIMITARSE A ELLAS, TODAS LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN DETERMINADO FIN Y AUSENCIA DE INFRACCIÓN. EN NINGÚN CASO LOS AUTORES NI LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES ANTE NINGUNA RECLAMACIÓN, DAÑO U OTRAS RESPONSABILIDADES, YA SEA POR UNA ACCIÓN CONTRACTUAL, POR NEGLIGENCIA O POR OTROS MOTIVOS, QUE PUDIERAN SURGIR EN RELACIÓN CON EL SOFTWARE, SU UTILIZACIÓN U OTRAS OPERACIONES LLEVADAS A CABO CON ÉL.

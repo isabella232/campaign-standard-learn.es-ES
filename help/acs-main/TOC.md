@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 94%
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
 + Integración con otras soluciones {#integrations}
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Usar déclencheur para mensajes transaccionales {#triggers}
+   + Uso de activadores para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
       + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)

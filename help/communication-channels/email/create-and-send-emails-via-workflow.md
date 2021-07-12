@@ -4,14 +4,13 @@ description: 'Aprenda a crear un envío de correo electrónico único desde la p
 feature: Correo electrónico
 kt: 4319
 thumbnail: 31465.jpg
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 62%
@@ -28,6 +27,6 @@ En este vídeo se explica cómo crear y enviar correos electrónicos a través d
 
 ## Recursos adicionales
 
-* [Creación de un envío de correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
+* [Creación de una entrega de correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
 * [Creación de un correo electrónico (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
 * [Prácticas recomendadas sobre entregas](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html)

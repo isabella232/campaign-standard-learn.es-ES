@@ -1,17 +1,16 @@
 ---
 title: Creación de un informe basado en segmentos de flujo de trabajo
 description: Los informes sobre segmentos de flujo de trabajo permiten agregar código de segmento de flujo de trabajo en los informes dinámicos.
-feature: Sistema de informes
+feature: Creación de informes
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 16%

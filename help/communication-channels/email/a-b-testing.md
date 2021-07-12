@@ -1,17 +1,16 @@
 ---
 title: Prueba A/B
 description: '"Aprenda a configurar y enviar una prueba A/B, que prueba la línea de asunto. ”'
-feature: 'Prueba A/B  '
+feature: 'Pruebas A/B  '
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 50%

@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 14%

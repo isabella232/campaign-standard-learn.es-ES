@@ -9,17 +9,16 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 45%
 
 ---
 
-# Creación de un envío de correo electrónico {#create-an-email-delivery}
+# Creación de una entrega de correo electrónico {#create-an-email-delivery}
 
 Puede crear un envío de correo electrónico independiente desde una campaña, desde la página de inicio de Adobe Campaign o en la lista [!UICONTROL Marketing Activity]. También puede crear y enviar correos electrónicos recurrentes y de un solo envío desde un flujo de trabajo.
 

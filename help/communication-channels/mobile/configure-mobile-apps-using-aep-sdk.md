@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 15%

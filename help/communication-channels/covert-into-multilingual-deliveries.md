@@ -1,5 +1,5 @@
 ---
-title: Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe
+title: Conversión de un correo electrónico, envío de SMS o plantilla existente a multilingüe
 description: '"Aprenda a convertir un correo electrónico, un envío de SMS o una plantilla de envío existente a multilingüe."'
 feature: Correo electrónico, SMS
 kt: 1703
@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 31%
 
 ---
 
-# Conversión de un correo electrónico, envío de SMS o plantilla existente en multilingüe
+# Conversión de un correo electrónico, envío de SMS o plantilla existente a multilingüe
 
 Este vídeo muestra cómo un correo electrónico, un envío de SMS o una plantilla de envío existentes se pueden convertir fácilmente en multilingües.
 

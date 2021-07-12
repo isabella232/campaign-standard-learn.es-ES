@@ -7,17 +7,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 12%
 
 ---
 
-# Introducción a los [!UICONTROL In-App] mensajes {#introduction}
+# Introducción a los mensajes [!UICONTROL In-App] {#introduction}
 
 El canal [!UICONTROL In-App Messaging] permite mostrar un mensaje cuando el usuario está activo dentro de la aplicación móvil. Este canal requiere que las aplicaciones móviles se integren con [!UICONTROL Adobe Experience Platform SDK].
 
@@ -40,13 +39,13 @@ Este tutorial explica los pasos necesarios para configurar las propiedades móvi
 
 Para obtener más información sobre las extensiones, consulte la documentación [Configurar extensión de Campaign Standard en Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) en [!UICONTROL Adobe Launch ].
 
-## Pasos para configurar [!UICONTROL In-App] mensajes {#steps-to-set-up}
+## Pasos para configurar mensajes [!UICONTROL In-App] {#steps-to-set-up}
 
 1. [Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
 
 1. [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Crear, administrar y publicar [!UICONTROL In-App] entregas {#create-manage-publish}
+## Crear, administrar y publicar [!UICONTROL In-App] envíos {#create-manage-publish}
 
 Puede crear envíos en la aplicación una vez haciendo clic en la tarjeta **[!UICONTROL Create an In-App Message]** de la página principal, desde [!UICONTROL Marketing Activities], o puede [crear un envío en la aplicación dentro de un flujo de trabajo](/help/communication-channels/mobile/in-app/in-app-activity.md).
 

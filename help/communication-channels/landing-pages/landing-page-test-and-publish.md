@@ -1,17 +1,16 @@
 ---
 title: Prueba y publicación de una página de aterrizaje
 description: Obtenga información sobre cómo probar una página de aterrizaje creada en Adobe Campaign Standard y cómo publicarla.
-feature: Páginas de aterrizaje
+feature: Páginas de destino
 kt: 1813
 thumbnail: 24992.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 30%

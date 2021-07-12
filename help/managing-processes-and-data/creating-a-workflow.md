@@ -8,13 +8,12 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 10%
+ht-degree: 56%
 
 ---
 
@@ -22,8 +21,8 @@ ht-degree: 10%
 
 Los flujos de trabajo se pueden utilizar en diferentes contextos, como por ejemplo:
 
-* Segmentación para administrar audiencias o enviar mensajes
-* Gestión de datos (ETL) para manipular los datos
+* Direccionamiento para administrar audiencias o enviar mensajes
+* Administración de datos (ETL) para manipular datos
 * Importación de datos en la base de datos de Campaign
 * Procesos técnicos, como limpieza de bases de datos, recuperación de información de seguimiento, etc.
 

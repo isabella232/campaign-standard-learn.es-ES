@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
 
 ---
 
-# Informe sobre su envío [!UICONTROL In-App] {#in-app-message-reporting}
+# Informe de su envío [!UICONTROL In-App] {#in-app-message-reporting}
 
 Puede revisar los datos relacionados con el envío [!UICONTROL In-App] en el resumen del envío agregando [!UICONTROL In-App] métricas específicas. Como alternativa, puede usar el [Informe en la aplicación](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html) predeterminado.
 

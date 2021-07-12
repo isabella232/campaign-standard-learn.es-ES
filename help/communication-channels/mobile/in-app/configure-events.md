@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 2%
@@ -37,7 +36,7 @@ Debe configurar estos [!UICONTROL events] en Adobe Campaign. En el siguiente ví
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
-## [!UICONTROL Life Cycle events]  {#life-cycle-events}
+## [!UICONTROL Life Cycle events] {#life-cycle-events}
 
 [!UICONTROL Lifecycle events] están listos para usar  [!UICONTROL events]. Están disponibles las siguientes [!UICONTROL events]:
 

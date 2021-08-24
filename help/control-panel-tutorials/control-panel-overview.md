@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -78,4 +78,4 @@ El Panel de control de Campaign permite a los administradores de Adobe Campaign 
 
 ## Recursos adicionales
 
-* [Centro de ayuda del Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda del Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)

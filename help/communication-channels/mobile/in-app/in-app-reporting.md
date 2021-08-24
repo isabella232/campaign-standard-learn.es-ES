@@ -10,16 +10,16 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
 # Informe de su envío [!UICONTROL In-App] {#in-app-message-reporting}
 
-Puede revisar los datos relacionados con el envío [!UICONTROL In-App] en el resumen del envío agregando métricas específicas de la aplicación de [!UICONTROL. Como alternativa, puede usar el [Informe en la aplicación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) predeterminado.
+Puede revisar los datos relacionados con el envío [!UICONTROL In-App] en el resumen del envío agregando métricas específicas de [!UICONTROL In-App]. Como alternativa, puede usar el [Informe en la aplicación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) predeterminado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

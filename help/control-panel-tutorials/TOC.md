@@ -3,15 +3,15 @@ user-guide-title: Tutoriales del Panel de control de Adobe Campaign
 user-guide-description: Aprenda a monitorizar los activos clave de las instancias de Adobe Campaign y a realizar tareas administrativas en el Panel de control de Campaign.
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 index: true
-source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
 
-# Tutoriales del Panel de control de Campaign {#control-panel}
+# Tutoriales del Panel de control de Adobe Campaign {#control-panel}
 
 + [Información general del Panel de control de Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introducción al Panel de control de Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -28,9 +28,9 @@ ht-degree: 100%
 + Configuración de instancias {#instance-settings}
    + Administración de claves GPG {#gpg-key-management}
       + [Administración de claves GPG: información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Generar e instalar claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Descifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
    + [Monitorización de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Solución de problemas del Panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)

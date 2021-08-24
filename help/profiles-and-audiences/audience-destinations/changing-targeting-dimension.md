@@ -10,10 +10,10 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 20%
 
 >[!NOTE]
 >
->Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
+>Esta capacidad está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
@@ -33,11 +33,11 @@ En este vídeo se explica cómo cambiar la dimensión de segmentación de un env
 
 Documentación:
 
-* [Acerca del servicio Audience Destinations](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
-* [Cómo crear una asignación de destino](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
-* [Creación de una plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
+* [Audience Destinations (BETA) (documentación)](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
+* [Cómo crear una asignación de destino](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
+* [Creación de una plantilla de envíos](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
 
 Recursos de vídeo:
 
-* [Creación de una nueva audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Crear una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Activar audiencias de Adobe Experience Platform en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

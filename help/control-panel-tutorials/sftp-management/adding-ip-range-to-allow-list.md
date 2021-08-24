@@ -1,5 +1,5 @@
 ---
-title: Añadir un intervalo IP a la lista de permitidos
+title: Añadir un rango de IP a la lista de permitidos
 description: Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
 feature: Panel de control de Campaign
 kt: 6429
@@ -9,17 +9,16 @@ audience: administrator
 activity: use
 team: PM
 exl-id: b93ff670-a1a7-41d2-923b-c7c09d4d7c37
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 22%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Añadir un intervalo IP a la lista de permitidos
+# Añadir un rango de IP a la lista de permitidos
 
-Para conectarse a un servidor, ya sea a través de una aplicación cliente o una API, debe configurar una clave SSH pública y agregar la dirección IP que se conecte al servidor SFTP a la lista de permitidos.
+Para conectarse a un servidor, a través de una aplicación cliente o una API, debe configurar una clave SSH pública. La dirección IP que se conecta al servidor SFTP debe agregarse a la lista de permitidos .
 
 Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
 
@@ -27,4 +26,4 @@ Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
 
 ## Recursos adicionales
 
-[Documentación](https://docs.adobe.com/content/help/en/control-panel/using/sftp-management/ip-range-allow-listing.html)
+[Documentación](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=en)

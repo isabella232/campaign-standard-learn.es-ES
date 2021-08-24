@@ -1,38 +1,38 @@
 ---
-title: Introducción a las notificaciones push con la aplicación de Android
-description: Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
+title: Introducción a las notificaciones push con la aplicación Android™
+description: Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación de Android™.
 feature: Push
 kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '200'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '198'
+ht-degree: 60%
 
 ---
 
-# Introducción a las notificaciones push con la aplicación de Android
+# Introducción a las notificaciones push con la aplicación Android™
 
-Adobe Campaign permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android.
-Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el uso del SDK V4 de Experience Cloud Mobile o el SDK de Experience Platform.
-Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
+Adobe Campaign le permite enviar notificaciones push personalizadas y segmentadas a dispositivos móviles iOS y Android™.
+Estos mensajes se reciben en aplicaciones móviles que se configuran en Adobe Campaign mediante el SDK para móviles V4 o el SDK para Experience Platform de Experience Cloud.
+Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación de Android™.
 
 ## Requisitos previos
 
 * Debe tener la propiedad de inicio configurada con la extensión de Adobe Campaign Standard. Siga la ayuda en línea que se indica a continuación.
    * [Tutorial de vídeo](https://video.tv.adobe.com/v/26224?quality=12)
-   * [Documentación](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=es#communication-channels)
+   * [Documentación](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=en)
 
 * Asegúrese de que el estado de la propiedad correspondiente en Adobe Campaign Standard esté configurado.
 * [Tener una cuenta activa de Google Firebase](https://firebase.google.com)
-* [Última versión de Android Studio instalada](https://developer.android.com/studio)
+* [Última versión de Android™ Studio instalada](https://developer.android.com/studio)
 
 ## Pasos del tutorial
 
-* [Paso 1: Creación de una aplicación para Android](/help/tutorial-push-notifications-android/create-android-app.md)
+* [Paso 1: Creación de una aplicación para Android™](/help/tutorial-push-notifications-android/create-android-app.md)
 * [Paso 2: Integración del SDK de Mobile](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [Paso 3: Registro de extensiones con la aplicación móvil](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
 * [Paso 4: Definición del identificador push](/help/tutorial-push-notifications-android/set-push-identifier.md)

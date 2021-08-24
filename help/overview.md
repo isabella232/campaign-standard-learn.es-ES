@@ -1,21 +1,21 @@
 ---
 title: 'Tutoriales de Adobe Campaign Standard: información general'
-description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Información general
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Campaign Standard: información general
 
-Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 
 ## Novedades
 
@@ -41,15 +41,15 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     </a>
     </div>
     <p>
-    <em>Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibirá el perfil.</em>
+    <em>Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibe el perfil.</em>
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es">
       <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
     <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>
@@ -58,16 +58,16 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/es-ES/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>Tutorial: Introducción a las notificaciones push para Android</strong>
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>
     <p>
-    <em>Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación de Android. </em>
+    <em>Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación Android™.  </em>
     <p>
   </td>
 </tr>
@@ -75,4 +75,4 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Recursos adicionales
 
-* [Documentación](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/campaign-standard-home.html)
+* [Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)

@@ -1,15 +1,14 @@
 ---
 title: 'Administración de claves GPG: información general'
-description: En los siguientes vídeos se explica cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
+description: Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes. Obtenga información sobre cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
 feature: Panel de control de Campaign
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '160'
+ht-degree: 70%
 
 ---
 
@@ -17,12 +16,12 @@ ht-degree: 100%
 
 GPG (GnuPG) cifra los mensajes utilizando pares de claves individuales asimétricos. Para implementar el cifrado GPG con Campaign, un usuario administrador debe instalar y/o generar claves GPG en una instancia de marketing directamente desde el Panel de control de Campaign.
 
-En los siguientes vídeos se explica cómo generar e instalar un par de claves públicas/privadas en una instancia de Campaign específica para el cifrado de datos salientes, así como cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
+Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes. Obtenga información sobre cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
 
-* [Generación e instalación de claves GPG para el cifrado de datos](./generating-and-installing-gpg-keys-for-data-encryption.md)
+* [Generar e instalar claves GPG para el cifrado de datos](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Uso de una clave GPG para cifrar datos](./using-a-gpg-key-to-encrypt-data.md)
-* [Descifrado de datos](./decrypting-data.md)
+* [Descifrar datos](./decrypting-data.md)
 
 ## Recursos adicionales
 
-* [Administración de claves GPG:(documentación)](https://docs.adobe.com/content/help/es-ES/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)

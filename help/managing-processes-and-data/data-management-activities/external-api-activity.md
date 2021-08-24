@@ -1,6 +1,6 @@
 ---
 title: Configuración y ejecución de un flujo de trabajo con la actividad de API externa
-description: Aprenda a llamar a un extremo de API de REST externa para extraer datos de personalización de un sistema de terceros a la campaña.
+description: Obtenga información sobre cómo llamar a un extremo de API de REST externa para extraer datos de personalización de un sistema de terceros a la campaña.
 feature: Actividad de gestión de datos
 kt: 2764
 thumbnail: 28200.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
 # Configure y ejecute un flujo de trabajo con [!UICONTROL External API activity]
 
-[!UICONTROL External API activity] es una [!UICONTROL Data Management activity]. Le permite llamar a un extremo de API de REST externa. El propósito de esta actividad es obtener datos de personalización de un sistema de terceros para su campaña.
+[!UICONTROL External API activity] es una [!UICONTROL Data Management activity]. Le permite llamar a un extremo de API de REST externa. El propósito de esta actividad es obtener datos de personalización de un sistema de terceros en la campaña.
 
 Algunos ejemplos de casos prácticos son:
 
@@ -36,8 +36,8 @@ Este vídeo muestra el uso de [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Tenga en cuenta que la actividad está pensada para obtener datos de toda la campaña (último conjunto de ofertas, últimos resultados, etc.), no para recopilar información específica de cada perfil, ya que esto puede resultar en la transferencia de grandes cantidades de datos. Si el caso práctico lo requiere, se recomienda utilizar la actividad de transferencia de archivos.
+>La actividad está diseñada para obtener datos de toda la campaña, no para recuperar información específica para cada perfil, ya que esto puede resultar en la transferencia de grandes cantidades de datos. Si el caso de uso requiere información específica del perfil, se recomienda utilizar la actividad Transferir archivo .
 
 ## Recursos adicionales
 
-* [API externa (documentación)](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [API externa (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

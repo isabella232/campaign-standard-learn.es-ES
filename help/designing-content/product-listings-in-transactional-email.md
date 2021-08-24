@@ -10,10 +10,10 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 
 >[!NOTE]
 >
->Actualmente, esta función se denomina Bucle en los vídeos.
+>Esta función se denomina Bucle en los vídeos.
 
 ## Paso 1: Creación de un evento y publicación
 
@@ -41,5 +41,5 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 
 ## Recursos adicionales
 
-* [Uso de listas de productos en un mensaje transaccional (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [Definición de colecciones de datos (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [Uso de listas de productos en un mensaje transaccional (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [Definición de colecciones de datos (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)

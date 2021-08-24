@@ -1,15 +1,16 @@
 ---
 title: Explicación de Adobe Experience Platform Data Connector
 description: Data Connectors de Adobe Experience Platform ayuda a los clientes existentes a poner sus datos a disposición en Adobe Experience Platform asignando datos XTK (datos incorporados en Campaign) a datos del Modelo de datos de Experience (XDM) en Adobe Experience Platform.
+feature: Integración del servicio principal People
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '344'
 ht-degree: 10%
 
 ---
@@ -54,6 +55,6 @@ Los siguientes tutoriales describen los pasos clave para realizar una asignació
 
 * [Acerca de Adobe Experience Platform Data Connector](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
 * [Información general del Modelo de datos de experiencia](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [Definición de la asignación](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [Activación de la asignación](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Activación de la ingesta de datos mediante API](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Definición de la asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Activación de la asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [Activación de la ingesta de datos mediante API](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)

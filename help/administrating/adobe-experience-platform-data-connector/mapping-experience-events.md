@@ -1,16 +1,17 @@
 ---
 title: Asignación de eventos de experiencias
 description: Obtenga información sobre cómo asignar eventos de experiencia en Adobe Experience Platform (AEP)
+feature: Integración del servicio principal People
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 

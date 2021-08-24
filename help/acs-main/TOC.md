@@ -8,7 +8,7 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Introducción a la IU](/help/getting-started/getting-started-with-the-ui.md)
+   + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuración de una lista](/help/getting-started/configure-a-list.md)
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 0%
       + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
-      + [Adición de un grupo de control en una entrega](/help/communication-channels/email/control-groups.md)
+      + [Añadir un grupo de control a un envío](/help/communication-channels/email/control-groups.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Conversión de un correo electrónico, envío de SMS o plantilla existente a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -84,7 +84,7 @@ ht-degree: 0%
       + [Introducción a las plantillas de contenido de correo electrónico](/help/designing-content/email-designer/email-content-templates.md)
       + [Configuración de la vista móvil](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Previsualización del análisis del correo electrónico y antispam](/help/designing-content/email-designer/preview-your-email.md)
-      + [Uso de contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Trabajar con contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
@@ -109,15 +109,15 @@ ht-degree: 0%
    + [Configuración de Microsoft® Dynamics 365 para la integración con Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
-   + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
+   + [Crear recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Explicación de Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Asignación de eventos de experiencias](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Asignación de datos de tabla de inicialización](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Asignar eventos de experiencia](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Asignación de datos de tabla semilla](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificación de la asignación de datos](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Comprobación del estado de los trabajos de ingesta de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Comprobar el estado de los trabajos de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Reglas de tipología{#typology-rules}
       + Administración de fatiga{#fatigue-management}
          + [Creación de reglas de fatiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

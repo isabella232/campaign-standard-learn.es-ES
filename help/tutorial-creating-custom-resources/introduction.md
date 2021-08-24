@@ -1,25 +1,26 @@
 ---
 title: 'Creación de recursos personalizados: Introducción'
-description: Adobe Campaign Standard ofrece la posibilidad de ampliar recursos o crear recursos totalmente nuevos. Este tutorial de varias partes le guiará para crear y vincular recursos personalizados.
-feature: 'Recursos personalizados '
+description: Este tutorial de varias partes le guía por los pasos necesarios para crear y vincular recursos personalizados.
+feature: 'Modelo de datos '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Creación de recursos personalizados: Introducción
 
-[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] ofrece la posibilidad de ampliar recursos o crear recursos totalmente nuevos.
+[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] permite al usuario ampliar recursos existentes o crear nuevos recursos.
 
-Este tutorial de varias partes le guiará para crear y vincular recursos personalizados. Al final de este tutorial, aprenderá a:
+Este tutorial de varias partes le guía por los pasos necesarios para crear y vincular recursos personalizados.
+Cómo:
 
 * Crear un recurso personalizado
 * Añadir campos al recurso personalizado
@@ -28,17 +29,15 @@ Este tutorial de varias partes le guiará para crear y vincular recursos persona
 
 ## Requisito previo
 
-Para poder crear recursos personalizados, necesita tener los derechos de usuario de administración.
+Para poder crear recursos personalizados, debe tener derechos de usuario de administración.
 
 ## Información general del tutorial
 
-Nos gustaría poder usar información adicional sobre lo que un cliente ha pedido, para que esté disponible para fines de marketing y remarketing.
-
-Para ello, enriqueceremos el modelo de datos [!DNL Campaign] ampliando los recursos predeterminados y agregando nuestras propias tablas personalizadas. Agregaremos un cliente y una tabla de pedidos.
+Para utilizar información adicional sobre lo que ha pedido un cliente, de modo que esté disponible para fines de marketing y remarketing, el modelo de datos [!DNL Campaign] debe ampliarse añadiendo tablas personalizadas. Para este caso de uso, se debe crear un cliente y una tabla de pedidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-Este tutorial le explicará paso a paso cómo hacer lo siguiente:
+Este tutorial explica cómo:
 
 Paso 1: [Creación de un recurso personalizado](./creating-a-custom-resource.md)
 Paso 2: [Configuración de una definición de pantalla](./configuring-a-screen-definition-for-a-custom-resource.md)

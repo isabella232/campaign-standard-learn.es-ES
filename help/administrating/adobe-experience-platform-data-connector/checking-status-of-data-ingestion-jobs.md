@@ -1,5 +1,5 @@
 ---
-title: Comprobación del estado de un trabajo de inserción de datos
+title: Comprobar el estado de un trabajo de inserción de datos
 description: Obtenga información sobre cómo comprobar el estado y modificar la asignación de datos.
 feature: Integración del servicio principal People
 audience: administrator
@@ -9,18 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 9%
 
 ---
 
-# Comprobación del estado de un trabajo de inserción de datos
+# Comprobar el estado de un trabajo de inserción de datos
 
 >[!NOTE]
 >
->Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>Esta capacidad está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 

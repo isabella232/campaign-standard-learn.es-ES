@@ -8,7 +8,7 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -39,18 +39,18 @@ ht-degree: 0%
    + [Administración de servicios y suscripciones](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos de audiencias (BETA){#audience-destinations}
       + [Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Creación de una nueva audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Crear una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activación de audiencias de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Cambio de la dimensión de segmentación](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canales de comunicación {#communication-channels}
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Envío de una prueba, preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
       + [Añadir un grupo de control a un envío](/help/communication-channels/email/control-groups.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un correo electrónico, envío de SMS o plantilla existente a multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un correo electrónico, envío de SMS o plantilla de envío existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
@@ -59,11 +59,11 @@ ht-degree: 0%
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
       + SMS{#sms}
-         + [Creación de un envío de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Creación de una entrega SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notificaciones push {#push}
          + [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: Introducción a las notificaciones push para Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es)
+         + [Tutorial: Introducción a las notificaciones push para Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es)
       + Mensajes en la aplicación {#in-app}
          + [Introducción a los mensajes en la aplicación](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configuración de eventos](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 0%
       + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
       + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creación de un evento de activadores en Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configuración de mensajes transaccionales mediante datos de evento en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configurar mensajes transaccionales mediante datos de eventos en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuración de Microsoft® Dynamics 365 para la integración con Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 0%
       + [Asignar eventos de experiencia](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Asignación de datos de tabla semilla](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificación de la asignación de datos](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Comprobar el estado de los trabajos de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Comprobar el estado de un trabajo de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Reglas de tipología{#typology-rules}
       + Administración de fatiga{#fatigue-management}
          + [Creación de reglas de fatiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

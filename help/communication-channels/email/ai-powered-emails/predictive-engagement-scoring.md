@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 98%
 Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar y predecir las tasas abiertas, los tiempos de envío óptimos y la probable reproducción basada en las métricas de participación históricas.
 
 >[!CAUTION]
->Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Póngase en contacto con su representante de Adobe para obtener más información.
+>Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Para obtener más información, póngase en contacto con su representante del Adobe.
 
-La [!UICONTROL Predictive engagement scoring] predice la probabilidad de que un destinatario se involucre con un mensaje, así como la probabilidad de exclusión (cancelar la suscripción) en los próximos 7 días después del siguiente envío de correo electrónico. Las probabilidades se dividen además en bloques según el riesgo específico de que no se involucre, medio o bajo. Además, el modelo también proporciona la clasificación del percentil de riesgo para que los clientes entiendan dónde está la clasificación de un determinado cliente en relación con otros.
+[!UICONTROL Predictive engagement scoring] predice la probabilidad de que un destinatario se involucre con un mensaje y la probabilidad de exclusión (cancelar la suscripción) en los próximos siete días después del siguiente envío de correo electrónico. Las probabilidades se dividen además en bloques según el riesgo específico de que no se involucre, medio o bajo. El modelo también proporciona la clasificación del percentil de riesgo para que los clientes entiendan dónde está la clasificación de un determinado cliente en relación con otros.
 
 Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
 
@@ -38,4 +38,4 @@ Tutoriales:
 
 Documentación:
 
-* [Optimización del diseño y el envío con correos electrónicos con tecnología de IA](https://docs.adobe.com/help/es-ES/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimización del diseño y el envío con correos electrónicos con tecnología de IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

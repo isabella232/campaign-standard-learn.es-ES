@@ -1,18 +1,16 @@
 ---
 title: Asignación de datos de tabla de inicialización
 description: Obtenga información sobre cómo asignar los datos semilla y cómo probar perfiles con Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 19%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

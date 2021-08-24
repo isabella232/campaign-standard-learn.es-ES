@@ -1,6 +1,6 @@
 ---
 title: Uso de contenido existente
-description: En este vídeo se explica cómo recuperar rápidamente el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
+description: Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
 feature: Diseño de correo electrónico
 kt: 6295
 thumbnail: 25926.jpg
@@ -10,9 +10,9 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 ## Importación de contenido desde una dirección URL
 
-En este vídeo se explica cómo recuperar rápidamente el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
+Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
@@ -29,6 +29,6 @@ En este vídeo se explica cómo recuperar rápidamente el contenido creativo de 
 
 El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido HTML estándar cargado en Adobe Campaign sea totalmente compatible y editable.
 
-Encontrará la documentación detallada en el siguiente enlace:
+Puede encontrar la documentación detallada en el siguiente enlace:
 
-[Conversión de contenido HTML en una plantilla de Diseñador de correo electrónico](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Conversión de contenido HTML en una plantilla de Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

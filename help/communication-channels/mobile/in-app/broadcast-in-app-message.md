@@ -1,6 +1,6 @@
 ---
-title: '"Publicación de un mensaje en la aplicación "'
-description: Descubra cómo la plantilla Broadcast le permite dirigirse a todos los usuarios de la aplicación móvil.
+title: Publicación de un mensaje en la aplicación
+description: Obtenga información sobre cómo configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de la aplicación móvil.
 feature: En la aplicación
 kt: 2497
 thumbnail: 26199.jpg
@@ -10,21 +10,23 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 7%
 
 ---
 
 # Publicación de un mensaje en la aplicación
 
-Puede emitir un mensaje en la aplicación dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil. Para transmitir un mensaje, debe utilizar el **[!UICONTROL Target all users of a mobile app template]** al configurar el mensaje en la aplicación.
+Puede emitir un mensaje en la aplicación dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene o no su información de perfil.
 
 Algunos de los casos de uso pertinentes de esta categoría son:
 
 * Envíe tutoriales de aplicaciones móviles a iniciadores de aplicaciones nuevos o
 * Anuncios de las nuevas versiones de funciones
+
+Obtenga información sobre cómo configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de la aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 

@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 92%
+ht-degree: 72%
 
 ---
 
-# [!UICONTROL Profile Substitution]: prueba de mensajes de correo electrónico con perfiles de destino
+# [!UICONTROL Profile Substitution] - Prueba de mensajes de correo electrónico con perfiles de destino
 
 En este vídeo se explica cómo probar los mensajes de correo electrónico mediante [!UICONTROL Profile Substitution]. Incluye el siguiente caso práctico:
 
@@ -25,7 +25,7 @@ Supongamos que desea enviar una newsletter personalizada por correo electrónico
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-Para obtener más información, consulte la [documentación detallada del producto](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
+Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ Para obtener más información, consulte la [documentación detallada del produc
 
 ## Recursos adicionales
 
-* [Prueba de mensajes mediante perfiles de destino (documentación)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Prueba de mensajes mediante perfiles de destino (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Diseño de un correo electrónico de prueba A/B](/help/communication-channels/email/a-b-testing.md)
-* [Envío de una prueba, y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Envío de una prueba, preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)

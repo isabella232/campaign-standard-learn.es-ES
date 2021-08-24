@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar y predecir las tasas abiertas, los tiempos de envío óptimos y la probable reproducción basada en las métricas de participación históricas.
 
 >[!CAUTION]
->Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Póngase en contacto con su representante de Adobe para obtener más información.
+>Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Para obtener más información, póngase en contacto con su representante del Adobe.
 
 [!UICONTROL Predictive send time optimization] predice cuál es el mejor tiempo de envío para cada perfil de destinatario para aperturas de correo electrónico o clics. Para cada perfil de destinatario, las puntuaciones indican la mejor hora de envío para cada día de la semana y qué día es mejor para enviar y obtener los mejores resultados.
 
@@ -38,4 +38,4 @@ Tutoriales:
 
 Documentación:
 
-* [Optimización del diseño y el envío con correos electrónicos con tecnología de IA](https://docs.adobe.com/help/es-ES/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimización del diseño y el envío con correos electrónicos con tecnología de IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

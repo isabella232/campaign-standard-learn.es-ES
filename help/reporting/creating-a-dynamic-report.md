@@ -10,16 +10,16 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 46%
+source-wordcount: '63'
+ht-degree: 33%
 
 ---
 
-# Creación de un [!UICONTROL Dynamic Report]{#creating-a-report}
+# Crear un [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] está diseñado para ser un entorno de forma libre flexible en el que pueda explorar datos. Permite combinar dimensiones, métricas y intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
+Adobe Campaign [!UICONTROL Dynamic Reports] es un entorno de forma libre flexible donde puede explorar datos. Le permite combinar dimensiones, métricas e intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
 
 Descubra cómo crear un informe.
 
@@ -27,4 +27,4 @@ Descubra cómo crear un informe.
 
 ## Recursos adicionales
 
-* [Acerca de los informes](https://docs.adobe.com/content/help/es-ES/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Acerca de los informes](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

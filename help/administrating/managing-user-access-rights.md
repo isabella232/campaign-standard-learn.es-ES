@@ -1,22 +1,21 @@
 ---
-title: Gestión de los derechos de acceso de los usuarios
+title: Administración de los derechos de acceso de los usuarios
 description: En este vídeo se explica cómo definir y administrar los permisos asignados a distintos usuarios en Adobe Campaign.
-feature: Derechos de acceso de los usuarios
+feature: Administración de acceso
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
-translation-type: tm+mt
-source-git-commit: f83cf9aa38981880b39b8a411bfe9e22a1295768
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 20%
+source-wordcount: '61'
+ht-degree: 24%
 
 ---
 
-# Gestión de los derechos de acceso de los usuarios
+# Administración de los derechos de acceso de los usuarios
 
 En este vídeo se explica cómo definir y administrar los permisos asignados a distintos usuarios en Adobe Campaign.
 
@@ -24,4 +23,4 @@ En este vídeo se explica cómo definir y administrar los permisos asignados a d
 
 ## Recursos adicionales
 
-* [Acerca de la administración de acceso](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)
+* [Acerca de la administración de acceso](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/about-access-management.html?lang=en)

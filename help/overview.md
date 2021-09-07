@@ -3,13 +3,13 @@ title: 'Tutoriales de Adobe Campaign Standard: información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Información general
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 64%
 
 ---
 
@@ -19,13 +19,9 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Resolución de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Obtenga información sobre cómo configurar la integración de Campaign Standard y Analytics. Obtenga información sobre cómo crear un informe en Analytics utilizando los datos recibidos de Campaign Standard y los KPI disponibles.*
-
-* **[Uso de activadores para los mensajes transaccionales](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-   *Aprenda a configurar y utilizar los activadores para la mensajería transaccional.*
+   *Busque ayuda para solucionar problemas conocidos con Adobe Campaign Standard.*
 
 ## Selección de personal
 

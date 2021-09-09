@@ -1,7 +1,7 @@
 ---
 title: 'Creación de recursos personalizados: Introducción'
-description: Este tutorial de varias partes le guía por los pasos necesarios para crear y vincular recursos personalizados.
-feature: 'Modelo de datos '
+description: Este tutorial de varias partes le guiará por los pasos requeridos para crear y vincular recursos personalizados.
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,17 +9,17 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
 # Creación de recursos personalizados: Introducción
 
-[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] permite al usuario ampliar recursos existentes o crear nuevos recursos.
+[!DNL Adobe Campaign] viene con un modelo de datos predefinido, donde los datos se definen a través de diferentes recursos. [!DNL Campaign] permite al usuario ampliar recursos existentes o crear nuevos.
 
-Este tutorial de varias partes le guía por los pasos necesarios para crear y vincular recursos personalizados.
+Este tutorial de varias partes le guiará para crear y vincular recursos personalizados.
 Cómo:
 
 * Crear un recurso personalizado
@@ -29,11 +29,11 @@ Cómo:
 
 ## Requisito previo
 
-Para poder crear recursos personalizados, debe tener derechos de usuario de administración.
+Para poder crear recursos personalizados, necesita tener los derechos de usuario de administración.
 
 ## Información general del tutorial
 
-Para utilizar información adicional sobre lo que ha pedido un cliente, de modo que esté disponible para fines de marketing y remarketing, el modelo de datos [!DNL Campaign] debe ampliarse añadiendo tablas personalizadas. Para este caso de uso, se debe crear un cliente y una tabla de pedidos.
+Para utilizar información adicional sobre lo que ha pedido un cliente, de modo que esté disponible para fines de marketing y remarketing, el modelo de datos de [!DNL Campaign] debe ampliarse añadiendo tablas personalizadas. Para este caso de uso, se debe crear un cliente y una tabla de pedidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 

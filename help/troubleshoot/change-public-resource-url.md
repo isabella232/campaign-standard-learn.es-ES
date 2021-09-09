@@ -1,18 +1,18 @@
 ---
-title: Pasos para cambiar la URL de recursos públicos de http a https
+title: Pasos para cambiar la URL del recurso público de http a https
 description: Aprenda a cambiar la URL del recurso público de http a https.
 role: Admin
 level: Beginner, Experienced
 kt: 8420
 source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Pasos para cambiar la URL de recursos públicos de http a https
+# Pasos para cambiar la URL del recurso público de http a https
 
 Aprenda a cambiar la URL del recurso público de http a https.
 

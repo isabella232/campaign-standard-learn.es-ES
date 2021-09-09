@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: ht
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
+workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -127,4 +127,4 @@ ht-degree: 100%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
-+ [Solución de problemas de Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)
++ [Solución de problemas de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)

@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 64%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     </a>
     </div>
     <p>
-    <em>Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibe el perfil.</em>
+    <em>Obtenga información sobre cómo enviar una prueba para su revisión con la representación exacta del mensaje que recibirá el perfil.</em>
     <p>
   </td>
    <td>
@@ -63,7 +63,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     </a>
     </div>
     <p>
-    <em>Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación Android™.  </em>
+    <em>Este tutorial le guía por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en la aplicación de Android™. </em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Recursos adicionales
 
-* [Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es)

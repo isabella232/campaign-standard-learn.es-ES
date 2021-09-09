@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 80%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Introducción a la interfaz de usuario](/help/getting-started/getting-started-with-the-ui.md)
+   + [Introducción a la IU](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuración de una lista](/help/getting-started/configure-a-list.md)
    + [Exploración de la jerarquía y las actividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Administración de campañas](/help/getting-started/managing-campaigns.md)
-   + [Definición de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Explicación de perfiles y audiencias](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Creación de un correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=es)
    + [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=es)
    + [Introducción a la creación de informes](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -39,18 +39,18 @@ ht-degree: 80%
    + [Administración de servicios y suscripciones](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos de audiencias (BETA){#audience-destinations}
       + [Información general](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Crear una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Creación de una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activación de audiencias de Adobe Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Cambio de la dimensión de segmentación](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canales de comunicación {#communication-channels}
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Envío de una prueba, preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Envío de una prueba y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
-      + [Añadir un grupo de control a un envío](/help/communication-channels/email/control-groups.md)
+      + [Adición de un grupo de control a un envío](/help/communication-channels/email/control-groups.md)
       + [Creación de un envío multilingüe de correo electrónico o SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversión de un correo electrónico, envío de SMS o plantilla de envío existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversión de un correo electrónico, envío de SMS o plantilla de envíos existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
@@ -59,7 +59,7 @@ ht-degree: 80%
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Móvil {#mobile}
       + SMS{#sms}
-         + [Creación de una entrega SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Creación de un envío SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notificaciones push {#push}
          + [Creación de una notificación push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -84,7 +84,7 @@ ht-degree: 80%
       + [Introducción a las plantillas de contenido de correo electrónico](/help/designing-content/email-designer/email-content-templates.md)
       + [Configuración de la vista móvil](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Previsualización del análisis del correo electrónico y antispam](/help/designing-content/email-designer/preview-your-email.md)
-      + [Trabajar con contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Uso de contenido existente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creación de contenido con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configuración de listados de productos en correos electrónicos transaccionales](/help/designing-content/product-listings-in-transactional-email.md)
 + Administración de procesos y datos {#managing-processes-and-data}
@@ -105,19 +105,19 @@ ht-degree: 80%
       + [Configuración del lanzamiento para los activadores](/help/integrations/configure-launch-for-triggers.md)
       + [Creación de un activador en Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creación de un evento de activadores en Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurar mensajes transaccionales mediante datos de eventos en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configuración de mensajes transaccionales mediante datos de evento en tiempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configuración de Microsoft® Dynamics 365 para la integración con Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
-   + [Crear recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
+   + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
-      + [Explicación de Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Información sobre Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Asignar eventos de experiencia](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Asignación de datos de tabla semilla](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Asignación de eventos de Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Asignación de datos de tabla de inicialización](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificación de la asignación de datos](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Comprobar el estado de un trabajo de inserción de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Comprobación del estado de un trabajo de ingesta de datos](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Reglas de tipología{#typology-rules}
       + Administración de fatiga{#fatigue-management}
          + [Creación de reglas de fatiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
@@ -127,4 +127,4 @@ ht-degree: 80%
    + [Modificación de los recursos personalizados para solicitudes de privacidad](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
-+ [Solución de problemas del Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Solución de problemas de Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)

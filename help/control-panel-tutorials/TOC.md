@@ -4,9 +4,9 @@ user-guide-description: Aprenda a monitorizar los activos clave de las instancia
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 85%
 + Configuración de instancias {#instance-settings}
    + Administración de claves GPG {#gpg-key-management}
       + [Administración de claves GPG: información general](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generar e instalar claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Descifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
    + [Monitorización de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Solución de problemas del Panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)

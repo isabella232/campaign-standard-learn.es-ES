@@ -2,15 +2,14 @@
 user-guide-title: Solución de problemas de Adobe Campaign Standard
 user-guide-description: Encuentre ayuda sobre cómo solucionar problemas con Adobe Campaign Standard.
 breadcrumb-title: Solución de problemas de Adobe Campaign Standard
-breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
+source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 47%
 
 ---
 

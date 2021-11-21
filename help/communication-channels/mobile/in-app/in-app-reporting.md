@@ -1,7 +1,7 @@
 ---
 title: Creación de informes sobre su envío en la aplicación
 description: Obtenga información sobre cómo presentar al usuario mensajes en la aplicación contextualmente relevantes en respuesta al comportamiento de un cliente en tiempo real dentro de la aplicación móvil.
-feature: En la aplicación
+feature: In App
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 11%
 
 ---
 
-# Informe de su envío [!UICONTROL In-App] {#in-app-message-reporting}
+# Informe de su [!UICONTROL In-App] entrega {#in-app-message-reporting}
 
-Puede revisar los datos relacionados con el envío [!UICONTROL In-App] en el resumen del envío agregando métricas específicas de [!UICONTROL In-App]. Como alternativa, puede usar el [Informe en la aplicación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) predeterminado.
+Puede revisar su [!UICONTROL In-App] datos relacionados con la entrega en el resumen de la entrega añadiendo [!UICONTROL In-App]Métricas específicas de . Como alternativa, puede usar la opción predeterminada [Informe en la aplicación](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

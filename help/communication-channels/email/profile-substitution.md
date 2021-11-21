@@ -1,7 +1,7 @@
 ---
 title: 'Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino'
 description: Descubra cómo puede probar los mensajes de correo electrónico con la función de sustitución de perfiles.
-feature: 'Correo electrónico  '
+feature: Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 72%
+source-wordcount: '176'
+ht-degree: 76%
 
 ---
 
@@ -35,4 +35,4 @@ Para obtener más información, consulte la [documentación detallada del produc
 
 * [Prueba de mensajes mediante perfiles de destino (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Diseño de un correo electrónico de prueba A/B](/help/communication-channels/email/a-b-testing.md)
-* [Envío de una prueba, preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Envío de una prueba y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)

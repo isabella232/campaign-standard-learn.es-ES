@@ -1,7 +1,7 @@
 ---
 title: Activación de audiencias de Adobe Experience Platform en un flujo de trabajo
 description: En este vídeo se explica cómo activar la Audiencia de consulta de servicios de datos dentro de un flujo de trabajo mediante la actividad "Leer audiencia".
-feature: Integración del servicio principal People
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-En este vídeo se explica cómo activar [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo mediante la actividad [!UICONTROL Read Audience].
+En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo mediante la función [!UICONTROL Read Audience] actividad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 

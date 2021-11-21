@@ -1,7 +1,7 @@
 ---
 title: Administración de los derechos de acceso de los usuarios
 description: En este vídeo se explica cómo definir y administrar los permisos asignados a distintos usuarios en Adobe Campaign.
-feature: Administración de acceso
+feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 24%
+source-wordcount: '59'
+ht-degree: 22%
 
 ---
 

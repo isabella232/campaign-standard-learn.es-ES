@@ -1,7 +1,7 @@
 ---
 title: Solución de problemas del Panel de control de Campaign
 description: El Panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia y lista de permitidos de direcciones IP.
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -9,8 +9,8 @@ team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '318'
+ht-degree: 47%
 
 ---
 
@@ -25,7 +25,7 @@ Problemas que se producen en el inicio de sesión y la página principal.
 ### Síntoma: No se puede iniciar sesión en Adobe Experience Cloud
 
 **Qué hacer:**
-el usuario debe localizar su  [!DNL IMS Org ID] (xxx). El administrador debe agregar el usuario al [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
+El usuario debe localizar su [!DNL IMS Org ID] xxx. El administrador debe agregar el usuario al [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
 
 ### Síntoma: Los vínculos en la [!UICONTROL Adobe Experience Cloud Home] para acceder a [!UICONTROL Control Panel] no aparecen para un usuario
 
@@ -33,15 +33,15 @@ el usuario debe localizar su  [!DNL IMS Org ID] (xxx). El administrador debe agr
 los usuarios no verán los vínculos hasta que se agreguen como usuarios a [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
 **Qué hacer:**
-El administrador debe agregar el usuario al  [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* por cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
+El administrador debe agregar el usuario al [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
 
 ### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-es muy probable que el usuario deba agregarse como perfil de  *[!UICONTROL user]* producto  `Campaign-xxx-Administrators/Admin` para la instancia que falta
+Lo más probable es que el usuario deba agregarse como *[!UICONTROL user]* Perfil del producto `Campaign-xxx-Administrators/Admin` para la instancia que falta
 
 **Qué hacer:**
-El administrador debe agregar el usuario al Perfil de productos  `Campaign-xxx-Admins` para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
+El administrador debe agregar el usuario al perfil de producto `Campaign-xxx-Admins` para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como *[!UICONTROL user]*.
 
 ### Vídeos útiles
 
@@ -63,7 +63,7 @@ El administrador debe agregar el usuario al Perfil de productos  `Campaign-xxx-A
 La conexión a los servidores SFTP requiere lo siguiente:
 
 * [!UICONTROL allow listing] la dirección IP desde la que se está conectando al servidor SFTP.
-* Par de clave pública/privada que debe registrarse con Adobe Campaign
+* Par de claves públicas/privadas que debe registrarse con Adobe Campaign
 * Si se conecta directamente al servidor SFTP, necesitará el software de cliente SFTP
 
 ### Documentación útil {#helpful-docs}

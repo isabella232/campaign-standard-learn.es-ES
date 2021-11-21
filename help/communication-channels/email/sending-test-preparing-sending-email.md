@@ -1,7 +1,7 @@
 ---
-title: Envío de una prueba, preparación y envío de un correo electrónico
+title: Envío de una prueba y preparación y envío de un correo electrónico
 description: '"Aprenda a enviar un correo electrónico de prueba, a prepararse y, a continuación, a realizar la entrega por correo electrónico. ”'
-feature: 'Correo electrónico  '
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 18%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 
-# Envío de una prueba, preparación y envío de un correo electrónico
+# Envío de una prueba y preparación y envío de un correo electrónico
 
 En este vídeo se explica cómo enviar un correo electrónico de prueba, preparar y después enviar una entrega por correo electrónico en Adobe Campaign Standard (ACS).
 

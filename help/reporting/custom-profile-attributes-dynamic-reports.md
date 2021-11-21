@@ -1,7 +1,7 @@
 ---
 title: Creación de atributos de perfil personalizados basados en informes
 description: Obtenga información sobre cómo crear un informe basado en atributos de perfil personalizados.
-feature: Creación de informes
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 13%
 
 ---
 

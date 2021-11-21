@@ -1,7 +1,7 @@
 ---
 title: Introducción a las plantillas de contenido de correo electrónico
 description: Aprenda a crear una plantilla de contenido de correo electrónico.
-feature: Diseño de correo electrónico
+feature: Email Design
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 14%
 
 ---

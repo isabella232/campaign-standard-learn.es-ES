@@ -4,7 +4,7 @@ user-guide-description: Aprenda a monitorizar los activos clave de las instancia
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

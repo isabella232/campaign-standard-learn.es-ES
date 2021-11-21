@@ -1,7 +1,7 @@
 ---
 title: Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform
 description: Obtenga información sobre cómo configurar una aplicación móvil en Adobe Experience Platform Launch y cómo configurarla en Adobe Campaign.
-feature: En la aplicación, push, configuración de canal, integración de SDK móvil
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: Admin
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '137'
 ht-degree: 11%
 
 ---
 
 # Configuración de una aplicación móvil mediante [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Para enviar mensajes en la aplicación o [!UICONTROL push notifications] mediante el SDK V5 de Mobile, la aplicación móvil debe configurarse en [!UICONTROL Adobe Experience Platform Launch] y en Adobe Campaign.
+Para enviar mensajes en la aplicación o [!UICONTROL push notifications] con el SDK V5 de Mobile, la aplicación móvil debe configurarse en [!UICONTROL Adobe Experience Platform Launch] y configurado en Adobe Campaign.
 
 Los siguientes vídeos muestran los pasos necesarios para configurar una aplicación móvil en Experience Platform Launch:
 
@@ -27,7 +27,7 @@ Los siguientes vídeos muestran los pasos necesarios para configurar una aplicac
 
 >[!NOTE]
 >
->Consulte [Configuración de la aplicación en [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) para ver la documentación detallada y las plantillas de código utilizadas en el vídeo.
+>Consulte [Configuración de la aplicación en [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) para obtener la documentación detallada y las plantillas de código utilizadas en el vídeo.
 
 ## Recursos adicionales
 

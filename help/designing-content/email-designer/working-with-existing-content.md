@@ -1,7 +1,7 @@
 ---
 title: Uso de contenido existente
 description: Obtenga información sobre cómo recuperar el contenido creativo de un sitio web y cargarlo en el Diseñador de correo electrónico.
-feature: Diseño de correo electrónico
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -25,10 +25,10 @@ Obtenga información sobre cómo recuperar el contenido creativo de un sitio web
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## Hacer compatible el contenido HTML existente {#making-existing-html-content-compatible}
+## Hacer compatible el contenido del HTML existente {#making-existing-html-content-compatible}
 
-El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido HTML estándar cargado en Adobe Campaign sea totalmente compatible y editable.
+El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido del HTML estándar cargado en Adobe Campaign sea totalmente compatible y editable.
 
 Puede encontrar la documentación detallada en el siguiente enlace:
 
-[Conversión de contenido HTML en una plantilla de Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversión de contenido de HTML en una plantilla de Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

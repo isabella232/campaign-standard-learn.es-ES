@@ -1,7 +1,7 @@
 ---
 title: Información general del Diseñador de correo electrónico
 description: Comprenda la funcionalidad general del Diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero.
-feature: Diseño de correo electrónico
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 85%
+source-wordcount: '123'
+ht-degree: 86%
 
 ---
 

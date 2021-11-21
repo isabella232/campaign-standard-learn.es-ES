@@ -1,14 +1,14 @@
 ---
 title: 'Administración de claves GPG: información general'
 description: Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes. Obtenga información sobre cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
-feature: Panel de control de Campaign
+feature: Control Panel
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 70%
+source-wordcount: '158'
+ht-degree: 75%
 
 ---
 
@@ -18,9 +18,9 @@ GPG (GnuPG) cifra los mensajes utilizando pares de claves individuales asimétri
 
 Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes. Obtenga información sobre cómo importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.
 
-* [Generar e instalar claves GPG para el cifrado de datos](./generating-and-installing-gpg-keys-for-data-encryption.md)
+* [Generación e instalación de claves GPG para el cifrado de datos](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Uso de una clave GPG para cifrar datos](./using-a-gpg-key-to-encrypt-data.md)
-* [Descifrar datos](./decrypting-data.md)
+* [Descifrado de datos](./decrypting-data.md)
 
 ## Recursos adicionales
 

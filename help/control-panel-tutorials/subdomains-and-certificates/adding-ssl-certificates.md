@@ -1,7 +1,7 @@
 ---
 title: Añadir certificados SSL
 description: Aprenda a añadir certificados SSL para proteger los subdominios.
-feature: Panel de control de Campaign
+feature: Control Panel
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 36%
+source-wordcount: '189'
+ht-degree: 35%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 Aprenda a añadir certificados SSL para proteger los subdominios.
 
-## Acceso a la administración de subdominios [!UICONTROL Control Panel]
+## Acceso [!UICONTROL Control Panel] Administración de subdominios
 
 Para acceder a la administración de subdominios en [!UICONTROL Control Panel], vaya a:
 
-* [Inicio](https://experience.adobe.com/#/home)  del Experience Cloud >  [!UICONTROL Solution picker]:  [!DNL Campaign] >  **[!UICONTROL Control Panel]** tarjeta >  [!UICONTROL **Subdominios y tarjeta**] de certificación
+* [Página principal del Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** tarjeta > [!UICONTROL **Subdominios y certificados**] tarjeta
 
    o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -35,7 +35,7 @@ Para añadir los certificados SSL se requieren tres pasos:
 
 ### Paso 1: Generar [!UICONTROL Certificate Signing Requests]
 
-Se requiere un [!UICONTROL Certificate Signing Request] (CSR) para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
+A [!UICONTROL Certificate Signing Request] (CSR) es necesario para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
 
 El siguiente vídeo describe cómo generar un [!UICONTROL Certificate Signing Request] en [!UICONTROL Control Panel].
 

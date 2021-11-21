@@ -1,7 +1,7 @@
 ---
 title: Creación de una entrega de correo electrónico
 description: 'Obtenga información sobre cómo crear un envío de correo electrónico desde la página principal. '
-feature: 'Correo electrónico '
+feature: Email
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 44%
 
 ---
 
 # Creación de una entrega de correo electrónico {#create-an-email-delivery}
 
-Puede crear un envío de correo electrónico independiente desde una campaña, desde la página de inicio de Adobe Campaign o en la lista [!UICONTROL Marketing Activity]. También puede crear y enviar correos electrónicos recurrentes y de un solo envío desde un flujo de trabajo.
+Puede crear una entrega de correo electrónico independiente desde una campaña, desde la página de inicio de Adobe Campaign o en la [!UICONTROL Marketing Activity] lista. También puede crear y enviar correos electrónicos recurrentes y de un solo envío desde un flujo de trabajo.
 
 Obtenga información sobre cómo crear un envío de correo electrónico desde la página principal.
 

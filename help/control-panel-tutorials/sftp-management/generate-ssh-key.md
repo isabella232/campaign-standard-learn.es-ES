@@ -1,7 +1,7 @@
 ---
 title: Generación de una clave SSH
 description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -9,17 +9,16 @@ audience: administrator
 activity: use
 team: PM
 exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 36%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
 # Generación de una clave SSH
 
-Debe generar una clave SSH para poder agregarla a [!UICONTROL Control Panel].
+Debe generar una clave SSH para poder agregarla al [!UICONTROL Control Panel].
 
 ## Acceso a la administración de SFTP de [!UICONTROL Control Panel]
 

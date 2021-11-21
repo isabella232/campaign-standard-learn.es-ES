@@ -1,7 +1,7 @@
 ---
 title: 'Creación de perfiles y audiencias: información general'
 description: Obtenga información sobre cómo navegar a perfiles existentes, y cómo crear perfiles y audiencias.
-feature: Perfiles, Audiencias
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 35%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Cambio de la dimensión de segmentación
 description: En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal de Adobe Campaign Standard.
-feature: Integración del servicio principal People
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -39,5 +39,5 @@ Documentación:
 
 Recursos de vídeo:
 
-* [Crear una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Creación de una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Activar audiencias de Adobe Experience Platform en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

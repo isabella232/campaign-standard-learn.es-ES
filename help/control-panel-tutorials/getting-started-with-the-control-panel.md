@@ -1,7 +1,7 @@
 ---
 title: Introducción al Panel de control de Campaign
-description: Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control de Campaign.
-feature: Panel de control de Campaign
+description: Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con este.
+feature: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
@@ -11,8 +11,8 @@ team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 41%
+source-wordcount: '206'
+ht-degree: 75%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 41%
 >
 >Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allowlist]&quot; y &quot;[!UICONTROL denylist]&quot; en la documentación de Adobe Campaign. Algunas instancias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, los nombres de opciones, el código interno y los vídeos del tutorial. Se reemplazarán en próximas versiones del panel de control de Campaign.
 
-El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento [!DNL SFTP] por instancia, administrar las claves [!DNL GPG] o [!UICONTROL subdomains] y [!UICONTROL certificates].
+La variable [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar la variable [!DNL SFTP] almacenamiento por instancia, administrar [!DNL GPG] teclas, o [!UICONTROL subdomains] y [!UICONTROL certificates].
 
-Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control de Campaign.
+Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con este.
 
-## Acceda a [!UICONTROL Control Panel]
+## Acceda a la [!UICONTROL Control Panel]
 
-Para acceder al Panel de control de Campaign, vaya a la página principal del Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acceder al Panel de control de Campaign, vaya al inicio de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -45,7 +45,7 @@ Antes de comenzar, complete los siguientes requisitos previos:
 
 ### Confirmar [!DNL IMS Org ID]
 
-El siguiente vídeo describe dónde puede buscar la instancia [!DNL IMS org ID].
+El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 19%
 
 ---
 
-# Creación de una entrega SMS{#creating-a-sms-delivery}
+# Creación de un envío SMS{#creating-a-sms-delivery}
 
 Obtenga información sobre cómo crear un envío de SMS en Adobe Campaign Standard. También puede configurar el envío de SMS en un flujo de trabajo mediante la actividad de envío de SMS .
 

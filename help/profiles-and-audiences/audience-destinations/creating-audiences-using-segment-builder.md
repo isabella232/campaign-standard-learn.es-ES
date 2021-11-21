@@ -1,7 +1,7 @@
 ---
-title: Crear una audiencia con el Generador de segmentos unificado
+title: Creación de una audiencia con el Generador de segmentos unificado
 description: Obtenga información sobre cómo crear una audiencia mediante el Generador de segmentos unificados
-feature: Integración del servicio principal People
+feature: People Core Service Integration
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 4%
+source-wordcount: '210'
+ht-degree: 12%
 
 ---
 
-# Crear una audiencia con el Generador de segmentos unificado
+# Creación de una audiencia con el Generador de segmentos unificado
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 4%
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Adobe Campaign Standard le permite crear audiencias utilizando datos del [Perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) de Adobe Experience Cloud mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard le permite crear audiencias utilizando datos de Adobe Experience Cloud [Perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) mediante Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Puede acceder a [!UICONTROL Unified Segment Builder] directamente dentro de Adobe Campaign Standard a través del módulo [!UICONTROL Audiences ] . Permite administrar estas audiencias directamente en la vista de lista [!UICONTROL Audiences], donde puede editar o crear una audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
+Puede acceder al [!UICONTROL Unified Segment Builder] directamente en Adobe Campaign Standard a través de la variable [!UICONTROL Audiences ] módulo. Le permite administrar estas audiencias directamente en la [!UICONTROL Audiences] vista de lista, donde puede editar o crear una audiencia de Adobe Experience Platform directamente desde la interfaz de Adobe Campaign
 
-El siguiente vídeo explica cómo se crea una audiencia nueva mediante [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
+El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 

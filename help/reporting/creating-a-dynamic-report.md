@@ -1,7 +1,7 @@
 ---
 title: Creación de un informe dinámico
 description: Descubra cómo crear un informe.
-feature: Creación de informes
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 33%
+source-wordcount: '62'
+ht-degree: 32%
 
 ---
 
-# Crear un [!UICONTROL Dynamic Report]{#creating-a-report}
+# Cree un [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] es un entorno de forma libre flexible donde puede explorar datos. Le permite combinar dimensiones, métricas e intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
+Adobe Campaign [!UICONTROL Dynamic Reports] son un entorno de forma libre flexible en el que puede explorar datos. Le permite combinar dimensiones, métricas e intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
 
 Descubra cómo crear un informe.
 

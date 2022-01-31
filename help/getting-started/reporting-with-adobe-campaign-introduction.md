@@ -10,9 +10,9 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 Este vídeo le ofrece información general sobre las funciones de creación de informes de Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
-
-## Recursos adicionales
-
-* [Creación de un informe dinámico](/help/reporting/creating-a-dynamic-report.md)
-* [Creación de informes dinámicos con atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)

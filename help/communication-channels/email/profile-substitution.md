@@ -1,7 +1,7 @@
 ---
 title: 'Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino'
 description: Descubra cómo puede probar los mensajes de correo electrónico con la función de sustitución de perfiles.
-feature: Email
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,4 @@ Para obtener más información, consulte la [documentación detallada del produc
 >
 >Esta función le permite enviar información personal de perfil a direcciones de correo electrónico externas. Tenga en cuenta que la ejecución de solicitudes de privacidad (RGPD y CCPA) en Campaign Standard NO ejecutará esa solicitud de manera externa.
 
-## Recursos adicionales
-
-* [Prueba de mensajes mediante perfiles de destino (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [Diseño de un correo electrónico de prueba A/B](/help/communication-channels/email/a-b-testing.md)
-* [Envío de una prueba y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+Consulte la documentación del producto para obtener más información [prueba de mensajes con perfiles de destino](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)

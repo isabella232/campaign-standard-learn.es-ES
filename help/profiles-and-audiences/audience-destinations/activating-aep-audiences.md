@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,4 @@ En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audie
 
 *Activación de una audiencia de Adobe Experience Platform en un flujo de trabajo (2:37 min)*
 
-## Recursos adicionales
-
-Documentación:
-
-* [Ingesta de audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-Recursos de vídeo:
-
-* [Crear una audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Cambiar la dimensión de segmentación de una entrega para una audiencia de Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+Consulte la documentación del producto sobre cómo [Ingesta de audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

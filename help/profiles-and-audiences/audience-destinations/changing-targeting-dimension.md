@@ -10,10 +10,10 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 7a1a8449fa5226cb8b9435e98e1e2719b44b18ff
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
@@ -28,16 +28,3 @@ ht-degree: 11%
 En este vídeo se explica cómo cambiar la dimensión de segmentación de un envío para un [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
-
-## Recursos adicionales
-
-Documentación:
-
-* [Audience Destinations (BETA) (documentación)](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
-* [Cómo crear una asignación de destino](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
-* [Creación de una plantilla de envíos](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
-
-Recursos de vídeo:
-
-* [Creación de una audiencia con el Generador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Activar audiencias de Adobe Experience Platform en un flujo de trabajo de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

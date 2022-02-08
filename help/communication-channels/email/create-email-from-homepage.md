@@ -10,10 +10,10 @@ team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
 role: User
 level: Beginner
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 99f144fa2c6d892a6b1fde4e434fe75145367313
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 44%
+source-wordcount: '61'
+ht-degree: 45%
 
 ---
 
@@ -24,8 +24,3 @@ Puede crear una entrega de correo electrónico independiente desde una campaña,
 Obtenga información sobre cómo crear un envío de correo electrónico desde la página principal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
-
-## Recursos adicionales
-
-* [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-* [Creación de un correo electrónico (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)

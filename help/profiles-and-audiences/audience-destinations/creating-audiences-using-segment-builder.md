@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 12%
+source-wordcount: '194'
+ht-degree: 8%
 
 ---
 
@@ -35,14 +35,9 @@ El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Un
 
 *Cómo crear una audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado (mín. 02:47)*
 
-## Recursos adicionales
-
-Documentación:
+Para obtener más información, consulte la documentación del producto:
 
 * [Información general del perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Guía del usuario del Generador de segmentos](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Recursos de vídeo:
 
-* [Activación de audiencias de Experience Platform en un flujo de trabajo](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Cambiar la dimensión de segmentación de una entrega para una audiencia de Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

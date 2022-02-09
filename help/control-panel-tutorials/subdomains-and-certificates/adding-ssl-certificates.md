@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 35%
+source-wordcount: '170'
+ht-degree: 33%
 
 ---
 
@@ -56,8 +56,3 @@ El siguiente vídeo explica cómo instalar los certificados SSL en [!UICONTROL C
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Instalar certificados SSL (1:25 min)*
-
-## Recursos adicionales
-
-* [Delegación de subdominios completa (vídeo)](./subdomain-delegation.md)
-* [Subdominios y certificados: Documentación](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

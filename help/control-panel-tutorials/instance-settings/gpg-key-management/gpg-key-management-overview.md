@@ -4,11 +4,12 @@ description: Obtenga información sobre cómo generar e instalar un par de clave
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 75%
+source-wordcount: '164'
+ht-degree: 69%
 
 ---
 
@@ -22,6 +23,4 @@ Obtenga información sobre cómo generar e instalar un par de claves pública y 
 * [Uso de una clave GPG para cifrar datos](./using-a-gpg-key-to-encrypt-data.md)
 * [Descifrado de datos](./decrypting-data.md)
 
-## Recursos adicionales
-
-* [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)
+Consulte la documentación del producto para obtener más información sobre [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)

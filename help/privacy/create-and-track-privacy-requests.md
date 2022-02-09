@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
-source-git-commit: d395f84d772122361e1988430b4aba8b0d54270e
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 87%
 
 ---
 
@@ -23,7 +23,4 @@ Aprenda a crear manualmente solicitudes de privacidad y realizar un seguimiento 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-## Recursos adicionales
-
-* [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=es)
-* [CCPA para ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=es#privacy-requests)
+Consulte la documentación del producto para obtener más información sobre la [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=es).

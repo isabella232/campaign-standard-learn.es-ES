@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Para poder crear solicitudes de eliminación y de acceso a la privacidad, según
 Aprenda a crear áreas de nombres para solicitudes de privacidad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
-
-## Recursos adicionales
-
-* [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=es#getting-started)

@@ -10,10 +10,10 @@ team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 26%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
@@ -24,11 +24,3 @@ Puede recopilar datos de un archivo para procesarlos o importarlos en la base de
 En este vídeo se explica cómo usar la variable [!UICONTROL Data Management] actividades en un flujo de trabajo para importar datos de perfil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
-
-## Recursos adicionales
-
-**Documentación del producto:**
-* [Transferir archivo](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
-* [Cargar archivo](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
-* [Actualización de datos](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
-* [Introducción a la administración de datos y procesos](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)

@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '130'
 ht-degree: 4%
 
 ---
@@ -38,8 +38,3 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 ## Paso 3: Prueba del mensaje transaccional
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
-
-## Recursos adicionales
-
-* [Uso de listas de productos en un mensaje transaccional (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
-* [Definición de colecciones de datos (documentación)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)

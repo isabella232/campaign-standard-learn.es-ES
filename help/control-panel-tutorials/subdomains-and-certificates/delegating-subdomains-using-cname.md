@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ Para poder empezar a enviar correos electrónicos o publicar páginas de destino
 Aprenda a configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## Recursos adicionales
-
-* [Delegación de subdominios completa (vídeo)](./subdomain-delegation.md)
-* [Configuración de un nuevo subdominio (documentación)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=es)

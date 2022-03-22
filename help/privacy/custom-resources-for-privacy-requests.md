@@ -1,5 +1,5 @@
 ---
-title: Modificación de los recursos personalizados al configurar Adobe Campaign Standard para solicitudes de privacidad
+title: Modificación de los recursos personalizados al configurar Adobe Campaign Standard para las solicitudes de privacidad
 description: Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
 feature: Privacy Tools
 kt: 1243
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad
 >
 > Para comprobar su versión, haga clic en **?** en la parte superior derecha de la interfaz y seleccione Acerca de.
 
-Consulte también la [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=es)
+Consulte también las [Directrices generales de privacidad para Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=es)

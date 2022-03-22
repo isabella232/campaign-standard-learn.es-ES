@@ -10,9 +10,9 @@ activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Aprenda a monitorizar el uso de la base de datos de sus instancias con [!DNL Con
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-Consulte la documentación del producto para obtener más información sobre [Supervisión de bases de datos](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=es#performance-monitoring)
+Consulte la documentación del producto para obtener más información acerca de la [Monitorización de bases de datos](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=es#performance-monitoring)

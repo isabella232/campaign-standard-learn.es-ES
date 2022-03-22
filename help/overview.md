@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '258'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Resolución de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
+* **[Resolución de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)**
 
 *Busque ayuda para solucionar problemas conocidos con Adobe Campaign Standard.*
 
@@ -46,7 +46,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
       <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=es">
     <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>
@@ -55,11 +55,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
     <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>

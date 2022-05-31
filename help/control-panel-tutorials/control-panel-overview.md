@@ -10,10 +10,10 @@ activity: use
 team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '230'
-ht-degree: 100%
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+workflow-type: tm+mt
+source-wordcount: '248'
+ht-degree: 95%
 
 ---
 
@@ -30,6 +30,8 @@ El Panel de control de Campaign permite a los administradores de Adobe Campaign 
 * **[Delegación de subdominios mediante CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.*
+
+Consulte la [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
 
 ## Nuestra selección
 

@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# Delegación de subdominios mediante CNAME (beta)
-
->[!IMPORTANT]
->
-> El uso de CNAME para la delegación de subdominios está en versión beta, y sujeto a frecuentes actualizaciones y modificaciones sin previo aviso.
+# Delegación de subdominios mediante CNAME
 
 Para poder empezar a enviar correos electrónicos o publicar páginas de destino con Adobe Campaign, debe configurar un nuevo subdominio.
 

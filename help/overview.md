@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '305'
+ht-degree: 84%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 
 ## Novedades
+
+* **[Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
 
 * **[Resolución de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)**
 
@@ -59,7 +63,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>

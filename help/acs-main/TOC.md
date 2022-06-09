@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 0%
       + [Conversión de un correo electrónico, envío de SMS o plantilla de envíos existente en multilingüe](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisión de un envío de correo electrónico e informes](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creación y envíos de correos electrónicos mediante un flujo de trabajo](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [Guía de prácticas recomendadas de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
       + Correos electrónicos con tecnología de IA {#journey-ai}
          + [Optimización del tiempo de envío predictivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Puntuación de participación predictiva](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 0%
    + [Creación y seguimiento manuales de solicitudes de privacidad](/help/privacy/create-and-track-privacy-requests.md)
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
 + [Solución de problemas de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)
++ Estrategia y liderazgo mental{#strategy}
+   + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)

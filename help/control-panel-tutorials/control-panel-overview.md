@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ El Panel de control de Campaign permite a los administradores de Adobe Campaign 
 
    *Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.*
 
-Consulte la [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
+Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
 
 ## Nuestra selección
 

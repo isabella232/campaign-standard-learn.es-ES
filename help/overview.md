@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Maximice el retorno de la inversión del correo electrónico y aprenda las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)**
 
-   *Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
+   *Obtenga información sobre cómo maximizar el retorno de la inversión del correo electrónico y conozca las prácticas recomendadas para renovar la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
 
 * **[Resolución de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)**
 
@@ -63,7 +63,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
     <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>

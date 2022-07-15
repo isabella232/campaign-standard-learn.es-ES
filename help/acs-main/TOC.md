@@ -4,8 +4,8 @@ user-guide-description: Diseñe experiencias de clientes de distintos canales y 
 breadcrumb-title: Tutoriales de Campaign Standard
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '567'
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 + Administrar {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
-   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target=&quot;_blank&quot;}
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Información sobre Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

@@ -1,6 +1,6 @@
 ---
 title: Creación de un informe dinámico
-description: Descubra cómo crear un informe.
+description: Aprenda a crear un informe.
 feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 Adobe Campaign [!UICONTROL Dynamic Reports] son un entorno de forma libre flexible en el que puede explorar datos. Le permite combinar dimensiones, métricas e intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
 
-Descubra cómo crear un informe.
+Aprenda a crear un informe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 

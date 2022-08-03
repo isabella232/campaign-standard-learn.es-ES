@@ -5,8 +5,8 @@ breadcrumb-title: Tutoriales del Panel de control de Campaign
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

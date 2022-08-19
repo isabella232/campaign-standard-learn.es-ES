@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+workflow-type: tm+mt
+source-wordcount: '336'
+ht-degree: 91%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 
 ## Novedades
+
+* **[Solución de problemas y análisis profundo del protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 * **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=es){target=&quot;_blank&quot;}**
 
@@ -63,7 +67,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>

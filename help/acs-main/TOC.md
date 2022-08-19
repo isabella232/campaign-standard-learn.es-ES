@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
+source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '579'
+ht-degree: 100%
 
 ---
 
@@ -104,6 +104,7 @@ ht-degree: 0%
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target=&quot;_blank&quot;}
+   + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Información sobre Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

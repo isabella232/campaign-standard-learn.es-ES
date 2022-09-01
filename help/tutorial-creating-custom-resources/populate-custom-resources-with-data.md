@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 53a5e27142f0f3f175e56d58dc67cb184b81d6a0
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -21,4 +21,4 @@ Obtenga información sobre cómo rellenar recursos personalizados con datos de u
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-Para obtener más información sobre cómo rellenar recursos personalizados mediante un [!DNL API], consulte la documentación: [Interactuar con recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+Para obtener más información sobre cómo rellenar recursos personalizados mediante un [!DNL API], consulte la documentación: [Interactuar con recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).

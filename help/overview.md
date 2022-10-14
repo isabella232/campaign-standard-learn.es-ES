@@ -1,6 +1,6 @@
 ---
 title: 'Tutoriales de Adobe Campaign Standard: información general'
-description: Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes en canales múltiples y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
@@ -8,23 +8,23 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '308'
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign Standard: información general
 
-Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes en canales múltiples y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 
 ## Novedades
 
-* **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=es){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
 
-* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target=&quot;_blank&quot;}**
 
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
@@ -46,11 +46,11 @@ Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=es">
       <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=es">
     <strong>Panel de control de Campaign (vídeos)</strong>
     </a>
     </div>
@@ -63,7 +63,7 @@ Adobe Campaign proporciona una plataforma para diseñar experiencias de clientes
       <img alt="Tutorial: Introducción a las notificaciones push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es">
     <strong>Tutorial: Introducción a las notificaciones push para Android™</strong>
     </a>
     </div>

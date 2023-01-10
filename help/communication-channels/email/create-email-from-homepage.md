@@ -17,7 +17,7 @@ ht-degree: 40%
 
 ---
 
-# Creación de una entrega de correo electrónico {#create-an-email-delivery}
+# Crear un envío de correo electrónico {#create-an-email-delivery}
 
 Puede crear una entrega de correo electrónico independiente desde una campaña, desde la página de inicio de Adobe Campaign o en la [!UICONTROL Marketing Activity] lista. También puede crear y enviar correos electrónicos recurrentes y de un solo envío desde un flujo de trabajo.
 

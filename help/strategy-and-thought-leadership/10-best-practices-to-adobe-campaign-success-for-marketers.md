@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Cuando prueban cosas nuevas, no siempre lo hacen bien la primera vez. Por lo tan
 
 ## 10. Manténgase lo más ágil posible
 
-El mercado sigue cambiando y moviéndose a un ritmo cada vez mayor. Alentar a sus equipos de campaña a que permanezcan lo más ligeros y ágiles posible es fundamental para competir y seguir cumpliendo con las crecientes expectativas de los clientes. [El 35% de los líderes de marketing digital creen que los mayores desafíos provienen de su organización](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-La formación cruzada en tres plataformas y el aumento de la comprensión de los flujos y la estructura de datos u otras soluciones de Adobe pueden ayudar a lograr esto o tener planes de contingencia en las campañas. Contar con expertos en la materia en una herramienta principal. A continuación, mire los canales cruzados con herramientas secundarias y terciarias. Esto crea flexibilidad en el modelo de operación de marketing. El uso de más de tres herramientas reduce drásticamente su experiencia y sus resultados. Esta mentalidad se puede lograr de muchas maneras, pero un compromiso general con la agilidad y la planificación es fundamental para lograr el éxito a corto y largo plazo.
+El mercado sigue cambiando y moviéndose a un ritmo cada vez mayor. Alentar a sus equipos de campaña a que permanezcan lo más ligeros y ágiles posible es fundamental para competir y seguir cumpliendo con las crecientes expectativas de los clientes. [El 35% de los líderes de marketing digital creen que los mayores desafíos provienen de su organización](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Para ello, siga cursos de formación en algunas plataformas, aumente su comprensión de los flujos y la estructura de datos u otras soluciones de Adobe y cree planes de contingencia para las campañas. Esta mentalidad puede lograrse de muchas maneras, pero un compromiso general con la agilidad y la planificación es fundamental para lograr el éxito a corto y largo plazo.

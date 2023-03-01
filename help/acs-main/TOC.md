@@ -5,7 +5,7 @@ breadcrumb-title: Tutoriales de Campaign Standard
 source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [Ejecución de solicitudes de privacidad](/help/privacy/execute-privacy-requests.md)
 + [Solución de problemas de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)

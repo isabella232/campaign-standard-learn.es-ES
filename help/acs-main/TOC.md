@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
+source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 99%
    + Correo electrónico {#email}
       + [Creación de un correo electrónico](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envío de una prueba y preparación y envío de un correo electrónico](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Envío de una prueba](/help/communication-channels/email/send-a-proof.md)
       + [Pruebas A/B](/help/communication-channels/email/a-b-testing.md)
       + [Prueba de mensajes de correo electrónico con perfiles de destino](/help/communication-channels/email/profile-substitution.md)
       + [Adición de un grupo de control a un envío](/help/communication-channels/email/control-groups.md)
@@ -103,7 +104,7 @@ ht-degree: 99%
 + Administrar {#administrating}
    + [Administración de los derechos de acceso de los usuarios](/help/administrating/managing-user-access-rights.md)
    + [Creación de recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=es)
-   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
+   + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Información sobre Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Asignación de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
-* **[Panel de control de Campaign: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=es){target=&quot;_blank&quot;}**
+* **[Programación de mensajes](/help/communication-channels/email/schedule-messages.md)**
 
-   *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
+   *Obtenga información sobre cómo programar un envío de correo electrónico.*
 
-* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target=&quot;_blank&quot;}**
+* **[Envío de una prueba](/help/communication-channels/email/send-a-proof.md)**
 
-   *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
+   *Obtenga información sobre cómo probar un mensaje de correo electrónico antes de enviarlo a los destinatarios finales.*
+
+* **[Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Conozca las diez prácticas recomendadas para ayudar a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y mejorar la experiencia para sus clientes.*
 
 ## Selección de personal
 
@@ -47,15 +51,15 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=es">
-      <img alt="Panel de control de Campaign (vídeos)" src="./assets/control-panel.png" />
+      <img alt="Panel de control (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=es">
-    <strong>Panel de control de Campaign (vídeos)</strong>
+    <strong>Panel de control (vídeos)</strong>
     </a>
     </div>
     <p>
-    <em> Aumente su eficacia como administrador al administrar la configuración y haciendo un seguimiento de los usos de las instancias con el Panel de control de Campaign.</em>
+    <em> Aumente su eficacia como administrador al administrar la configuración y haciendo un seguimiento de los usos de las instancias con el Panel de control.</em>
     <p>
   </td>
   <td>

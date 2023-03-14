@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
+source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '563'
 ht-degree: 99%
 
 ---
@@ -125,5 +125,5 @@ ht-degree: 99%
 + [Solución de problemas de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
    + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
+   + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)

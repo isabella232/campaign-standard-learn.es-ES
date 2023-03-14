@@ -2,7 +2,7 @@
 title: Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores
 description: Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -104,7 +104,7 @@ El estado de los suscriptores (activos, caducados o inactivos) depende de la fre
 
 A continuación se muestra una tabla sencilla que le ayudará durante la auditoría:
 
-![estado del suscriptor](assets/subscriber-status.png)
+![estado del suscriptor](/help/assets/subscriber-status.png)
 
 Por ejemplo, si envía correos electrónicos a los clientes diariamente, deberían haber interactuado con uno de esos correos electrónicos durante el último mes para que se consideren activos y comprometidos. Por el contrario, si envía un correo electrónico mensual a los clientes y estos no han interactuado en un plazo de 9 a 14 meses, se pueden considerar inactivos.
 

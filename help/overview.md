@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 * **[Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Conozca las diez prácticas recomendadas para ayudar a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y mejorar la experiencia para sus clientes.*
+   *Obtenga información sobre diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.*
 
 </div>
 

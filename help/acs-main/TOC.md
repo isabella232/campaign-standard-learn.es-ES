@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
          + [Introducción a los mensajes en la aplicación](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configuración de eventos](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Publicación de un mensaje en la aplicación](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [Usuarios de destino según su perfil de Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [Usuarios destinatarios según su perfil de Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Creación de un envío en la aplicación dentro de un flujo de trabajo](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Creación de informes sobre su envío en la aplicación](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configuración de una aplicación móvil mediante el SDK de Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)

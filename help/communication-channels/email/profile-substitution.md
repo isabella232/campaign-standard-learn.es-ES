@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -23,7 +23,7 @@ En este vídeo se explica cómo probar los mensajes de correo electrónico media
 
 Supongamos que desea enviar una newsletter personalizada por correo electrónico. Sin embargo, antes de enviarla, un compañero quiere revisarla y ha pedido pruebas. Puede utilizar las funciones de [!UICONTROL Profile Substitution] para enviar una prueba, ya que le permite enviar una representación exacta del mensaje que recibe el perfil de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 

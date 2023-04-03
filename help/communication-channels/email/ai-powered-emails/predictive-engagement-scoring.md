@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -28,4 +28,4 @@ Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar
 
 Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&learn=on)

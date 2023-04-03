@@ -10,7 +10,7 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: e8bc68272747d824e0978d603f3a5ba2fe9806cf
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 43%
@@ -31,4 +31,4 @@ Cada servicio incluye:
 
 Este vídeo muestra cómo crear un servicio y administrar sus suscripciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12&learn=on)

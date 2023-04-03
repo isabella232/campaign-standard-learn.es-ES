@@ -10,7 +10,7 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 9%
@@ -31,6 +31,6 @@ Puede acceder al [!UICONTROL Unified Segment Builder] directamente en Adobe Camp
 
 El siguiente vídeo explica cómo se crea una nueva audiencia con [!UICONTROL Unified Segment Builder] en Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
 *Cómo crear una audiencia en Adobe Campaign Standard mediante el Generador de segmentos unificado (mín. 02:47)*

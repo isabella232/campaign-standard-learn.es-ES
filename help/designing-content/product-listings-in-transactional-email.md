@@ -10,7 +10,7 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 4%
@@ -29,12 +29,12 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 
 ## Paso 1: Creación de un evento y publicación
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
 ## Paso 2: Añadir una lista de productos a una plantilla de mensaje transaccional
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
 ## Paso 3: Prueba del mensaje transaccional
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

@@ -10,7 +10,7 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 81%
@@ -28,6 +28,6 @@ Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar
 
 Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo del recorrido de IA. Obtener información sobre cómo ver las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar los envíos de correo electrónico mediante una fórmula de tiempo de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
 
 Consulte la documentación del producto para obtener más información sobre esto [optimización del diseño y el envío con correos electrónicos con tecnología de IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

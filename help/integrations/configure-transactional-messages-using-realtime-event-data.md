@@ -10,8 +10,8 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '40'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a configurar mensajes transaccionales utilizando datos de evento en tiempo real procedentes de los activadores.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)

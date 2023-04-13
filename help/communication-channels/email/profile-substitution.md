@@ -1,6 +1,6 @@
 ---
 title: 'Sustitución de perfiles: prueba de mensajes de correo electrónico con perfiles de destino'
-description: Descubra cómo puede probar los mensajes de correo electrónico con la función de sustitución de perfiles.
+description: Aprenda a probar los mensajes de correo electrónico mediante la función de sustitución de perfiles.
 feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
@@ -11,9 +11,9 @@ exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Supongamos que desea enviar una newsletter personalizada por correo electrónico
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
-Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
+Para obtener más información, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=es).
 
 >[!IMPORTANT]
 >
 >Esta función le permite enviar información personal de perfil a direcciones de correo electrónico externas. Tenga en cuenta que la ejecución de solicitudes de privacidad (RGPD y CCPA) en Campaign Standard NO ejecutará esa solicitud de manera externa.
 
-Consulte la documentación del producto para obtener más información [prueba de mensajes con perfiles de destino](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
+Consulte la documentación del producto para obtener más información acerca de la [prueba de mensajes con perfiles de destinatario](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=es)

@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
+source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '735'
 ht-degree: 1%
 
 ---
@@ -105,7 +105,7 @@ Puede resolver este error de tres maneras:
 
 1. Vuelva a cambiar el nombre a la expresión que estaba presente originalmente.
 
-2. Si desea utilizar un nombre nuevo, cambie los valores en las actividades de la variable **actividad de enriquecimiento**.
+2. Si desea utilizar un nombre nuevo, cambie los valores en la variable **actividad de enriquecimiento**.
 
 3. Si no recuerda lo que ha cambiado, lo mejor sería volver a crear la actividad.
 

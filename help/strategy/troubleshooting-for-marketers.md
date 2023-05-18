@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ Existen dos maneras de resolver este error:
 
 1. Utilice el mismo nombre de campo tanto en el campo principal como en el excluido y utilice ese campo como ID
 
-O
+   O
 
-2. Utilice el método de exclusión JOINS para seleccionar el campo en función del cual desea excluir los registros.
+1. Utilice el método de exclusión JOINS para seleccionar el campo en función del cual desea excluir los registros.
 
 ![Error de conjunto de datos de campo común: solución ](/help/assets/kt-13256/dataset-error-solution.png)
 

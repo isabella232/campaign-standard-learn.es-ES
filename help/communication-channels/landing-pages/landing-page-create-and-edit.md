@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Creación y edición de una página de aterrizaje {#create-and-edit-a-landing-page}
 
-Adobe Campaign permite crear páginas de aterrizaje que son formularios en línea que se pueden utilizar para capturar información sobre audiencias, ofrecer suscripciones a un servicio, mostrar datos y ampliar la base de datos. Las páginas de aterrizaje también se pueden utilizar para adquirir o actualizar perfiles existentes.
+Adobe Campaign le permite crear páginas de destino que son formularios en línea que se pueden utilizar para capturar información sobre sus audiencias, ofrecer suscripciones a un servicio, mostrar datos y ampliar su base de datos. Las páginas de aterrizaje también se pueden utilizar para adquirir o actualizar perfiles existentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 

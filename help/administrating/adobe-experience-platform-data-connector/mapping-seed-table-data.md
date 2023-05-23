@@ -1,6 +1,6 @@
 ---
 title: Asignación de datos de tabla de inicialización
-description: Obtenga información sobre cómo asignar los datos semilla y cómo probar perfiles con Adobe Experience Platform (AEP)
+description: Obtenga información sobre cómo asignar los datos semilla y cómo probar los perfiles con Adobe Experience Platform (AEP)
 feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>Esta funcionalidad está actualmente en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
@@ -27,4 +27,4 @@ Obtenga información sobre cómo asignar datos semilla y perfiles de prueba con 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
-Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) y [activación de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+Consulte la documentación del producto para obtener más información sobre la [definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) y el [activación de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

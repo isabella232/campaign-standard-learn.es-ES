@@ -1,6 +1,6 @@
 ---
 title: Usuarios destinatarios según su perfil de Campaign
-description: Obtenga información sobre cómo dirigirse a usuarios conocidos de aplicaciones móviles con mensajes personalizados con atributos de perfil CRM.
+description: Obtenga información sobre cómo dirigirse a usuarios de aplicaciones móviles conocidos con mensajes personalizados con atributos de perfil CRM.
 feature: In App
 kt: 1796
 thumbnail: 26200.jpg
@@ -17,10 +17,10 @@ ht-degree: 7%
 
 ---
 
-# Usuarios de Target según sus [!DNL Campaign] perfil
+# Usuarios de destino según su [!DNL Campaign] perfil
 
-Puede dirigirse a usuarios que hayan iniciado sesión en la aplicación con PII (usuarios conocidos de aplicaciones móviles) con mensajes personalizados, mediante atributos de perfil CRM disponibles en Adobe Campaign Standard. Esta plantilla admite casos de uso de orquestación en canales múltiples, en los que ya se ha dirigido a clientes de otros canales, como Correo electrónico o Push, en función de su respuesta, y desea volver a atraer a estos clientes con un mensaje en la aplicación.
+Puede segmentar usuarios que hayan iniciado sesión en la aplicación con PII (usuarios conocidos de aplicaciones móviles) con mensajes personalizados, utilizando los atributos de perfil de CRM disponibles en Adobe Campaign Standard. Esta plantilla es compatible con casos de uso de orquestación entre canales, en los que ya se ha dirigido a clientes de otros canales, como correo electrónico o push, en función de su respuesta y desea volver a atraer a estos clientes con un mensaje en la aplicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 
-*Creación de un mensaje en la aplicación mediante un[!UICONTROL Campaign profile template]*
+*Creación de un mensaje en la aplicación mediante una[!UICONTROL Campaign profile template]*

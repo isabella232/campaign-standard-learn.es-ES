@@ -17,7 +17,7 @@ ht-degree: 26%
 
 # Create [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] permite a los especialistas en marketing establecer reglas comerciales globales de canales múltiples que excluyan automáticamente los perfiles saturados de las campañas.
+[!UICONTROL Fatigue rules] permita a los especialistas en marketing establecer reglas empresariales globales de canal cruzado que excluyan automáticamente los perfiles saturados de las campañas.
 Para crear [!UICONTROL fatigue rules], debe definir un número máximo de mensajes por perfil y seleccionar un periodo para el que se aplicará la regla. Durante la preparación, los perfiles se excluyen del mismo, si corresponde, en función de la cantidad de mensajes que ya hayan recibido.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)

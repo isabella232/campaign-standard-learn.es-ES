@@ -1,6 +1,6 @@
 ---
-title: Crear un correo postal
-description: Aprenda a crear un correo postal.
+title: Crear un correo directo
+description: Obtenga información sobre cómo crear un correo postal.
 feature: Direct Mail
 kt: 1430
 thumbnail: 23417.jpg
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# Cree un [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Crear un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-La variable [!UICONTROL Direct Mail] channel le permite extraer una lista segmentada de destinatarios para enviarla a una agencia o cargarla a un servidor SFTP.
+El [!UICONTROL Direct Mail] Este canal permite extraer una lista segmentada de destinatarios para enviarlos a una agencia o cargarlos en un servidor SFTP.
 
-En este vídeo se explica cómo configurar un [!UICONTROL Direct Mail] entrega y qué configuración se necesitan para poder añadir un perfil a un [!UICONTROL Direct Mail] entrega.
+En este vídeo se explica cómo configurar una [!UICONTROL Direct Mail] envío y qué configuración se requieren para poder agregar un perfil a una [!UICONTROL Direct Mail] envío.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
-## Cree un [!UICONTROL Direct Mail] dentro de un flujo de trabajo
+## Crear un [!UICONTROL Direct Mail] dentro de un flujo de trabajo
 
-El canal está disponible en la página principal y en la vista de flujo de trabajo para definir estrategias de marketing coherentes y multicanal. El siguiente flujo de trabajo de ejemplo incluye el [!UICONTROL Direct Mail activity].
+El canal está disponible en la página de inicio y en la vista de flujo de trabajo para definir estrategias de marketing coherentes y multicanal. El siguiente flujo de trabajo de ejemplo incluye la [!UICONTROL Direct Mail activity].
 
-![Imagen del flujo de trabajo](/help/assets/direct_mail_examplewf.png)
+![Imagen de flujo de trabajo](/help/assets/direct_mail_examplewf.png)
 
-Consulte la documentación del producto para obtener más información [acerca de Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consulte la documentación del producto para obtener más información [acerca del correo postal](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

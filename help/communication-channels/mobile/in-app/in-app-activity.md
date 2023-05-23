@@ -1,6 +1,6 @@
 ---
 title: Creación de un envío en la aplicación dentro de un flujo de trabajo
-description: Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en un flujo de trabajo.
+description: Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en un flujo de trabajo.
 feature: In App
 kt: 2500
 thumbnail: 26226.jpg
@@ -17,10 +17,10 @@ ht-degree: 9%
 
 ---
 
-# Cree un [!UICONTROL In-App] envío dentro de un flujo de trabajo
+# Crear un [!UICONTROL In-App] envío dentro de un flujo de trabajo
 
-La actividad Entrega en la aplicación se utiliza para automatizar el envío de un [!UICONTROL In-App] a una audiencia de destino calculada en el mismo flujo de trabajo.
+La actividad Entrega en la aplicación se utiliza para automatizar el envío de una [!UICONTROL In-App] Mensaje a una audiencia de destinatario calculada en el mismo flujo de trabajo.
 
-Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destino calculada en un flujo de trabajo.
+Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12&learn=on)

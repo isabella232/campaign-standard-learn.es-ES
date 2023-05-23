@@ -19,7 +19,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>Esta funcionalidad está actualmente en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 

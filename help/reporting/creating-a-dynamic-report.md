@@ -17,9 +17,9 @@ ht-degree: 32%
 
 ---
 
-# Cree un [!UICONTROL Dynamic Report]{#creating-a-report}
+# Crear un [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] son un entorno de forma libre flexible en el que puede explorar datos. Le permite combinar dimensiones, métricas e intervalos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
+Adobe Campaign [!UICONTROL Dynamic Reports] son un entorno flexible improvisado en el que puede explorar datos. Permite combinar dimensiones, métricas y rangos de tiempo en cualquier combinación, con desgloses y comparaciones ilimitados.
 
 Aprenda a crear un informe.
 

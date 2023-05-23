@@ -1,6 +1,6 @@
 ---
 title: Cambio de la dimensión de segmentación
-description: En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una audiencia de plataforma fuera de la tabla de perfil principal de Adobe Campaign Standard.
+description: En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una audiencia de Platform fuera de la tabla de perfil principal en Adobe Campaign Standard.
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Esta capacidad está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
+>Esta funcionalidad está en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-En este vídeo se explica cómo cambiar la dimensión de segmentación de un envío para un [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
+En este vídeo se explica cómo cambiar la dimensión de segmentación de una entrega para una [!UICONTROL Platform Audience] fuera de la tabla de perfil principal en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

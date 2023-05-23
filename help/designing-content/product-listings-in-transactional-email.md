@@ -1,6 +1,6 @@
 ---
 title: Configuración de listados de productos en correos electrónicos transaccionales
-description: Aprenda qué pasos son necesarios para configurar listas de productos en correos electrónicos transaccionales.
+description: Descubra los pasos necesarios para configurar las listas de productos en los correos electrónicos transaccionales.
 feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
@@ -19,9 +19,9 @@ ht-degree: 4%
 
 # Configurar [!UICONTROL product listings] en correos electrónicos transaccionales
 
-Puede configurar un correo electrónico de redireccionamiento que tenga una lista de productos desconocidos al diseñar el correo electrónico. Estos productos se pueden agregar desde la carga útil en tiempo de ejecución. Por ejemplo, puede enviar automáticamente un correo electrónico de abandono del carro de compras que enumere todos los productos que estaban en el carro de compras del usuario antes de que lo abandonaran, con una imagen, un precio y un vínculo a cada producto.
+Puede configurar un correo electrónico de resegmentación que tenga una lista de productos desconocidos al diseñar el correo electrónico. Estos productos se pueden añadir desde la carga útil en tiempo de ejecución. Por ejemplo, puede enviar automáticamente un correo electrónico de abandono de carro de compras que enumere todos los productos que había en el carro de compras del usuario antes de abandonarlo, e incluya una imagen, un precio y un vínculo a cada producto.
 
-En los siguientes vídeos se explican los pasos necesarios para configurar [!UICONTROL product listings] en [!UICONTROL transactional emails].
+En los siguientes vídeos se explican los pasos necesarios para configurar [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ En los siguientes vídeos se explican los pasos necesarios para configurar [!UIC
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
-## Paso 2: Añadir una lista de productos a una plantilla de mensaje transaccional
+## Paso 2: Adición de una lista de productos a una plantilla de mensaje transaccional
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 

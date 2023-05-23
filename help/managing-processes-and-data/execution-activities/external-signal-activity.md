@@ -1,6 +1,6 @@
 ---
-title: 'Actividad de señal externa: llame a un flujo de trabajo con parámetros'
-description: Aprenda a iniciar un flujo de trabajo desde otro para admitir recorridos de cliente más complejos, mientras puede supervisar y reaccionar mejor ante los problemas.
+title: 'Actividad de señal externa: Invoque un flujo de trabajo con parámetros'
+description: Aprenda a iniciar un flujo de trabajo desde otro para admitir recorridos de clientes más complejos, mientras puede supervisar y reaccionar mejor a los problemas.
 feature: Execution Activity
 kt: 2750
 thumbnail: 27249
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # [!UICONTROL External Signal activity] - Invocación de un flujo de trabajo con parámetros
 
-La variable [!UICONTROL External Signal activity] se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido de cliente en diferentes flujos de trabajo. Esta actividad puede iniciar un flujo de trabajo desde otro. La variable [!UICONTROL External Signal activity] puede llamar a un flujo de trabajo y pasar parámetros, como un nombre de audiencia a target, un nombre de archivo a importar o una parte del contenido del mensaje, de un flujo de trabajo a otro. También puede llamar a una API de REST para integrarla con sistemas externos, como un sistema de administración de contenido. Con la variable **Prueba** actividad, se pueden ejecutar pruebas en esta funcionalidad.
+El [!UICONTROL External Signal activity] se utiliza para organizar y orquestar diferentes procesos que forman parte del mismo recorrido del cliente en diferentes flujos de trabajo. Esta actividad puede iniciar un flujo de trabajo desde otro. El [!UICONTROL External Signal activity] Puede llamar a un flujo de trabajo y pasar parámetros, como un nombre de audiencia a target, un nombre de archivo para importar o una parte del contenido del mensaje, de un flujo de trabajo a otro. También puede llamar a una API de REST para integrarla con sistemas externos, como un sistema de administración de contenido. Con el **Prueba** actividad, las pruebas se pueden ejecutar en esta funcionalidad.
 
-Obtenga información sobre cómo configurar [!UICONTROL External Signal activity] para recibir parámetros** de un sistema externo, personalice un flujo de trabajo con parámetros externos y configure una actividad final para llamar a un flujo de trabajo con parámetros externos
+Obtenga información sobre cómo configurar [!UICONTROL External Signal activity] para recibir parámetros** de un sistema externo, personalice un flujo de trabajo con parámetros externos y configure una actividad final para llamar a un flujo de trabajo con los parámetros externos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)

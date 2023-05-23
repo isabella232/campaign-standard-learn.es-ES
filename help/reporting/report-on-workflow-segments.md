@@ -1,6 +1,6 @@
 ---
 title: Creación de un informe basado en segmentos de flujo de trabajo
-description: Obtenga información sobre cómo definir segmentos en el flujo de trabajo y ellos en informes dinámicos.
+description: Obtenga información sobre cómo definir segmentos en el flujo de trabajo y agregarlos a informes dinámicos.
 feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
@@ -19,9 +19,9 @@ ht-degree: 16%
 
 # Creación de un informe basado en segmentos de flujo de trabajo
 
-Después de crear un flujo de trabajo y filtrar la población a una audiencia objetivo diferente, puede medir la eficacia de las campañas de marketing en función de los segmentos definidos en este flujo de trabajo de objetivo.
+Después de crear un flujo de trabajo y filtrar la población en diferentes audiencias de destino, puede medir la eficacia de las campañas de marketing en función de los segmentos definidos en este flujo de trabajo de objetivo.
 
-Obtenga información sobre cómo definir segmentos en el flujo de trabajo y ellos en informes dinámicos.
+Obtenga información sobre cómo definir segmentos en el flujo de trabajo y agregarlos a informes dinámicos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 

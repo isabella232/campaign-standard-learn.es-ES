@@ -19,13 +19,13 @@ ht-degree: 37%
 
 # Creación de perfiles y audiencias: información general
 
-Adobe Campaign tiene dos tipos o perfiles:
+Adobe Campaign tiene dos tipos de perfiles:
 
 * Perfiles identificados
 * Perfiles de prueba
 
-Los perfiles agrupados según uno o varios criterios comunes se denominan **audiencias**.
+Se denominan perfiles agrupados según uno o varios criterios comunes **audiencias**.
 
-En este vídeo se explica cómo navegar a perfiles existentes y cómo crear perfiles y audiencias en Adobe Campaign Standard.
+En este vídeo se explica cómo navegar a perfiles existentes, y cómo crear perfiles y audiencias en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

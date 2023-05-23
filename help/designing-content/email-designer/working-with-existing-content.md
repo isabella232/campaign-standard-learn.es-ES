@@ -25,10 +25,10 @@ Obtenga información sobre cómo recuperar el contenido creativo de un sitio web
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
-## Hacer compatible el contenido del HTML existente {#making-existing-html-content-compatible}
+## Compatibilidad del contenido existente del HTML {#making-existing-html-content-compatible}
 
-El Diseñador de correo electrónico requiere etiquetado específico, que debe aplicarse para que el contenido del HTML estándar cargado en Adobe Campaign sea totalmente compatible y editable.
+El Diseñador de correo electrónico requiere un etiquetado específico, que debe aplicarse para que el contenido estándar del HTML cargado en Adobe Campaign sea totalmente compatible y editable.
 
-Puede encontrar la documentación detallada en el siguiente enlace:
+Puede encontrar la documentación detallada en el siguiente vínculo:
 
-[Conversión de contenido de HTML en una plantilla de Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversión del contenido del HTML en una plantilla del Diseñador de correo electrónico](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

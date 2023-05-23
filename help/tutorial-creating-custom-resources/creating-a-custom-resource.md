@@ -1,6 +1,6 @@
 ---
 title: Creación de un recurso personalizado
-description: Obtenga información sobre cómo crear un recurso personalizado llamado clientes.
+description: Aprenda a crear un recurso personalizado llamado clientes.
 feature: Data Model
 kt: 3000
 thumbnail: 27716.jpg

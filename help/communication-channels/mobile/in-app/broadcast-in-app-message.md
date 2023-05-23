@@ -1,6 +1,6 @@
 ---
 title: Publicación de un mensaje en la aplicación
-description: Obtenga información sobre cómo configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de la aplicación móvil.
+description: Aprenda a configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de su aplicación móvil.
 feature: In App
 kt: 2497
 thumbnail: 26199.jpg
@@ -19,15 +19,15 @@ ht-degree: 8%
 
 # Publicación de un mensaje en la aplicación
 
-Puede transmitir un mensaje en la aplicación dirigido a todos los usuarios de una aplicación móvil, independientemente de si Adobe Campaign tiene información de perfil.
+Puede difundir un mensaje en la aplicación dirigido a todos los usuarios de una aplicación móvil independientemente de si Adobe Campaign tiene su información de perfil.
 
-Algunos de los casos de uso pertinentes de esta categoría son:
+Algunos de los casos de uso relevantes en esta categoría son:
 
-* Envíe un tutorial de aplicación móvil a iniciadores de aplicación nuevos o
-* Anuncios de las nuevas versiones de funciones
+* Envíe un tutorial de aplicación móvil a los primeros iniciadores de aplicaciones o
+* Anuncios de nuevas versiones de funcionalidades
 
-Obtenga información sobre cómo configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de la aplicación móvil.
+Aprenda a configurar y utilizar la plantilla de difusión para dirigirse a todos los usuarios de su aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
 
-*Creación de un mensaje en la aplicación de difusión mediante una propiedad móvil SDKV5*
+*Creación de un mensaje en la aplicación de difusión mediante la propiedad móvil SDKV5*

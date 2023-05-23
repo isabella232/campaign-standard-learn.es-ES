@@ -20,11 +20,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->Esta capacidad está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>Esta funcionalidad está en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han incorporado de Adobe Campaign Standard en Adobe Experience Platform.
+Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han introducido desde Adobe Campaign Standard en Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Vinculación de recursos personalizados
-description: Aprenda a vincular dos recursos personalizados.
+description: Obtenga información sobre cómo vincular dos recursos personalizados.
 feature: Data Model
 kt: 3002
 thumbnail: 27712.jpg
@@ -17,10 +17,10 @@ ht-degree: 7%
 
 # Vinculación de recursos personalizados
 
-Aprenda a vincular dos recursos personalizados.
+Obtenga información sobre cómo vincular dos recursos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
 
 **Paso siguiente**
 
-[Rellenar recursos personalizados con datos](./populate-custom-resources-with-data.md)
+[Rellenado de recursos personalizados con datos](./populate-custom-resources-with-data.md)

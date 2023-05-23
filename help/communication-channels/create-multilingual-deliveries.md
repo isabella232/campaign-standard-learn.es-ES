@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Creación de un envío multilingüe de correo electrónico o SMS
 
-Adobe Campaign le permite simplificar las complejidades operativas del envío de campañas multilingües. Tanto los envíos de correo electrónico como los SMS se pueden configurar como multilingües, lo que le permite enviar el correo electrónico o el SMS en función del idioma preferido de un perfil.
+Adobe Campaign permite simplificar las complejidades operativas del envío de campañas multilingües. Tanto las entregas de correo electrónico como las entregas SMS pueden configurarse como multilingües, lo que le permite enviar el correo electrónico o SMS en función del idioma preferido de un perfil.
 
-En este vídeo se explica cómo crear un envío multilingüe basado en una plantilla en el ejemplo de una newsletter de correo electrónico. El enfoque mostrado en los vídeos se aplica tanto a los envíos de correo electrónico como de SMS.
+En este vídeo se explica cómo crear un envío multilingüe basado en una plantilla en el ejemplo de una newsletter por correo electrónico. El método mostrado en los vídeos se aplica tanto a los envíos de correo electrónico como de SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12&learn=on)

@@ -20,5 +20,5 @@ ht-degree: 100%
 + [Error técnico al ver un perfil](/help/troubleshoot/technical-error-while-viewing-profile.md)
 + [Error al conectar con Experience Manager](/help/troubleshoot/error-aem-connection.md)
 + [Cambio de la URL del recurso público de http a https](/help/troubleshoot/change-public-resource-url.md)
-+ [Obtención de un ID de evento y un ID de entrega descifrados](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
++ [Obtención de un ID de evento y un ID de envío descifrados](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 

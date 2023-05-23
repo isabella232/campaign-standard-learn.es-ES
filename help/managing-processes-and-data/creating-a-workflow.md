@@ -26,7 +26,7 @@ Los flujos de trabajo se pueden utilizar en diferentes contextos, como por ejemp
 * Importación de datos en la base de datos de Campaign
 * Procesos técnicos, como limpieza de bases de datos, recuperación de información de seguimiento, etc.
 
-Este vídeo muestra cómo crear y editar un flujo de trabajo en Adobe Campaign Standard.
+Este vídeo le muestra cómo crear y editar un flujo de trabajo en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 

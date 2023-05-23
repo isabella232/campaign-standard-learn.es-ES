@@ -17,10 +17,10 @@ ht-degree: 20%
 
 ---
 
-# Creación de una entrega de SMS{#creating-a-sms-delivery}
+# Creación de un envío SMS{#creating-a-sms-delivery}
 
-Obtenga información sobre cómo crear un envío de SMS en Adobe Campaign Standard. También puede configurar el envío de SMS en un flujo de trabajo mediante la actividad de envío de SMS .
+Obtenga información sobre cómo crear un envío SMS en Adobe Campaign Standard. También puede configurar el envío de SMS en un flujo de trabajo mediante la actividad de envío de SMS.
 
-La actividad envío de SMS se utiliza para automatizar el envío de SMS. La configuración de esta actividad es la misma que la configuración del envío único descrito en el vídeo.
+La actividad envío de SMS se utiliza para automatizar el envío de SMS. La configuración de esta actividad es la misma que la del envío único descrito en el vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

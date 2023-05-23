@@ -1,6 +1,6 @@
 ---
 title: Asignación de recursos personalizados
-description: Aprenda a asignar diferentes tipos de datos entre Adobe Campaign Standard (ACS) y Adobe Experience Platform (AEP)
+description: Obtenga información sobre cómo asignar diferentes tipos de datos entre Adobe Campaign Standard (ACS) y Adobe Experience Platform (AEP)
 feature: People Core Service Integration, Profiles
 kt: 2828
 thumbnail: 27231.jpg
@@ -19,12 +19,12 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Esta capacidad está actualmente en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
+>Esta funcionalidad está actualmente en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-Aprenda a asignar diferentes tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
+Obtenga información sobre cómo asignar diferentes tipos de datos entre Adobe Campaign Standard y Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
 
-Consulte la documentación del producto para obtener más información sobre la [Definición de la asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consulte la documentación del producto para obtener más información sobre la [Definición de asignación](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

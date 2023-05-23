@@ -1,6 +1,6 @@
 ---
 title: Configuración de la vista móvil en el Diseñador de correo electrónico
-description: '"Aprenda a ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo para la visualización móvil".'
+description: '"Aprenda a ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo de la pantalla móvil".'
 feature: Email Design
 kt: 2423
 thumbnail: 25919.jpg
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Configure la vista móvil en la [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
-En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico editando por separado todas las opciones de estilo para la visualización móvil.
+En este vídeo se explica cómo ajustar el diseño interactivo de un correo electrónico mediante la edición por separado de todas las opciones de estilo de la pantalla móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Activación de audiencias de Adobe Experience Platform en un flujo de trabajo
-description: En este vídeo se explica cómo activar la Audiencia de consulta de servicios de datos dentro de un flujo de trabajo mediante la actividad "Leer audiencia".
+description: En este vídeo se explica cómo activar la Audiencia de consulta de servicios de datos en un flujo de trabajo mediante la actividad Leer audiencia.
 feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
@@ -17,18 +17,18 @@ ht-degree: 6%
 
 ---
 
-# Activar audiencias de Adobe Experience Platform en un flujo de trabajo [!UICONTROL Adobe Experience Platform Audiences] en un flujo de trabajo de marketing
+# Activación de audiencias de Adobe Experience Platform en un flujo de trabajo [!UICONTROL Adobe Experience Platform Audiences] en un flujo de trabajo de marketing
 
 >[!NOTE]
 >
->Esta capacidad está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
+>Esta funcionalidad está en versión beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso. [!UICONTROL Audience Destinations] se basa en Adobe Experience Platform y requiere una configuración específica.
 >
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 
-En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo mediante la función [!UICONTROL Read Audience] actividad.
+En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo utilizando [!UICONTROL Read Audience] actividad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 
-*Activación de una audiencia de Adobe Experience Platform en un flujo de trabajo (2:37 min)*
+*Activación de una audiencia de Adobe Experience Platform en un flujo de trabajo (02:37 min)*
 
-Consulte la documentación del producto sobre cómo [Ingesta de audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Consulte la documentación del producto para saber cómo [ingesta de audiencias de Adobe Experience Platform en Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

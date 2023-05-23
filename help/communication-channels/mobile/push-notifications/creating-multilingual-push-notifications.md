@@ -1,6 +1,6 @@
 ---
 title: Creación de una notificación push multilingüe
-description: Aprenda a crear una notificación push multilingüe.
+description: Obtenga información sobre cómo crear una notificación push multilingüe.
 feature: Push
 kt: 1375
 thumbnail: 23304.jpg
@@ -19,6 +19,6 @@ ht-degree: 33%
 
 # Creación de una notificación push multilingüe
 
-Aprenda a crear una notificación push multilingüe en Adobe Campaign Standard.
+Obtenga información sobre cómo crear una notificación push multilingüe en Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12&learn=on)

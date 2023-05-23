@@ -13,7 +13,7 @@ level: Experienced
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 67%
+ht-degree: 72%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 67%
 Con la tecnología [!UICONTROL Journey AI], [!DNL Adobe Campaign] puede analizar y predecir las tasas abiertas, los tiempos de envío óptimos y la probable reproducción basada en las métricas de participación históricas.
 
 >[!CAUTION]
->Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Para obtener más información, póngase en contacto con su representante del Adobe.
+>Esta capacidad no está disponible de forma predeterminada como parte del producto. La implementación requiere la participación de Adobe Consulting. Para obtener más información, póngase en contacto con su representante de Adobe.
 
 [!UICONTROL Predictive engagement scoring] predice la probabilidad de que un destinatario se involucre con un mensaje y la probabilidad de exclusión (cancelar la suscripción) en los próximos siete días después del siguiente envío de correo electrónico. Las probabilidades se dividen además en bloques según el riesgo específico de que no se involucre, medio o bajo. El modelo también proporciona la clasificación del percentil de riesgo para que los clientes entiendan dónde está la clasificación de un determinado cliente en relación con otros.
 

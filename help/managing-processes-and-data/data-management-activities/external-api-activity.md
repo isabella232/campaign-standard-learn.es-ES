@@ -1,6 +1,6 @@
 ---
 title: Configuración y ejecución de un flujo de trabajo con la actividad de API externa
-description: Obtenga información sobre cómo llamar a un extremo de API de REST externa para extraer datos de personalización de un sistema de terceros a la campaña.
+description: Aprenda a llamar a un extremo externo de la API de REST para extraer datos de personalización de un sistema de terceros para incluirlos en la campaña.
 feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
@@ -19,7 +19,7 @@ ht-degree: 49%
 
 # Configure y ejecute un flujo de trabajo con [!UICONTROL External API activity]
 
-[!UICONTROL External API activity] es una [!UICONTROL Data Management activity]. Le permite llamar a un extremo de API de REST externa. El propósito de esta actividad es obtener datos de personalización de un sistema de terceros en la campaña.
+[!UICONTROL External API activity] es una [!UICONTROL Data Management activity]. Le permite llamar a un extremo de API de REST externa. El propósito de esta actividad es obtener datos de personalización de un sistema de terceros para su campaña.
 
 Algunos ejemplos de casos prácticos son:
 
@@ -36,4 +36,4 @@ Este vídeo muestra el uso de [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->La actividad está diseñada para obtener datos de toda la campaña, no para recuperar información específica para cada perfil, ya que esto puede resultar en la transferencia de grandes cantidades de datos. Si el caso de uso requiere información específica del perfil, se recomienda utilizar la actividad Transferir archivo .
+>La actividad está diseñada para obtener datos de toda la campaña, no para recuperar información específica para cada perfil, ya que esto puede conllevar transferir grandes cantidades de datos. Si el caso de uso requiere información específica del perfil, se recomienda utilizar la actividad Transferir archivo.

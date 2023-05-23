@@ -19,13 +19,13 @@ ht-degree: 43%
 
 # Administración de servicios y suscripciones{#managing-services-and-subscriptions}
 
-Adobe Campaign le permite crear y administrar boletines informativos y comunicaciones entre canales mediante un conjunto de servicios. Los mensajes solo se pueden enviar a perfiles suscritos al servicio (opción de inclusión). Estos perfiles se identifican mediante un filtro específico al crear un mensaje.
+Adobe Campaign le permite crear y administrar boletines informativos y comunicaciones entre canales mediante un conjunto de servicios. Los mensajes solo se pueden enviar a perfiles suscritos al servicio (inclusión). Estos perfiles se identifican mediante un filtro específico al crear un mensaje.
 
 Se pueden configurar mecanismos de suscripción para ofrecer a sus clientes la posibilidad de suscribirse a estos servicios, especialmente a través de correos electrónicos y páginas de aterrizaje.
 
 Cada servicio incluye:
 
-* Mecanismos de suscripción (inclusión) y baja (exclusión).
+* Mecanismos de suscripción (inclusión) y cancelación de suscripción (exclusión).
 * Mecanismos de confirmación de suscripción o cancelación de suscripción.
 * Un historial de suscripciones.
 

@@ -10,16 +10,14 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Crear un [!UICONTROL In-App] envío dentro de un flujo de trabajo
-
-La actividad Entrega en la aplicación se utiliza para automatizar el envío de una [!UICONTROL In-App] Mensaje a una audiencia de destinatario calculada en el mismo flujo de trabajo.
 
 Aprenda a utilizar la actividad Entrega en la aplicación para automatizar el envío de un mensaje en la aplicación a una audiencia de destinatario calculada en un flujo de trabajo.
 

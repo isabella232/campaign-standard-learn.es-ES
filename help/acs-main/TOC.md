@@ -2,10 +2,10 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [Creación de una notificación push multilingüe](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [Tutorial: Introducción a las notificaciones push para Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=es)
       + Mensajes en la aplicación {#in-app}
-         + [Introducción a los mensajes en la aplicación](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configuración de eventos](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Publicación de un mensaje en la aplicación](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Usuarios destinatarios según su perfil de Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)

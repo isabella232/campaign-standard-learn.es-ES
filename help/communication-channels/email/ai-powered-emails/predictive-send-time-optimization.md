@@ -2,7 +2,7 @@
 title: Optimización del tiempo de envío predictivo
 description: Comprender qué flujos de trabajo son necesarios para sincronizar datos entre Adobe Campaign y el modelo del recorrido de IA. Obtener información sobre cómo ver las puntuaciones de tiempo de envío a nivel de perfil individual y cómo ejecutar los envíos de correo electrónico mediante una fórmula de tiempo de envío.
 feature: Send Time Optimization
-kt: 6274
+jira: KT-6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 

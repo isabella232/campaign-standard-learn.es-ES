@@ -2,7 +2,7 @@
 title: Introducción al Diseñador de correo electrónico
 description: Entienda la funcionalidad general del Diseñador de correo electrónico y cómo diseñar un correo electrónico desde cero.
 feature: Email Design
-kt: 2391
+jira: KT-2391
 thumbnail: 25912.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: TM
 exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 

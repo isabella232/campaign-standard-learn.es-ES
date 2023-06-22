@@ -2,7 +2,7 @@
 title: Puntuación de participación predictiva
 description: Aprenda a ver las puntuaciones de participación en el nivel de perfil individual, utilice puntuaciones para dirigirse a usuarios comprometidos y suprimir usuarios fatigados, y a crear reglas de tipología para administrar la fatiga de los clientes.
 feature: Predictive Engagement Scoring
-kt: 6275
+jira: KT-6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 72%

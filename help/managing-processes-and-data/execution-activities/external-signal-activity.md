@@ -2,7 +2,7 @@
 title: 'Actividad de señal externa: Invoque un flujo de trabajo con parámetros'
 description: Aprenda a iniciar un flujo de trabajo desde otro para admitir recorridos de clientes más complejos, mientras puede supervisar y reaccionar mejor a los problemas.
 feature: Execution Activity
-kt: 2750
+jira: KT-2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

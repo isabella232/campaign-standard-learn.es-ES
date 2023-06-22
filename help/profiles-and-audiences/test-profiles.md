@@ -2,7 +2,7 @@
 title: Creación de un perfil de prueba
 description: Obtenga información sobre cómo dirigirse a destinatarios que no coinciden con los criterios de objetivo definidos para detectar cualquier uso fraudulento de la base de datos de destinatarios o para asegurarse de que los correos electrónicos llegan a las bandejas de entrada.
 feature: Test Profiles
-kt: 1810
+jira: KT-1810
 thumbnail: 24094.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 27%

@@ -2,7 +2,7 @@
 title: Configuración y ejecución de un flujo de trabajo con la actividad de API externa
 description: Aprenda a llamar a un extremo externo de la API de REST para extraer datos de personalización de un sistema de terceros para incluirlos en la campaña.
 feature: Data Management Activity
-kt: 2764
+jira: KT-2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 49%

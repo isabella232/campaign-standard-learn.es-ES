@@ -2,7 +2,7 @@
 title: Configuración de listados de productos en correos electrónicos transaccionales
 description: Descubra los pasos necesarios para configurar las listas de productos en los correos electrónicos transaccionales.
 feature: Transactional Messaging, Email
-kt: 1728
+jira: KT-1728
 thumbnail: 25915
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 4%

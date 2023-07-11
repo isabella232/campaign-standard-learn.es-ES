@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias de clientes de distintos canales y cree un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales de Campaign Standard
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '581'
+ht-degree: 100%
 
 ---
 
@@ -87,14 +87,14 @@ ht-degree: 0%
       + [Actividad de señal externa](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Actividades de administración de datos {#data-management-activities}
       + [Actividad de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Informes y monitorización {#reporting}
++ Informe y monitorización {#reporting}
    + [Exploración de informes](/help/getting-started/exploring-reports.md)
    + [Creación de un informe dinámico](/help/reporting/creating-a-dynamic-report.md)
    + [Creación de un informe basado en atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creación de un informe basado en segmentos de flujo de trabajo](/help/reporting/report-on-workflow-segments.md)
-   + [Monitorización de una entrega](/help/reporting/monitor-a-delivery.md)
+   + [Monitorización de un envío](/help/reporting/monitor-a-delivery.md)
 + Integración con otras soluciones {#integrations}
-   + [Integración de Target con Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [Integración de público destinatario con Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=es)
    + [Seguimiento del éxito de los envíos en Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Uso de activadores para mensajes transaccionales {#triggers}
       + [Información general](/help/integrations/using-triggers-for-transactional-messaging-overview.md)

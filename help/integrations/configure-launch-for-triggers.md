@@ -11,10 +11,10 @@ team: TM
 hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integración" type="positive"
-source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
+source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Obtenga información sobre cómo recopilar datos de Adobe Experience Platform y añadir las propiedades necesarias al sitio web para probar la configuración.
 
->[!NNota]
+>[!IMPORTANT]
 >
 > Tenga en cuenta que Launch ahora es la función Etiquetas de Adobe Experience Platform. Se encuentra en **Recopilaciones de datos de Adobe Experience Platform**.
 

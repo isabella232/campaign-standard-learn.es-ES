@@ -2,12 +2,14 @@
 title: 'PASO 4: Definición de pushidentifier'
 description: '**pushIdentifier** es una cadena que contiene el token del dispositivo para las notificaciones push. Es el mismo token que Firebase envía y que se pasa al SDK mediante el método MobileCore.setPushIdentifier.'
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

@@ -2,13 +2,15 @@
 title: 'Paso 2: Integración del SDK de Mobile'
 description: En esta parte, integramos la aplicación de Android con el SDK móvil. Para integrar el SDK móvil con la aplicación de Android
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 3%

@@ -112,7 +112,7 @@ A continuación se muestra una tabla sencilla que le ayudará durante la auditor
 
 Por ejemplo, si envía correos electrónicos a los clientes diariamente, deberían haber interactuado con uno de esos correos electrónicos durante el último mes para que se consideren activos y comprometidos. Por el contrario, si envía un correo electrónico mensual a los clientes y estos no han interactuado en un plazo de 9 a 14 meses, se pueden considerar inactivos.
 
-Para los usuarios inactivos y con retraso, considere la posibilidad de consultar la fecha en la que se suscribió el usuario para determinar su nivel de participación. Por ejemplo, ¿se suscribieron en la fecha de una competencia u otra campaña de marketing? ¿Se registraron en una ventana emergente del sitio web con una oferta de descuento? Una vez que haya identificado a sus usuarios inactivos y caducados, es importante cambiar su estrategia para intentar mejorar su satisfacción y convertirlos de nuevo en un suscriptor activo.
+Para los usuarios que han caducado o están inactivos, considere la posibilidad de consultar la fecha en la que el usuario se suscribió para determinar su nivel de participación. Por ejemplo, ¿se suscribieron en la fecha de una competencia u otra campaña de marketing? ¿Se registraron en una ventana emergente del sitio web con una oferta de descuento? Una vez que haya identificado a sus usuarios inactivos y caducados, es importante cambiar su estrategia para intentar mejorar su satisfacción y convertirlos de nuevo en un suscriptor activo.
 
 ### 3. Aplicar estrategias de renovación de la participación
 

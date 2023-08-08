@@ -24,15 +24,15 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 * **[Programación de mensajes](/help/communication-channels/email/schedule-messages.md)**
 
-   *Obtenga información sobre cómo programar un envío de correo electrónico.*
+  *Obtenga información sobre cómo programar un envío de correo electrónico.*
 
 * **[Envío de una prueba](/help/communication-channels/email/send-a-proof.md)**
 
-   *Obtenga información sobre cómo probar un mensaje de correo electrónico antes de enviarlo a los destinatarios finales.*
+  *Obtenga información sobre cómo probar un mensaje de correo electrónico antes de enviarlo a los destinatarios finales.*
 
 * **[Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Obtenga información sobre diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.*
+  *Obtenga información sobre diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.*
 
 </div>
 

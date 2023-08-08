@@ -1,5 +1,5 @@
 ---
-title: Monitorización de una entrega
+title: Monitorización de un envío
 description: Comprenda los registros de mensajes, los registros de trabajos y los registros de envío.
 feature: Monitoring
 role: User
@@ -16,7 +16,7 @@ ht-degree: 27%
 
 ---
 
-# Monitorización de una entrega
+# Monitorización de un envío
 
 Comprenda los registros de mensajes, los registros de trabajos y los registros de envío.
 

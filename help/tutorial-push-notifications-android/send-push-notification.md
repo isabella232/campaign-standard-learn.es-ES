@@ -24,7 +24,7 @@ Ahora necesitamos crear y enviar un [!UICONTROL Push Notification] uso de Adobe 
 * Haga clic en **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Seleccionar **[!UICONTROL Send push to app subscribers(mobileApp)]** y haga clic en Siguiente
 * Seleccione la aplicación móvil adecuada en el **[!UICONTROL Associate a Mobile App to a delivery]** y haga clic en **[!UICONTROL Next]**
-* Haga clic en la etiqueta de recuento y debería devolver un valor bueno a 0. Haga clic en **[!UICONTROL Next]**
+* Haga clic en la etiqueta count y debería devolver un valor mayor que 0. Haga clic en **[!UICONTROL Next]**
 * Proporcionar una clave [!UICONTROL Message title] y [!UICONTROL Message body] y haga clic en **[!UICONTROL Create]**.
 * Haga clic en **[!UICONTROL Prepare]**. Una vez finalizada la preparación, haga clic en **[!UICONTROL Confirm]** para enviar el mensaje.
 

@@ -4,7 +4,7 @@ user-guide-description: Diseñe experiencias multicanal para los clientes y cree
 breadcrumb-title: Tutoriales de Campaign Standard
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 100%
 

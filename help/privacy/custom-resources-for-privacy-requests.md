@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 99%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Al configurar Adobe Campaign Standard para administrar solicitudes de privacidad, debe asegurarse de que los datos personalizados vinculados a un perfil se borren al eliminar el perfil. En este vídeo se explica cómo modificar los recursos personalizados para cumplir con este requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
 
 >[!NOTE]
 >

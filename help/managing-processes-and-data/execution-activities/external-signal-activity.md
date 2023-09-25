@@ -10,9 +10,9 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ El [!UICONTROL External Signal activity] se utiliza para organizar y orquestar d
 
 Obtenga información sobre cómo configurar [!UICONTROL External Signal activity] para recibir parámetros** de un sistema externo, personalice un flujo de trabajo con parámetros externos y configure una actividad final para llamar a un flujo de trabajo con los parámetros externos
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

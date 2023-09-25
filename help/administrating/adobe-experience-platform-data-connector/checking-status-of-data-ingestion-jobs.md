@@ -11,10 +11,10 @@ role: User
 level: Experienced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 23%
+source-wordcount: '118'
+ht-degree: 22%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 23%
 
 Obtenga información sobre cómo comprobar el estado de un trabajo de inserción de datos y si los datos se han introducido desde Adobe Campaign Standard en Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 
 ## Recursos adicionales
 

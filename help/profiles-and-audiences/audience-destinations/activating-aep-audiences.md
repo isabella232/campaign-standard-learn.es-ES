@@ -10,9 +10,9 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '125'
 ht-degree: 6%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 6%
 
 En este vídeo se explica cómo activar el [!UICONTROL Data Services Query Audience] dentro de un flujo de trabajo utilizando [!UICONTROL Read Audience] actividad.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Activación de una audiencia de Adobe Experience Platform en un flujo de trabajo (02:37 min)*
 

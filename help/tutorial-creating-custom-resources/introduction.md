@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Para poder crear recursos personalizados, necesita tener los derechos de usuario
 
 Para utilizar información adicional sobre lo que ha pedido un cliente, de modo que esté disponible para fines de marketing y remarketing, el modelo de datos de [!DNL Campaign] debe ampliarse añadiendo tablas personalizadas. Para este caso de uso, se debe crear un cliente y una tabla de pedidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 Este tutorial explica cómo:
 

@@ -2,8 +2,9 @@
 user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Diseñe experiencias multicanal para los clientes y cree un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal.
 breadcrumb-title: Tutoriales de Campaign Standard
-source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
-workflow-type: tm+mt
+auto-video-transcripts: true
+source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 

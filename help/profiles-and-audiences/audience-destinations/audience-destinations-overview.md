@@ -3,7 +3,6 @@ title: 'Audience Destinations: información general'
 description: Aprenda a utilizar las audiencias de Adobe Experience Platform en Adobe Campaign Standard
 feature: People Core Service Integration
 jira: KT-2755
-thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
@@ -11,10 +10,12 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
+hide: true
+hidefromtoc: true
+source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 4%
+source-wordcount: '125'
+ht-degree: 6%
 
 ---
 
@@ -29,9 +30,7 @@ ht-degree: 4%
 >Póngase en contacto con [!UICONTROL Adobe Customer Support] si planea implementar esta capacidad.
 >
 
-En este tutorial se explica cómo utilizar los datos de perfil centralizados y consolidados de Adobe Experience Platform para campañas de marketing en Adobe Campaign Standard.
-
-El [!UICONTROL Audiences] dentro de Adobe Campaign Standard le permite crear segmentos utilizando datos de la variable [Adobe Experience Platform - Servicios de datos](https://developer.adobe.com/apis/experienceplatform/home/services.html) que vive en el [Perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+El módulo Audiencias de Adobe Campaign Standard le permite crear segmentos utilizando datos de la versión de Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Los siguientes tutoriales en vídeo le guiarán por los diferentes pasos:
 

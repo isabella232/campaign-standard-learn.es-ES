@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '226'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign ofrece a los responsables del tratamiento de datos tres métodos para realizar solicitudes de acceso y eliminación en relación con la información personal identificable de conformidad con las leyes sobre privacidad, como el RGPD (Reglamento General de Protección de Datos) y la CCPA (Ley de Privacidad del Consumidor de California):
 
-* **A través de la integración del Servicio principal de privacidad:** Las solicitudes de privacidad enviadas desde [!UICONTROL Privacy Service] a todas las soluciones de Experience Cloud las gestiona Campaign de forma automática a través de un flujo de trabajo dedicado.
+* **A través de la integración del Servicio principal de privacidad:** las solicitudes de privacidad enviadas desde [!UICONTROL Privacy Service] a todas las soluciones de Experience Cloud las gestiona Campaign de forma automática a través de un flujo de trabajo dedicado. 
 
 * **A través de la API:** Adobe Campaign proporciona una API que permite el procesamiento automático de solicitudes de privacidad mediante REST
 

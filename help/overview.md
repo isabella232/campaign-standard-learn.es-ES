@@ -5,9 +5,9 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
-workflow-type: ht
-source-wordcount: '260'
+source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -15,24 +15,6 @@ ht-degree: 100%
 # Adobe Campaign Standard: información general
 
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
-
-<div id="whats-new-section">
-
-## Novedades
-
-* **[Programación de mensajes](/help/communication-channels/email/schedule-messages.md)**
-
-  *Obtenga información sobre cómo programar un envío de correo electrónico.*
-
-* **[Envío de una prueba](/help/communication-channels/email/send-a-proof.md)**
-
-  *Obtenga información sobre cómo probar un mensaje de correo electrónico antes de enviarlo a los destinatarios finales.*
-
-* **[Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)**
-
-  *Obtenga información sobre diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

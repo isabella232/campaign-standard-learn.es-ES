@@ -3,17 +3,17 @@ user-guide-title: Tutoriales de Adobe Campaign Standard
 user-guide-description: Vídeos y tutoriales para Adobe Campaign Standard.
 breadcrumb-title: Tutoriales de Campaign Standard
 auto-video-transcripts: true
-source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
+source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 98%
+source-wordcount: '517'
+ht-degree: 100%
 
 ---
 
 
 # Tutoriales de Adobe Campaign Standard {#tutorials}
 
-+ [Adobe Campaign Standard](/help/overview.md)
++ [Tutoriales de Adobe Campaign Standard](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Introducción a la IU](/help/getting-started/getting-started-with-the-ui.md)
